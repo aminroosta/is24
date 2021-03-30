@@ -1,0 +1,314 @@
+[
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "127224935",
+    "cold": "1.250 €",
+    "meter": "76 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "32 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Langhansstrasse 79, Weißensee, Berlin",
+    "id": "127220694",
+    "cold": "1.500 €",
+    "meter": "95,58 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 15 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 15 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Voßstraße 20, Mitte (Ortsteil), Berlin",
+    "id": "127219108",
+    "cold": "2.256,29 €",
+    "meter": "150 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25a, Lichtenberg (Ortsteil), Berlin",
+    "id": "126948757",
+    "cold": "669 €",
+    "meter": "29,71 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 34 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 34 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Wichertstraße 51, Prenzlauer Berg, Berlin",
+    "id": "126399441",
+    "cold": "2.117,50 €",
+    "meter": "77 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Emmentaler Straße 118, Reinickendorf (Ortsteil), Berlin",
+    "id": "125725187",
+    "cold": "1.250 €",
+    "meter": "57 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Mollnerweg 24, Buckow, Berlin",
+    "id": "125666719",
+    "cold": "335,34 €",
+    "meter": "62,91 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 43 min  typically   ",
+      "1 hr 1 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 43 min  typically   ",
+      "1 hr 1 min"
+    ]
+  },
+  {
+    "address": "Spreestraße 8a, Niederschöneweide, Berlin",
+    "id": "125642755",
+    "cold": "389,34 €",
+    "meter": "18,54 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 43 min  typically   ",
+      "46 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 43 min  typically   ",
+      "46 min"
+    ]
+  },
+  {
+    "address": "Schmargendorf, Berlin",
+    "id": "123294850",
+    "cold": "3.432 €",
+    "meter": "176 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 31 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "121705038",
+    "cold": "1.275 €",
+    "meter": "66,16 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Dörpfeldstraße 1, Adlershof, Berlin",
+    "id": "118542152",
+    "cold": "1.299,78 €",
+    "meter": "73,6 m²",
+    "transit": [
+      " 46 min  typically   ",
+      "46 min",
+      "47 min"
+    ],
+    "cycling": [
+      " 46 min  typically   ",
+      "46 min",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Thulestraße 15, Pankow (Ortsteil), Berlin",
+    "id": "111261290",
+    "cold": "750 €",
+    "meter": "36,5 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 12 min  typically   ",
+      "25 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 12 min  typically   ",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Rosenplüterweg 31, Frohnau, Berlin",
+    "id": "111574039",
+    "cold": "545 €",
+    "meter": "52,04 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 37 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 37 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Waldowstraße 5, Niederschönhausen, Berlin",
+    "id": "127190036",
+    "cold": "840 €",
+    "meter": "64,95 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 23 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 23 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Charlottenstrasse 63, Niederschönhausen, Berlin",
+    "id": "64795983",
+    "cold": "580 €",
+    "meter": "64 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Kamminer Straße 4, Charlottenburg, Berlin",
+    "id": "111806156",
+    "cold": "1.000 €",
+    "meter": "45 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Dietrich-Bonhoeffer-Straße 12, Prenzlauer Berg, Berlin",
+    "id": "127325112",
+    "cold": "1.300 €",
+    "meter": "100 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 17 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 17 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Goldammerstraße 2, Gropiusstadt, Berlin",
+    "id": "125941375",
+    "cold": "400 €",
+    "meter": "32 m²",
+    "transit": [
+      " 41 min  typically   ",
+      " 47 min  typically   ",
+      "55 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      " 47 min  typically   ",
+      "55 min"
+    ]
+  },
+  {
+    "address": "Babelsberger Straße 48, Wilmersdorf, Berlin",
+    "id": "126967379",
+    "cold": "2.088 €",
+    "meter": "150,27 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 30 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 30 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Schnellerstraße 101, Niederschöneweide, Berlin",
+    "id": "126780792",
+    "cold": "730 - 2.550 €",
+    "meter": "43,00 - 133,00 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 46 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 46 min  typically   ",
+      "49 min"
+    ]
+  }
+]

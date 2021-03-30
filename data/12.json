@@ -1,0 +1,286 @@
+[
+  {
+    "address": "Neue Bahnhofstraße 36, Friedrichshain, Berlin",
+    "id": "126906149",
+    "cold": "2.705,89 €",
+    "meter": "159,17 m²",
+    "transit": [
+      " 27 min  typically   ",
+      "25 min",
+      "27 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      "25 min",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Linkstraße 6, Tiergarten, Berlin",
+    "id": "126797326",
+    "cold": "2.250 €",
+    "meter": "151,01 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Markgrafenstraße 42, Mitte (Ortsteil), Berlin",
+    "id": "126795505",
+    "cold": "3.850 €",
+    "meter": "209 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Brixplatz 11, Westend, Berlin",
+    "id": "126729899",
+    "cold": "1.959,45 €",
+    "meter": "142 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 24 min  typically   ",
+      "46 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126539531",
+    "cold": "2.200 €",
+    "meter": "133 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Am Köllnischen Park 14, Mitte (Ortsteil), Berlin",
+    "id": "126506649",
+    "cold": "1.290 €",
+    "meter": "54 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wuhlestraße 8, Biesdorf, Berlin",
+    "id": "126501473",
+    "cold": "805,50 €",
+    "meter": "80,63 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 41 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 41 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Wuhlestraße 6, Biesdorf, Berlin",
+    "id": "126501011",
+    "cold": "552,76 €",
+    "meter": "85,04 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 41 min  typically   ",
+      "57 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 41 min  typically   ",
+      "57 min"
+    ]
+  },
+  {
+    "address": "Falkenhagener Straße 5, Spandau (Ortsteil), Berlin",
+    "id": "126468714",
+    "cold": "750 €",
+    "meter": "27,6 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Falkenhagener Straße 5, Spandau (Ortsteil), Berlin",
+    "id": "126468479",
+    "cold": "650 €",
+    "meter": "26,85 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Dahlmannstraße 9, Charlottenburg, Berlin",
+    "id": "126452562",
+    "cold": "4.500 €",
+    "meter": "165 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Wilmersdorf, Berlin",
+    "id": "126400713",
+    "cold": "3.750 €",
+    "meter": "167 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Pasewalker Str. 101, Französisch Buchholz, Berlin",
+    "id": "125633090",
+    "cold": "944 €",
+    "meter": "59 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Chausseestraße 37, Mitte (Ortsteil), Berlin",
+    "id": "125631070",
+    "cold": "3.200 €",
+    "meter": "107 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      "15 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wadzeckstraße 4, Mitte (Ortsteil), Berlin",
+    "id": "125498097",
+    "cold": "491 €",
+    "meter": "24,55 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 12 min  typically   ",
+      "21 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 12 min  typically   ",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Kastanienallee 00, Mitte (Ortsteil), Berlin",
+    "id": "125468779",
+    "cold": "5.850 €",
+    "meter": "145 m²"
+  },
+  {
+    "address": "Kastanienallee 00, Mitte (Ortsteil), Berlin",
+    "id": "125467892",
+    "cold": "5.250 €",
+    "meter": "175 m²"
+  },
+  {
+    "address": "Gerichtstraße 66, Gesundbrunnen, Berlin",
+    "id": "125330553",
+    "cold": "428 €",
+    "meter": "18,2 m²",
+    "transit": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ],
+    "cycling": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ]
+  },
+  {
+    "address": "Gerichtstraße 67, Gesundbrunnen, Berlin",
+    "id": "125330266",
+    "cold": "505 €",
+    "meter": "19,5 m²",
+    "transit": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wexstraße 13, Wilmersdorf, Berlin",
+    "id": "124907119",
+    "cold": "435 €",
+    "meter": "19,51 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 28 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      "36 min",
+      "39 min",
+      "38 min"
+    ]
+  }
+]

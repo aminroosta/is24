@@ -1,0 +1,298 @@
+[
+  {
+    "address": "Rapstedter Weg 40, Lichtenrade, Berlin",
+    "id": "126771800",
+    "cold": "1.500 €",
+    "meter": "100 m²",
+    "transit": [
+      " 45 min  typically   ",
+      "47 min",
+      "52 min"
+    ],
+    "cycling": [
+      " 45 min  typically   ",
+      "47 min",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Wilmersdorf, Berlin",
+    "id": "126763699",
+    "cold": "1.500 €",
+    "meter": "65 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Bornholmerstr 80/80a, Prenzlauer Berg, Berlin",
+    "id": "126758867",
+    "cold": "2.400 €",
+    "meter": "110,52 m²",
+    "transit": [
+      " 19 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Buckow, Berlin",
+    "id": "126752717",
+    "cold": "1.000 €",
+    "meter": "78 m²",
+    "transit": [
+      " 40 min  typically   ",
+      " 41 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 40 min  typically   ",
+      " 41 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Potsdamer Str 72, Tiergarten, Berlin",
+    "id": "126727293",
+    "cold": "750 €",
+    "meter": "28 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 23 min  typically   ",
+      "29 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Vorstraße 32, Mitte (Ortsteil), Berlin",
+    "id": "126719890",
+    "cold": "2.275,02 €",
+    "meter": "126,39 m²"
+  },
+  {
+    "address": "Straßburger Straße 40, Spandau (Ortsteil), Berlin",
+    "id": "126697620",
+    "cold": "999 - 1.800 €",
+    "meter": "65,00 - 110,00 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 33 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      " 33 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Landhausstraße 12, Wilmersdorf, Berlin",
+    "id": "126697006",
+    "cold": "524,01 €",
+    "meter": "72,55 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Prenzlauer Berg, Berlin",
+    "id": "126656060",
+    "cold": "690 €",
+    "meter": "44,16 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Schmöckwitz, Berlin",
+    "id": "126641317",
+    "cold": "1.300 €",
+    "meter": "70 m²",
+    "transit": [
+      " 55 min  typically   ",
+      " 57 min  typically   ",
+      "1 hr 5 min"
+    ],
+    "cycling": [
+      " 55 min  typically   ",
+      " 57 min  typically   ",
+      "1 hr 5 min"
+    ]
+  },
+  {
+    "address": "Kraetkestraße 39, Friedrichsfelde, Berlin",
+    "id": "126633303",
+    "cold": "681,24 €",
+    "meter": "56,77 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 40 min  typically   ",
+      "43 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      " 40 min  typically   ",
+      "43 min"
+    ]
+  },
+  {
+    "address": "Oberschöneweide, Berlin",
+    "id": "126596311",
+    "cold": "1.960 €",
+    "meter": "140 m²",
+    "transit": [
+      " 39 min  typically   ",
+      "48 min",
+      "42 min"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      "48 min",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Karlsruher Str. 18, Halensee, Berlin",
+    "id": "126594713",
+    "cold": "890 €",
+    "meter": "28 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 31 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 31 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Niederschönhausen, Berlin",
+    "id": "126594453",
+    "cold": "903,20 €",
+    "meter": "56,45 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Hohenzollerndamm 57, Schmargendorf, Berlin",
+    "id": "126587177",
+    "cold": "749,28 €",
+    "meter": "62,44 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 29 min  typically   ",
+      "40 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Flemmingstraße 35, Köpenick, Berlin",
+    "id": "126584052",
+    "cold": "1.200 €",
+    "meter": "50 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 50 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 48 min  typically   ",
+      " 50 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Voßstraße 26, Mitte (Ortsteil), Berlin",
+    "id": "126544717",
+    "cold": "1.831,79 €",
+    "meter": "76,66 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 16 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 16 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Osloer Straße 77, Gesundbrunnen, Berlin",
+    "id": "126532493",
+    "cold": "457,82 €",
+    "meter": "64,39 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 9 min  typically   "
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 9 min  typically   "
+    ]
+  },
+  {
+    "address": "Brandtstraße 19, Hermsdorf, Berlin",
+    "id": "126530997",
+    "cold": "972 €",
+    "meter": "74,77 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 30 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 30 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Oberschöneweide, Berlin",
+    "id": "126522208",
+    "cold": "798,89 €",
+    "meter": "82,53 m²",
+    "transit": [
+      " 40 min  typically   ",
+      " 42 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 40 min  typically   ",
+      " 42 min  typically   ",
+      "48 min"
+    ]
+  }
+]

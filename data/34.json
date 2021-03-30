@@ -1,0 +1,272 @@
+[
+  {
+    "address": "Ludwig-Renn-Straße 56, Marzahn, Berlin",
+    "id": "127211420",
+    "cold": "208,71 €",
+    "meter": "36,16 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 46 min  typically   ",
+      "1 hr 1 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Ludwig-Renn-Straße 56, Marzahn, Berlin",
+    "id": "127211418",
+    "cold": "223,21 €",
+    "meter": "31,12 m²",
+    "transit": [],
+    "cycling": [
+      "50 min",
+      "48 min",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "127199389",
+    "cold": "800 €",
+    "meter": "42 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 21 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 21 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Wissmanstrassse 11a, Grunewald, Berlin",
+    "id": "127197366",
+    "cold": "2.600 €",
+    "meter": "154 m²"
+  },
+  {
+    "address": "Frankfurter Allee 135, Lichtenberg (Ortsteil), Berlin",
+    "id": "127197219",
+    "cold": "544 €",
+    "meter": "68 m²",
+    "transit": [],
+    "cycling": [
+      "29 min",
+      "34 min",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Im Lindenhof 4, Lichtenberg (Ortsteil), Berlin",
+    "id": "127197218",
+    "cold": "520,81 €",
+    "meter": "46 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      " 34 min  typically   "
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      " 34 min  typically   "
+    ]
+  },
+  {
+    "address": "Tiergarten, Berlin",
+    "id": "127192475",
+    "cold": "3.360 €",
+    "meter": "160 m²",
+    "transit": [],
+    "cycling": [
+      "18 min",
+      "21 min",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Tiergarten, Berlin",
+    "id": "127192424",
+    "cold": "2.357,67 €",
+    "meter": "112,27 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 15 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 15 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Prenzlauer Berg, Berlin",
+    "id": "127191556",
+    "cold": "1.555 €",
+    "meter": "51,81 m²",
+    "transit": [],
+    "cycling": [
+      "11 min",
+      "14 min",
+      "15 min"
+    ]
+  },
+  {
+    "address": "Prenzlauer Berg, Berlin",
+    "id": "127191521",
+    "cold": "1.600 €",
+    "meter": "53,33 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Hohenfriedbergstr. 7, Schöneberg, Berlin",
+    "id": "127190657",
+    "cold": "714,01 €",
+    "meter": "104,19 m²",
+    "transit": [
+      " 21 min  typically   ",
+      "27 min",
+      "29 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Burgemeisterstr. 30, Tempelhof, Berlin",
+    "id": "127188495",
+    "cold": "301,43 €",
+    "meter": "35,45 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 36 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 36 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Weserstraße 166, Neukölln (Ortsteil), Berlin",
+    "id": "127188066",
+    "cold": "402,58 €",
+    "meter": "54,22 m²",
+    "transit": [],
+    "cycling": [
+      "34 min",
+      "36 min",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Fürstenwalder Damm 488, Friedrichshagen, Berlin",
+    "id": "127187748",
+    "cold": "829 €",
+    "meter": "48,88 m²",
+    "transit": [],
+    "cycling": [
+      "1 hr 17 min",
+      "1 hr 20 min",
+      "1 hr 21 min"
+    ]
+  },
+  {
+    "address": "Fürstenwalder Damm 488, Friedrichshagen, Berlin",
+    "id": "127187618",
+    "cold": "949 €",
+    "meter": "59,17 m²",
+    "transit": [
+      "43 min",
+      "43 min",
+      " 51 min  typically   "
+    ],
+    "cycling": [
+      "43 min",
+      "43 min",
+      " 51 min  typically   "
+    ]
+  },
+  {
+    "address": "Wexstraße 13, Wilmersdorf, Berlin",
+    "id": "127130022",
+    "cold": "515 €",
+    "meter": "22,35 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 28 min  typically   ",
+      "39 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Talstraße 5a, Pankow (Ortsteil), Berlin",
+    "id": "127074809",
+    "cold": "1.324,17 €",
+    "meter": "61,5 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 14 min  typically   ",
+      "31 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "127074338",
+    "cold": "3.744,72 €",
+    "meter": "178,32 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Falkenbrunnstraße 21, Altglienicke, Berlin",
+    "id": "127069027",
+    "cold": "1.013 €",
+    "meter": "72,36 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 57 min  typically   ",
+      "1 hr 2 min"
+    ],
+    "cycling": [
+      "1 hr 17 min",
+      "1 hr 18 min",
+      "1 hr 21 min"
+    ]
+  },
+  {
+    "address": "Friedenstraße 96, Friedrichshain, Berlin",
+    "id": "127042780",
+    "cold": "650 €",
+    "meter": "34 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 15 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 15 min  typically   ",
+      "30 min"
+    ]
+  }
+]

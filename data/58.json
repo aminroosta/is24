@@ -1,0 +1,298 @@
+[
+  {
+    "address": "Adlershof, Berlin",
+    "id": "125960589",
+    "cold": "1.049,76 €",
+    "meter": "108 m²",
+    "transit": [
+      " 45 min  typically   ",
+      "48 min",
+      "47 min"
+    ],
+    "cycling": [
+      " 45 min  typically   ",
+      "48 min",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Adlershof, Berlin",
+    "id": "125960519",
+    "cold": "865,18 €",
+    "meter": "91,56 m²",
+    "transit": [
+      " 45 min  typically   ",
+      "48 min",
+      "47 min"
+    ],
+    "cycling": [
+      " 45 min  typically   ",
+      "48 min",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Zittauer Straße 128, Rudow, Berlin",
+    "id": "125936735",
+    "cold": "750 €",
+    "meter": "78 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 45 min  typically   ",
+      "1 hr 1 min"
+    ],
+    "cycling": [
+      " 48 min  typically   ",
+      " 45 min  typically   ",
+      "1 hr 1 min"
+    ]
+  },
+  {
+    "address": "Kurfürstenstraße 17, Tiergarten, Berlin",
+    "id": "125930258",
+    "cold": "1.700 €",
+    "meter": "107,2 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Bruno-Taut-Straße 8A, 8B, Bohnsdorf, Berlin",
+    "id": "125928155",
+    "cold": "1.131,91 €",
+    "meter": "87,07 m²",
+    "transit": [
+      "47 min",
+      "45 min",
+      " 56 min  typically   "
+    ],
+    "cycling": [
+      "47 min",
+      "45 min",
+      " 56 min  typically   "
+    ]
+  },
+  {
+    "address": "Schützenstraße 14, Mitte (Ortsteil), Berlin",
+    "id": "125877645",
+    "cold": "1.300 €",
+    "meter": "67,55 m²",
+    "transit": [
+      " 15 min  typically   ",
+      "24 min",
+      "28 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      "24 min",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Zepernicker Str. 2, Buch, Berlin",
+    "id": "125846635",
+    "cold": "689 €",
+    "meter": "71 m²",
+    "transit": [
+      "35 min",
+      " 36 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      "35 min",
+      " 36 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Gadebuscher Straße 25A, Hellersdorf, Berlin",
+    "id": "125840224",
+    "cold": "564,27 €",
+    "meter": "86,81 m²",
+    "transit": [
+      " 37 min  typically   ",
+      "48 min",
+      " 50 min  typically   "
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      "48 min",
+      " 50 min  typically   "
+    ]
+  },
+  {
+    "address": "Neptunstr. 21, Reinickendorf (Ortsteil), Berlin",
+    "id": "125758646",
+    "cold": "752,93 €",
+    "meter": "45,3 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "125757333",
+    "cold": "1.579,28 €",
+    "meter": "126,85 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 25 min  typically   ",
+      "40 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Voltairestraße 11, Mitte (Ortsteil), Berlin",
+    "id": "125747977",
+    "cold": "1.189 €",
+    "meter": "55 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Grüntaler Str. 58, Gesundbrunnen, Berlin",
+    "id": "125708281",
+    "cold": "745 €",
+    "meter": "38 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ]
+  },
+  {
+    "address": "Forststr. 22, Steglitz, Berlin",
+    "id": "125701478",
+    "cold": "1.700 €",
+    "meter": "115,49 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 31 min  typically   ",
+      "45 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "U-Bahnhof Hohenzollernplatz 00, Halensee, Berlin",
+    "id": "125674803",
+    "cold": "2.740 €",
+    "meter": "204 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Chausseestraße 58, Mitte (Ortsteil), Berlin",
+    "id": "125654230",
+    "cold": "1.134 €",
+    "meter": "65,86 m²",
+    "transit": [
+      "13 min",
+      "16 min",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Marburger Str. 12, Charlottenburg, Berlin",
+    "id": "125619222",
+    "cold": "2.900 €",
+    "meter": "152 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 20 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 20 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Rathenower Str 55, Moabit, Berlin",
+    "id": "125592779",
+    "cold": "2.500 €",
+    "meter": "174 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "24 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gaußstraße 2, Oberschöneweide, Berlin",
+    "id": "125427810",
+    "cold": "360 €",
+    "meter": "21,87 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 51 min  typically   ",
+      "51 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Christian-Dohm-Weg u. a., Falkenberg, Berlin",
+    "id": "125340644",
+    "cold": "1.399 €",
+    "meter": "125 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 38 min  typically   ",
+      "58 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 38 min  typically   ",
+      "58 min"
+    ]
+  },
+  {
+    "address": "Hohenzollerndamm 17, Wilmersdorf, Berlin",
+    "id": "125338439",
+    "cold": "1.150 €",
+    "meter": "44,22 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "39 min"
+    ],
+    "cycling": []
+  }
+]

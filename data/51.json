@@ -1,0 +1,314 @@
+[
+  {
+    "address": "Wilmersdorf, Berlin",
+    "id": "127169336",
+    "cold": "1.100 €",
+    "meter": "50 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Senftenberger Ring 45A, Märkisches Viertel, Berlin",
+    "id": "127167471",
+    "cold": "268,71 €",
+    "meter": "41,34 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127157343",
+    "cold": "1.440,58 €",
+    "meter": "75,82 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 50 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Fließstr 14, Niederschöneweide, Berlin",
+    "id": "127154887",
+    "cold": "781,60 €",
+    "meter": "48,85 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 45 min  typically   ",
+      "46 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 45 min  typically   ",
+      "46 min"
+    ]
+  },
+  {
+    "address": "Havelländer Ring 38B, Hellersdorf, Berlin",
+    "id": "127152624",
+    "cold": "364 €",
+    "meter": "56 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 48 min  typically   ",
+      "1 hr 1 min"
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      " 48 min  typically   ",
+      "1 hr 1 min"
+    ]
+  },
+  {
+    "address": "Michaelkirchstraße 21, Mitte (Ortsteil), Berlin",
+    "id": "127150091",
+    "cold": "644 €",
+    "meter": "20 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 20 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 20 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "La-Rochelle-Straße 70, Französisch Buchholz, Berlin",
+    "id": "127147728",
+    "cold": "749 €",
+    "meter": "59,88 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 21, Tiergarten, Berlin",
+    "id": "127144885",
+    "cold": "1.600 €",
+    "meter": "75 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Reinickendorfer Straße 59, Gesundbrunnen, Berlin",
+    "id": "127132778",
+    "cold": "441,52 €",
+    "meter": "60,4 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ]
+  },
+  {
+    "address": "Schillerpromenade 1, Oberschöneweide, Berlin",
+    "id": "127132603",
+    "cold": "474,18 €",
+    "meter": "21,38 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ]
+  },
+  {
+    "address": "Schillerpromenade 1, Oberschöneweide, Berlin",
+    "id": "127132545",
+    "cold": "446,80 €",
+    "meter": "17,97 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ]
+  },
+  {
+    "address": "Schillerpromenade 1, Oberschöneweide, Berlin",
+    "id": "127132495",
+    "cold": "400,28 €",
+    "meter": "18,93 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ]
+  },
+  {
+    "address": "Schillerpromenade 1, Oberschöneweide, Berlin",
+    "id": "127132302",
+    "cold": "426,20 €",
+    "meter": "21 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ]
+  },
+  {
+    "address": "Stralauer Allee 14, Friedrichshain, Berlin",
+    "id": "127130659",
+    "cold": "1.130 €",
+    "meter": "68 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 27 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 27 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Rostocker Straße 18, Moabit, Berlin",
+    "id": "127129802",
+    "cold": "1.250 €",
+    "meter": "65,66 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 15 min  typically   ",
+      "25 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 15 min  typically   ",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Dahlem, Berlin",
+    "id": "127115770",
+    "cold": "600 €",
+    "meter": "30 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 35 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 35 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Moabit, Berlin",
+    "id": "127112905",
+    "cold": "600 €",
+    "meter": "60 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 11 min  typically   ",
+      "24 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schönwalder Straße 2, Gesundbrunnen, Berlin",
+    "id": "127100168",
+    "cold": "614,19 €",
+    "meter": "61,48 m²",
+    "transit": [
+      "11 min",
+      "11 min",
+      "12 min"
+    ],
+    "cycling": [
+      "11 min",
+      "11 min",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Wiener Str. 37, Kreuzberg, Berlin",
+    "id": "127094976",
+    "cold": "1.999 €",
+    "meter": "115,31 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Ernststr. 65, Borsigwalde, Berlin",
+    "id": "127091932",
+    "cold": "1.297,10 €",
+    "meter": "74,12 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 24 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 24 min  typically   ",
+      "37 min"
+    ]
+  }
+]

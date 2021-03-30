@@ -1,0 +1,293 @@
+[
+  {
+    "address": "Wisbyer Str. 71, Pankow (Ortsteil), Berlin",
+    "id": "126393474",
+    "cold": "1.499,46 €",
+    "meter": "67 m²",
+    "transit": [],
+    "cycling": [
+      "11 min",
+      "14 min",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Wegelystrasse 6, Charlottenburg, Berlin",
+    "id": "124514586",
+    "cold": "949.000 - 1.395.000 €",
+    "meter": "116,00 - 144,00 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Conrad-Blenkle-Straße 29, Prenzlauer Berg, Berlin",
+    "id": "127377893",
+    "cold": "900 - 2.600 €",
+    "meter": "38,00 - 140,00 m²",
+    "transit": [],
+    "cycling": [
+      "20 min",
+      "23 min",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Weichselstraße 18, Neukölln (Ortsteil), Berlin",
+    "id": "127192426",
+    "cold": "1.300 €",
+    "meter": "56 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 33 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 33 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Teichmummelring 67, Grünau, Berlin",
+    "id": "127053433",
+    "cold": "1.430,70 €",
+    "meter": "106,61 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 55 min  typically   ",
+      "57 min"
+    ],
+    "cycling": [
+      " 50 min  typically   ",
+      " 55 min  typically   ",
+      "57 min"
+    ]
+  },
+  {
+    "address": "Stallschreiberstraße 31, Mitte (Ortsteil), Berlin",
+    "id": "127077636",
+    "cold": "2.195 €",
+    "meter": "125,2 m²",
+    "transit": [
+      " 19 min  typically   ",
+      "29 min",
+      "33 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      "29 min",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "123605545",
+    "cold": "2.163 €",
+    "meter": "71,09 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "125195085",
+    "cold": "3.200 €",
+    "meter": "119 m²",
+    "transit": [],
+    "cycling": [
+      "9 min",
+      "8 min",
+      "9 min"
+    ]
+  },
+  {
+    "address": "Johannes-Werner-Straße 1, Johannisthal, Berlin",
+    "id": "127322437",
+    "cold": "608 €",
+    "meter": "64,92 m²",
+    "transit": [
+      " 41 min  typically   ",
+      " 47 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      " 47 min  typically   ",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Talstr. 5A, Pankow (Ortsteil), Berlin",
+    "id": "127323200",
+    "cold": "1.099 €",
+    "meter": "61,47 m²",
+    "transit": [],
+    "cycling": [
+      "15 min",
+      "18 min",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "124856902",
+    "cold": "3.925 €",
+    "meter": "98,13 m²",
+    "transit": [],
+    "cycling": [
+      "9 min",
+      "8 min",
+      "9 min"
+    ]
+  },
+  {
+    "address": "Clayallee 336, Zehlendorf, Berlin",
+    "id": "120833978",
+    "cold": "500 €",
+    "meter": "32 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 39 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 39 min  typically   ",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Unter den Eichen 96, Lichterfelde, Berlin",
+    "id": "121008348",
+    "cold": "469 €",
+    "meter": "17 m²",
+    "transit": [],
+    "cycling": [
+      "51 min",
+      "58 min",
+      "57 min"
+    ]
+  },
+  {
+    "address": "Breite Straße 42, Schmargendorf, Berlin",
+    "id": "120561232",
+    "cold": "679 €",
+    "meter": "35 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Voßstr. 27, Mitte (Ortsteil), Berlin",
+    "id": "108374045",
+    "cold": "1.906,08 €",
+    "meter": "84,64 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Leipziger Straße 133, Mitte (Ortsteil), Berlin",
+    "id": "117012930",
+    "cold": "4.962,24 €",
+    "meter": "270,25 m²",
+    "transit": [
+      " 12 min  typically   "
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127268997",
+    "cold": "515 €",
+    "meter": "22 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Spenerstraße 11, Moabit, Berlin",
+    "id": "127128367",
+    "cold": "2.454,15 €",
+    "meter": "163,61 m²",
+    "transit": [
+      "29 min",
+      "32 min",
+      "29 min",
+      "34 min"
+    ],
+    "cycling": [
+      "29 min",
+      "32 min",
+      "29 min",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Otto-Braun Strasse 67, Mitte (Ortsteil), Berlin",
+    "id": "79468594",
+    "cold": "3.390 €",
+    "meter": "55 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 12 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 12 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Scharnweberstraße 27, Oberschöneweide, Berlin",
+    "id": "126424207",
+    "cold": "784 - 1.321 €",
+    "meter": "55,00 - 139,00 m²",
+    "transit": [
+      " 41 min  typically   ",
+      " 44 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      " 44 min  typically   ",
+      "51 min"
+    ]
+  }
+]

@@ -1,0 +1,306 @@
+[
+  {
+    "address": "Pappelallee 3+4, Prenzlauer Berg, Berlin",
+    "id": "127255892",
+    "cold": "2.200 €",
+    "meter": "110 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ],
+    "cycling": [
+      " 7 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ]
+  },
+  {
+    "address": "Gesundbrunnen, Berlin",
+    "id": "127252167",
+    "cold": "980 €",
+    "meter": "108 m²",
+    "transit": [
+      " 4 min  typically   ",
+      " 5 min  typically   ",
+      "10 min"
+    ],
+    "cycling": [
+      " 4 min  typically   ",
+      " 5 min  typically   ",
+      "10 min"
+    ]
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 21, Tiergarten, Berlin",
+    "id": "127251645",
+    "cold": "1.350 €",
+    "meter": "43,5 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Lion-Feuchtwanger-Straße 21A, Hellersdorf, Berlin",
+    "id": "127251167",
+    "cold": "423,62 €",
+    "meter": "44,78 m²",
+    "transit": [
+      " 36 min  typically   ",
+      "49 min",
+      " 50 min  typically   "
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      "49 min",
+      " 50 min  typically   "
+    ]
+  },
+  {
+    "address": "Gerichtstraße 67, Gesundbrunnen, Berlin",
+    "id": "127250783",
+    "cold": "670 €",
+    "meter": "28,25 m²",
+    "transit": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ],
+    "cycling": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ]
+  },
+  {
+    "address": "Prenzlauer Berg, Berlin",
+    "id": "127249801",
+    "cold": "1.450 €",
+    "meter": "45 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Gitschiner Str. 38, Kreuzberg, Berlin",
+    "id": "127247661",
+    "cold": "420,54 €",
+    "meter": "44,49 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 23 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 23 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Bruno-Taut-Straße 8A, Bohnsdorf, Berlin",
+    "id": "127247213",
+    "cold": "760,50 €",
+    "meter": "58,5 m²",
+    "transit": [
+      "47 min",
+      "45 min",
+      " 58 min  typically   "
+    ],
+    "cycling": [
+      "47 min",
+      "45 min",
+      " 58 min  typically   "
+    ]
+  },
+  {
+    "address": "Sonnenburger Straße 74, Prenzlauer Berg, Berlin",
+    "id": "127240547",
+    "cold": "650 €",
+    "meter": "39 m²",
+    "transit": [
+      " 6 min  typically   ",
+      "24 min",
+      "25 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Prenzlauer Berg, Berlin",
+    "id": "127238056",
+    "cold": "1.050 €",
+    "meter": "38 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Tharauer Allee 8a, Westend, Berlin",
+    "id": "127237552",
+    "cold": "1.950 €",
+    "meter": "94 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 34 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Fehrbelliner Straße 81, Mitte (Ortsteil), Berlin",
+    "id": "127236765",
+    "cold": "970 €",
+    "meter": "40 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Prenzlauer Berg, Berlin",
+    "id": "127236661",
+    "cold": "1.200 €",
+    "meter": "55 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Marchlewskistr. 77, Friedrichshain, Berlin",
+    "id": "127235939",
+    "cold": "2.210 €",
+    "meter": "134 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Schmargendorf, Berlin",
+    "id": "127235076",
+    "cold": "1.500 €",
+    "meter": "100 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 31 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 31 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Rauchstraße 13, Hakenfelde, Berlin",
+    "id": "127234722",
+    "cold": "449 €",
+    "meter": "78 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 32 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      " 32 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Wichertstraße 44, Prenzlauer Berg, Berlin",
+    "id": "127232939",
+    "cold": "2.980 €",
+    "meter": "167,73 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "18 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Leibnizstr 78, Charlottenburg, Berlin",
+    "id": "127228652",
+    "cold": "1.470 €",
+    "meter": "80,77 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Leibnizstr 78, Charlottenburg, Berlin",
+    "id": "127228606",
+    "cold": "1.470 €",
+    "meter": "80,77 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Gleimstrasse 36, Prenzlauer Berg, Berlin",
+    "id": "127227188",
+    "cold": "2.945 €",
+    "meter": "154,92 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "17 min",
+      "18 min"
+    ],
+    "cycling": []
+  }
+]

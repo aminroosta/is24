@@ -1,0 +1,310 @@
+[
+  {
+    "address": "Teichstr. 46, Reinickendorf (Ortsteil), Berlin",
+    "id": "127086208",
+    "cold": "1.221 €",
+    "meter": "74 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "25 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Wilmersdorf, Berlin",
+    "id": "126978593",
+    "cold": "1.535 €",
+    "meter": "61,39 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      "33 min",
+      "35 min",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 133, Rummelsburg, Berlin",
+    "id": "126854817",
+    "cold": "432 €",
+    "meter": "54 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 133, Rummelsburg, Berlin",
+    "id": "126854815",
+    "cold": "432 €",
+    "meter": "54 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      "29 min",
+      "34 min",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 133, Rummelsburg, Berlin",
+    "id": "126854814",
+    "cold": "424 €",
+    "meter": "53 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Frankfurter Allee 131, Rummelsburg, Berlin",
+    "id": "126854811",
+    "cold": "253,50 €",
+    "meter": "39 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Frankfurter Allee 131, Rummelsburg, Berlin",
+    "id": "126854810",
+    "cold": "288 €",
+    "meter": "36 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 131, Rummelsburg, Berlin",
+    "id": "126854809",
+    "cold": "472 €",
+    "meter": "59 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 131, Rummelsburg, Berlin",
+    "id": "126854803",
+    "cold": "253,50 €",
+    "meter": "39 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 131, Rummelsburg, Berlin",
+    "id": "126854802",
+    "cold": "472 €",
+    "meter": "59 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 131, Rummelsburg, Berlin",
+    "id": "126854800",
+    "cold": "472 €",
+    "meter": "59 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 137, Rummelsburg, Berlin",
+    "id": "126854799",
+    "cold": "408 €",
+    "meter": "51 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Sophienstraße 26, Mitte (Ortsteil), Berlin",
+    "id": "126848074",
+    "cold": "3.500 €",
+    "meter": "137 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "18 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Joseph-von-Eichendorff-Gasse 1, Tiergarten, Berlin",
+    "id": "126842888",
+    "cold": "1.600 €",
+    "meter": "101 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Albrechtsstraße 93, Steglitz, Berlin",
+    "id": "126800160",
+    "cold": "1.590 €",
+    "meter": "62,08 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 13 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 13 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Albrechtstraße 93, Steglitz, Berlin",
+    "id": "126800015",
+    "cold": "1.320 €",
+    "meter": "49,99 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 37 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      " 37 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Altonaer Straße 21, Hansaviertel, Berlin",
+    "id": "126731451",
+    "cold": "1.345 €",
+    "meter": "59 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Dahlem, Berlin",
+    "id": "126730942",
+    "cold": "4.500 €",
+    "meter": "295 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 34 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 34 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Pillnitzer Weg 29, Staaken, Berlin",
+    "id": "126729260",
+    "cold": "360,87 €",
+    "meter": "52 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 40 min  typically   ",
+      "55 min"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      " 40 min  typically   ",
+      "55 min"
+    ]
+  },
+  {
+    "address": "Schmargendorf, Berlin",
+    "id": "126723506",
+    "cold": "3.190 €",
+    "meter": "142 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 32 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      " 32 min  typically   ",
+      "42 min"
+    ]
+  }
+]

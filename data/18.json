@@ -1,0 +1,314 @@
+[
+  {
+    "address": "Stuttgarter Platz 5, Charlottenburg, Berlin",
+    "id": "126833533",
+    "cold": "1.999,90 €",
+    "meter": "96,6 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 27 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 27 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Sonatenweg 12, Rosenthal, Berlin",
+    "id": "126798988",
+    "cold": "1.350 €",
+    "meter": "120 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "126790103",
+    "cold": "1.450 €",
+    "meter": "90 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "126790101",
+    "cold": "1.450 €",
+    "meter": "90 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "126778394",
+    "cold": "2.950 €",
+    "meter": "121 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Rixdorfer Str. 82, Mariendorf, Berlin",
+    "id": "126619984",
+    "cold": "911 €",
+    "meter": "56,96 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 35 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 35 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Dieselstr. 21, Neukölln (Ortsteil), Berlin",
+    "id": "126613189",
+    "cold": "575,54 €",
+    "meter": "72 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 40 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 40 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Rosenfelder Ring  150, Friedrichsfelde, Berlin",
+    "id": "126552174",
+    "cold": "1.299,48 €",
+    "meter": "92,82 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 34 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 34 min  typically   ",
+      "44 min"
+    ]
+  },
+  {
+    "address": "Hasenheide 88, Neukölln (Ortsteil), Berlin",
+    "id": "126542391",
+    "cold": "544,80 €",
+    "meter": "81 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 33 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 33 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Düsseldorferstraße 10, Wilmersdorf, Berlin",
+    "id": "126453471",
+    "cold": "2.300 €",
+    "meter": "90 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Falkenhagener Straße 5, Spandau (Ortsteil), Berlin",
+    "id": "126450431",
+    "cold": "750 €",
+    "meter": "32,33 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 33 min  typically   ",
+      "51 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431545",
+    "cold": "5.277 €",
+    "meter": "131,92 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ]
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431314",
+    "cold": "5.277 €",
+    "meter": "131,92 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ]
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431230",
+    "cold": "3.553 €",
+    "meter": "110,41 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ]
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431157",
+    "cold": "3.553 €",
+    "meter": "110,41 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ]
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431136",
+    "cold": "3.553 €",
+    "meter": "110,41 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ]
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431099",
+    "cold": "3.553 €",
+    "meter": "110,41 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ]
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431055",
+    "cold": "1.854 €",
+    "meter": "65,37 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ]
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431023",
+    "cold": "2.060 €",
+    "meter": "67,32 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ]
+  },
+  {
+    "address": "Brunnenstraße 174, Mitte (Ortsteil), Berlin",
+    "id": "126431009",
+    "cold": "2.060 €",
+    "meter": "67,32 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 5 min  typically   "
+    ],
+    "cycling": []
+  }
+]

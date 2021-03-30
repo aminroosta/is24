@@ -1,0 +1,265 @@
+[
+  {
+    "address": "Babelsberger Str. 50, Wilmersdorf, Berlin",
+    "id": "127325695",
+    "cold": "453,70 €",
+    "meter": "51,3 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 30 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 30 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Flemmingstr. 35, Köpenick, Berlin",
+    "id": "127323723",
+    "cold": "1.689 €",
+    "meter": "132,73 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 49 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 48 min  typically   ",
+      " 49 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Rostocker Straße 11, Moabit, Berlin",
+    "id": "127322563",
+    "cold": "1.630 €",
+    "meter": "93 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 16 min  typically   ",
+      "24 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Zimmerstraße 94, Mitte (Ortsteil), Berlin",
+    "id": "127322258",
+    "cold": "3.248,87 €",
+    "meter": "141,26 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "127321991",
+    "cold": "800 €",
+    "meter": "42 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "28 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "127321957",
+    "cold": "800 €",
+    "meter": "42 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Ostendstraße 27, Oberschöneweide, Berlin",
+    "id": "127321363",
+    "cold": "399 €",
+    "meter": "15,08 m²",
+    "transit": [],
+    "cycling": [
+      "57 min",
+      "1 hr 3 min"
+    ]
+  },
+  {
+    "address": "Ostendstraße 27, Oberschöneweide, Berlin",
+    "id": "127321362",
+    "cold": "399 €",
+    "meter": "15,36 m²",
+    "transit": [
+      " 40 min  typically   ",
+      "49 min",
+      " 54 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Ostendstraße 27, Oberschöneweide, Berlin",
+    "id": "127321360",
+    "cold": "419 €",
+    "meter": "16,95 m²",
+    "transit": [
+      " 40 min  typically   ",
+      "49 min",
+      " 54 min  typically   "
+    ],
+    "cycling": [
+      " 40 min  typically   ",
+      "49 min",
+      " 54 min  typically   "
+    ]
+  },
+  {
+    "address": "Sonnenallee 40, Neukölln (Ortsteil), Berlin",
+    "id": "127319626",
+    "cold": "260 €",
+    "meter": "30 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 34 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 34 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Elbestr. 35, Neukölln (Ortsteil), Berlin",
+    "id": "127319199",
+    "cold": "649,76 €",
+    "meter": "81 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 34 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      "35 min",
+      "37 min",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Hermannstr. 229, Neukölln (Ortsteil), Berlin",
+    "id": "127319108",
+    "cold": "406,22 €",
+    "meter": "55 m²",
+    "transit": [
+      " 27 min  typically   ",
+      "31 min",
+      "33 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Allerstr. 46, Neukölln (Ortsteil), Berlin",
+    "id": "127318454",
+    "cold": "388,10 €",
+    "meter": "52 m²",
+    "transit": [
+      " 31 min  typically   ",
+      "34 min",
+      " 34 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Barstraße 38, Wilmersdorf, Berlin",
+    "id": "127317979",
+    "cold": "427,81 €",
+    "meter": "50,93 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 35 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schöneberger Ufer 5 WE 1.5.1, Kreuzberg, Berlin",
+    "id": "127317439",
+    "cold": "1.780 €",
+    "meter": "51 m²"
+  },
+  {
+    "address": "Schöneberger Ufer 5 WE 1.2.1, Kreuzberg, Berlin",
+    "id": "127317429",
+    "cold": "1.735 €",
+    "meter": "51 m²"
+  },
+  {
+    "address": "Gervinusstr. 44, Charlottenburg, Berlin",
+    "id": "127317349",
+    "cold": "875 €",
+    "meter": "25,85 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 28 min  typically   ",
+      "30 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gervinusstr. 44, Charlottenburg, Berlin",
+    "id": "127317248",
+    "cold": "1.100 €",
+    "meter": "38,36 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 28 min  typically   ",
+      "30 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gervinusstr. 45, Charlottenburg, Berlin",
+    "id": "127317189",
+    "cold": "1.110 €",
+    "meter": "34,87 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 27 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 27 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Gervinusstr. 45, Charlottenburg, Berlin",
+    "id": "127317163",
+    "cold": "1.110 €",
+    "meter": "39,4 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 27 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 27 min  typically   ",
+      "31 min"
+    ]
+  }
+]

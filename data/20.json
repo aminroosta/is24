@@ -1,0 +1,298 @@
+[
+  {
+    "address": "Konstanzer Str. 58, Wilmersdorf, Berlin",
+    "id": "125889838",
+    "cold": "2.090 €",
+    "meter": "84 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 28 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 28 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "125840804",
+    "cold": "1.920 €",
+    "meter": "79,9 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 30 min  typically   ",
+      "36 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "125840798",
+    "cold": "1.920 €",
+    "meter": "79,9 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 30 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 30 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "125840796",
+    "cold": "1.920 €",
+    "meter": "79,9 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 30 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 30 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Französische Straße 56-60, Mitte (Ortsteil), Berlin",
+    "id": "125825014",
+    "cold": "2.430 €",
+    "meter": "80,44 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 13 min  typically   ",
+      "21 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Dunckerstr. 23, Prenzlauer Berg, Berlin",
+    "id": "125765588",
+    "cold": "878,66 €",
+    "meter": "32,84 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "18 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Alfred-Randt-Straße 42, Köpenick, Berlin",
+    "id": "125764920",
+    "cold": "177,15 €",
+    "meter": "29,33 m²",
+    "transit": [
+      " 57 min  typically   ",
+      " 1 hr 1 min  typically   ",
+      "1 hr 2 min"
+    ],
+    "cycling": [
+      " 57 min  typically   ",
+      " 1 hr 1 min  typically   ",
+      "1 hr 2 min"
+    ]
+  },
+  {
+    "address": "Alex-Wedding-Straße 3, Mitte (Ortsteil), Berlin",
+    "id": "125755516",
+    "cold": "590 €",
+    "meter": "29,72 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 12 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 12 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Boxhagener Straße 68, Friedrichshain, Berlin",
+    "id": "125668536",
+    "cold": "2.205,44 €",
+    "meter": "137,84 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 25 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 25 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Pasewalker Str. 101, Französisch Buchholz, Berlin",
+    "id": "125608716",
+    "cold": "930 €",
+    "meter": "62 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Scharnhorststr. 8c, Mitte (Ortsteil), Berlin",
+    "id": "124986782",
+    "cold": "2.216,38 €",
+    "meter": "114,75 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 7 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 7 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Melli-Beese-Straße 64, Johannisthal, Berlin",
+    "id": "124972329",
+    "cold": "540 €",
+    "meter": "54 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 50 min  typically   ",
+      "1 hr 5 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wittenberger Straße 21, Marzahn, Berlin",
+    "id": "124055619",
+    "cold": "203,10 €",
+    "meter": "36,03 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 46 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 46 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Scharnhorststr. 8c, Mitte (Ortsteil), Berlin",
+    "id": "124017572",
+    "cold": "2.467,24 €",
+    "meter": "127,38 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 7 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 7 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Rummelsburg, Berlin",
+    "id": "123534093",
+    "cold": "1.450 €",
+    "meter": "91 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 30 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 30 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Afrikanische Str. 6, Wedding, Berlin",
+    "id": "121633804",
+    "cold": "819 €",
+    "meter": "86,03 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 13 min  typically   ",
+      "27 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wexstraße 13, Wilmersdorf, Berlin",
+    "id": "114688058",
+    "cold": "560 €",
+    "meter": "24,82 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 27 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 27 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 21, Tiergarten, Berlin",
+    "id": "108870509",
+    "cold": "1.390 €",
+    "meter": "45 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Wisbyer Str. 69, Pankow (Ortsteil), Berlin",
+    "id": "107699396",
+    "cold": "814,37 €",
+    "meter": "39,2 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Französische Straße 56-60, Mitte (Ortsteil), Berlin",
+    "id": "102453174",
+    "cold": "2.325 €",
+    "meter": "93 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "21 min"
+    ],
+    "cycling": []
+  }
+]

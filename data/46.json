@@ -1,0 +1,309 @@
+[
+  {
+    "address": "Moabit, Berlin",
+    "id": "127295037",
+    "cold": "1.240 €",
+    "meter": "68,74 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "127293593",
+    "cold": "1.943,70 €",
+    "meter": "102,3 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 21 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 21 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Altenbraker Straße 31, Neukölln (Ortsteil), Berlin",
+    "id": "127289491",
+    "cold": "850 €",
+    "meter": "37,4 m²",
+    "transit": [
+      " 33 min  typically   ",
+      "33 min",
+      "35 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      "33 min",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Pankow (Ortsteil), Berlin",
+    "id": "127289304",
+    "cold": "673,92 €",
+    "meter": "70,02 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "14 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "14 min"
+    ]
+  },
+  {
+    "address": "Pankow (Ortsteil), Berlin",
+    "id": "127289253",
+    "cold": "863,04 €",
+    "meter": "89,9 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "14 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Kaiser-Friedrich-Straße 25, Charlottenburg, Berlin",
+    "id": "127289086",
+    "cold": "1.800 €",
+    "meter": "94,12 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Pankow (Ortsteil), Berlin",
+    "id": "127289052",
+    "cold": "708,29 €",
+    "meter": "73,78 m²",
+    "transit": [
+      " 13 min  typically   ",
+      "14 min",
+      " 14 min  typically   "
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      "14 min",
+      " 14 min  typically   "
+    ]
+  },
+  {
+    "address": "Tieckstraße 38, Mitte (Ortsteil), Berlin",
+    "id": "127287703",
+    "cold": "1.156 €",
+    "meter": "68 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      "13 min"
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      "13 min"
+    ]
+  },
+  {
+    "address": "Chausseestraße 57, Mitte (Ortsteil), Berlin",
+    "id": "127287464",
+    "cold": "1.758,79 €",
+    "meter": "108,3 m²",
+    "transit": [
+      "13 min",
+      "16 min",
+      "20 min"
+    ],
+    "cycling": [
+      "13 min",
+      "16 min",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Borussiastr. 10, Tempelhof, Berlin",
+    "id": "127287112",
+    "cold": "2.170 €",
+    "meter": "110 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 32 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 32 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Nikolassee, Berlin",
+    "id": "127285799",
+    "cold": "2.925,75 €",
+    "meter": "235 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 41 min  typically   ",
+      "55 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "plantagenstr. 21, Steglitz, Berlin",
+    "id": "127283336",
+    "cold": "2.250 €",
+    "meter": "235 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 37 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 37 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Onckenstraße 24, Neukölln (Ortsteil), Berlin",
+    "id": "127283196",
+    "cold": "494,33 €",
+    "meter": "66,94 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 36 min  typically   ",
+      "43 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      " 36 min  typically   ",
+      "43 min"
+    ]
+  },
+  {
+    "address": "Hermsdorf, Berlin",
+    "id": "127282801",
+    "cold": "828 €",
+    "meter": "46 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 31 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      "40 min",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Steglitz, Berlin",
+    "id": "127282308",
+    "cold": "2.270 €",
+    "meter": "230 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 34 min  typically   ",
+      "39 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Jagowstraße 14, Spandau (Ortsteil), Berlin",
+    "id": "127282067",
+    "cold": "549,15 €",
+    "meter": "74,21 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 34 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      " 34 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Gärtnerstr. 28, Friedrichshain, Berlin",
+    "id": "127281637",
+    "cold": "795 €",
+    "meter": "50,2 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 24 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 24 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Pappelallee 45-53, Prenzlauer Berg, Berlin",
+    "id": "127280476",
+    "cold": "2.739,01 €",
+    "meter": "133,61 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 9 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 9 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Blumberger Damm 6, Biesdorf, Berlin",
+    "id": "127279653",
+    "cold": "483,28 €",
+    "meter": "72,81 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 37 min  typically   ",
+      "1 hr"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 37 min  typically   ",
+      "1 hr"
+    ]
+  },
+  {
+    "address": "Zachertstraße 61, Friedrichsfelde, Berlin",
+    "id": "127277880",
+    "cold": "540,84 €",
+    "meter": "45,07 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 35 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 35 min  typically   ",
+      "40 min"
+    ]
+  }
+]

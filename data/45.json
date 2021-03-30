@@ -1,0 +1,302 @@
+[
+  {
+    "address": "Südostallee 118, Johannisthal, Berlin",
+    "id": "127319008",
+    "cold": "1.191,76 €",
+    "meter": "82,19 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 46 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 46 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Grünau, Berlin",
+    "id": "127318649",
+    "cold": "600 €",
+    "meter": "30 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 52 min  typically   ",
+      "1 hr 4 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wilmersdorf, Berlin",
+    "id": "127315477",
+    "cold": "1.200 €",
+    "meter": "93 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Silbersteinstr. 54, Neukölln (Ortsteil), Berlin",
+    "id": "127309950",
+    "cold": "548 €",
+    "meter": "21 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 33 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      " 33 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Schloßallee 8, Niederschönhausen, Berlin",
+    "id": "127309302",
+    "cold": "1.200 €",
+    "meter": "100 m²",
+    "transit": [
+      " 21 min  typically   ",
+      "27 min",
+      " 28 min  typically   "
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      "27 min",
+      " 28 min  typically   "
+    ]
+  },
+  {
+    "address": "Altenbraker Str. 4, Neukölln (Ortsteil), Berlin",
+    "id": "127308279",
+    "cold": "895 €",
+    "meter": "67 m²",
+    "transit": [
+      " 30 min  typically   ",
+      "34 min",
+      "36 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      "34 min",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Fuldastraße 10, Neukölln (Ortsteil), Berlin",
+    "id": "127307382",
+    "cold": "418,72 €",
+    "meter": "52,34 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 33 min  typically   ",
+      "40 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gorkistraße 91, Tegel, Berlin",
+    "id": "127306459",
+    "cold": "365,42 €",
+    "meter": "58,28 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Havelländer Ring 38A, Hellersdorf, Berlin",
+    "id": "127305870",
+    "cold": "292,50 €",
+    "meter": "45 m²",
+    "transit": [
+      " 45 min  typically   ",
+      " 45 min  typically   ",
+      "1 hr 1 min"
+    ],
+    "cycling": [
+      " 45 min  typically   ",
+      " 45 min  typically   ",
+      "1 hr 1 min"
+    ]
+  },
+  {
+    "address": "Voßstraße 27, Mitte (Ortsteil), Berlin",
+    "id": "127304591",
+    "cold": "1.681,38 €",
+    "meter": "93,41 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 16 min  typically   ",
+      "22 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Ueckermünder Straße 7, Prenzlauer Berg, Berlin",
+    "id": "127304091",
+    "cold": "545 €",
+    "meter": "34 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      "14 min"
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      "14 min"
+    ]
+  },
+  {
+    "address": "Bosporusstraße 33, Mariendorf, Berlin",
+    "id": "127304045",
+    "cold": "735 €",
+    "meter": "61 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 42 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      " 42 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Weichselstraße 57, Neukölln (Ortsteil), Berlin",
+    "id": "127303740",
+    "cold": "660,66 €",
+    "meter": "77 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 28 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 28 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Köpenick, Berlin",
+    "id": "127303138",
+    "cold": "680 €",
+    "meter": "78 m²",
+    "transit": [
+      " 52 min  typically   ",
+      " 52 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 52 min  typically   ",
+      " 52 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Havelländer Ring 36, Hellersdorf, Berlin",
+    "id": "127303083",
+    "cold": "1.023 €",
+    "meter": "93 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "1 hr 6 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Havelländer Ring 36A, Hellersdorf, Berlin",
+    "id": "127303053",
+    "cold": "850,75 €",
+    "meter": "83 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "1 hr 6 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "1 hr 6 min"
+    ]
+  },
+  {
+    "address": "Havelländer Ring 36A, Hellersdorf, Berlin",
+    "id": "127303042",
+    "cold": "668,11 €",
+    "meter": "71 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "1 hr 6 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "1 hr 6 min"
+    ]
+  },
+  {
+    "address": "Flatowallee 16, Westend, Berlin",
+    "id": "127298945",
+    "cold": "520 €",
+    "meter": "36 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 31 min  typically   ",
+      " 34 min  typically   "
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 31 min  typically   ",
+      " 34 min  typically   "
+    ]
+  },
+  {
+    "address": "Mittelstraße 24, Alt-Hohenschönhausen, Berlin",
+    "id": "127295710",
+    "cold": "669 €",
+    "meter": "45,95 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 24 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 24 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Pfannschmidtstr. 47, Karow, Berlin",
+    "id": "127295705",
+    "cold": "849 €",
+    "meter": "74,06 m²",
+    "transit": [
+      "30 min",
+      " 31 min  typically   ",
+      " 38 min  typically   "
+    ],
+    "cycling": [
+      "30 min",
+      " 31 min  typically   ",
+      " 38 min  typically   "
+    ]
+  }
+]

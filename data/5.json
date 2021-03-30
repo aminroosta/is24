@@ -1,0 +1,267 @@
+[
+  {
+    "address": "Köpenick, Berlin",
+    "id": "126813955",
+    "cold": "509,55 €",
+    "meter": "79 m²",
+    "transit": [],
+    "cycling": [
+      "1 hr 10 min",
+      "1 hr 12 min"
+    ]
+  },
+  {
+    "address": "Köpenicker Straße  43, Mitte (Ortsteil), Berlin",
+    "id": "115320929",
+    "cold": "538 €",
+    "meter": "20 m²",
+    "transit": [],
+    "cycling": [
+      "23 min",
+      "24 min",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Lichterfelde, Berlin",
+    "id": "127189599",
+    "cold": "1.312,92 €",
+    "meter": "109,41 m²",
+    "transit": [],
+    "cycling": [
+      "55 min",
+      "57 min",
+      "1 hr 2 min"
+    ]
+  },
+  {
+    "address": "Teichstr. 45, Reinickendorf (Ortsteil), Berlin",
+    "id": "127322155",
+    "cold": "1.327,32 €",
+    "meter": "73,74 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Otto-Braun-Straße 69, Mitte (Ortsteil), Berlin",
+    "id": "116914437",
+    "cold": "610 €",
+    "meter": "25 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 13 min  typically   ",
+      "21 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 13 min  typically   ",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Lehrter Straße 24 B, Moabit, Berlin",
+    "id": "126518345",
+    "cold": "670 €",
+    "meter": "24 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 9 min  typically   ",
+      "25 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 9 min  typically   ",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Sebastianstrasse 15, Mitte (Ortsteil), Berlin",
+    "id": "126475897",
+    "cold": "1.599 €",
+    "meter": "56 m²",
+    "transit": [
+      " 21 min  typically   ",
+      "25 min",
+      "24 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      "25 min",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Chausseestr. 108, Mitte (Ortsteil), Berlin",
+    "id": "126213874",
+    "cold": "1.369 €",
+    "meter": "52 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "14 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "14 min"
+    ]
+  },
+  {
+    "address": "Fischerstraße  7, Spandau (Ortsteil), Berlin",
+    "id": "127168928",
+    "cold": "571,16 €",
+    "meter": "75,55 m²",
+    "transit": [],
+    "cycling": [
+      "46 min",
+      "53 min",
+      "59 min"
+    ]
+  },
+  {
+    "address": "Metropolitan Park 61, Staaken, Berlin",
+    "id": "126774662",
+    "cold": "1.070 €",
+    "meter": "93 m²",
+    "transit": [
+      " 40 min  typically   ",
+      " 40 min  typically   ",
+      "1 hr"
+    ],
+    "cycling": [
+      " 40 min  typically   ",
+      " 40 min  typically   ",
+      "1 hr"
+    ]
+  },
+  {
+    "address": "Altonaer Str. 21, Hansaviertel, Berlin",
+    "id": "127140356",
+    "cold": "1.850 €",
+    "meter": "81 m²",
+    "transit": [],
+    "cycling": [
+      "21 min",
+      "21 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Schmöckwitz, Berlin",
+    "id": "126641344",
+    "cold": "1.300 €",
+    "meter": "70 m²",
+    "transit": [
+      " 55 min  typically   ",
+      " 1 hr 4 min  typically   ",
+      "1 hr 5 min"
+    ],
+    "cycling": [
+      " 55 min  typically   ",
+      " 1 hr 4 min  typically   ",
+      "1 hr 5 min"
+    ]
+  },
+  {
+    "address": "Edisonstr. 47, Oberschöneweide, Berlin",
+    "id": "127194833",
+    "cold": "1.120 €",
+    "meter": "80,25 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 43 min  typically   ",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gustav-Freytag-Straße 8, Schöneberg, Berlin",
+    "id": "125369419",
+    "cold": "2.799 €",
+    "meter": "139 m²",
+    "transit": [
+      " 24 min  typically   ",
+      "29 min",
+      " 29 min  typically   "
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      "29 min",
+      " 29 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "113473088",
+    "cold": "5.700 €",
+    "meter": "186 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "127122691",
+    "cold": "2.100 €",
+    "meter": "77,06 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Rudolf-von-Gneist-Gasse 4, Tiergarten, Berlin",
+    "id": "126910860",
+    "cold": "1.300 €",
+    "meter": "79 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Potsdamer Straße WE 10.07 4, Tiergarten, Berlin",
+    "id": "127034717",
+    "cold": "2.100 €",
+    "meter": "93 m²",
+    "transit": [
+      "18 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schöneberger Ufer 5 WE 1.3.1, Kreuzberg, Berlin",
+    "id": "127194179",
+    "cold": "1.735 €",
+    "meter": "51 m²"
+  },
+  {
+    "address": "Schöneberger Ufer WE 3.2.2 5b, Kreuzberg, Berlin",
+    "id": "127212481",
+    "cold": "1.500 €",
+    "meter": "73 m²"
+  }
+]

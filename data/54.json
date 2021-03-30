@@ -1,0 +1,306 @@
+[
+  {
+    "address": "Lützelsteiner Weg 26, Dahlem, Berlin",
+    "id": "126921278",
+    "cold": "649 €",
+    "meter": "38,89 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 38 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 38 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "krausnickstraße 7, Mitte (Ortsteil), Berlin",
+    "id": "126916220",
+    "cold": "7.500 €",
+    "meter": "250 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 8 min  typically   ",
+      "14 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 8 min  typically   ",
+      "14 min"
+    ]
+  },
+  {
+    "address": "koloniestraße 121, Gesundbrunnen, Berlin",
+    "id": "126915924",
+    "cold": "800 €",
+    "meter": "45 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Havelländer Ring 38B, Hellersdorf, Berlin",
+    "id": "126915225",
+    "cold": "450,24 €",
+    "meter": "42 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 49 min  typically   ",
+      "1 hr 1 min"
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      " 49 min  typically   ",
+      "1 hr 1 min"
+    ]
+  },
+  {
+    "address": "Stresemannstraße 76, Kreuzberg, Berlin",
+    "id": "126912161",
+    "cold": "660 €",
+    "meter": "38 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Charlottenstr. 25, Lichtenrade, Berlin",
+    "id": "126910223",
+    "cold": "242,47 €",
+    "meter": "39,88 m²",
+    "transit": [
+      "48 min",
+      " 49 min  typically   ",
+      " 52 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wiclefstr. 11, Moabit, Berlin",
+    "id": "126908915",
+    "cold": "340 €",
+    "meter": "55,35 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 14 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 14 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Lion-Feuchtwanger-Straße 21A, Hellersdorf, Berlin",
+    "id": "126906367",
+    "cold": "290,75 €",
+    "meter": "44,73 m²",
+    "transit": [
+      " 36 min  typically   ",
+      "49 min",
+      " 50 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "wittelsbacherstr. 28, Wilmersdorf, Berlin",
+    "id": "126895591",
+    "cold": "2.100 €",
+    "meter": "95 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 30 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 30 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Rostocker Str. 25, Moabit, Berlin",
+    "id": "126892465",
+    "cold": "620 €",
+    "meter": "43,33 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 14 min  typically   ",
+      "21 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 14 min  typically   ",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Graefestrasse 32, Kreuzberg, Berlin",
+    "id": "126887193",
+    "cold": "1.470 €",
+    "meter": "79 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 24 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 24 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Scharnhorststrasse 0, Mitte (Ortsteil), Berlin",
+    "id": "126867611",
+    "cold": "1.360 €",
+    "meter": "79 m²",
+    "transit": [
+      "6 min",
+      " 11 min  typically   ",
+      " 14 min  typically   "
+    ],
+    "cycling": [
+      "6 min",
+      " 11 min  typically   ",
+      " 14 min  typically   "
+    ]
+  },
+  {
+    "address": "Conrad-Blenkle-Straße 29, Prenzlauer Berg, Berlin",
+    "id": "126867255",
+    "cold": "1.035 €",
+    "meter": "51,66 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Wilhelmstraße 3, Hermsdorf, Berlin",
+    "id": "126854675",
+    "cold": "955,57 €",
+    "meter": "85 m²",
+    "transit": [
+      " 30 min  typically   ",
+      "31 min",
+      " 34 min  typically   "
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      "31 min",
+      " 34 min  typically   "
+    ]
+  },
+  {
+    "address": "Johann-Georg-Straße 19, Halensee, Berlin",
+    "id": "126844465",
+    "cold": "1.600 €",
+    "meter": "80 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 32 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 32 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Wallstrasse 20, Mitte (Ortsteil), Berlin",
+    "id": "126844267",
+    "cold": "2.000 €",
+    "meter": "84 m²",
+    "transit": [
+      " 20 min  typically   ",
+      "30 min",
+      "30 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      "30 min",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Chausseestraße 59a, Mitte (Ortsteil), Berlin",
+    "id": "126835304",
+    "cold": "856,05 €",
+    "meter": "51,85 m²",
+    "transit": [
+      "13 min",
+      "16 min",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Konstanzer Straße 12, Wilmersdorf, Berlin",
+    "id": "126831064",
+    "cold": "1.250 €",
+    "meter": "50 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 30 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 30 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Wedding, Berlin",
+    "id": "126798950",
+    "cold": "1.402 €",
+    "meter": "70,1 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "invalidenstr. 100, Mitte (Ortsteil), Berlin",
+    "id": "126798762",
+    "cold": "800 €",
+    "meter": "32 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      "15 min"
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      "15 min"
+    ]
+  }
+]

@@ -1,0 +1,285 @@
+[
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127378801",
+    "cold": "649 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Malmöer Straße, WE46 23, Prenzlauer Berg, Berlin",
+    "id": "127378780",
+    "cold": "2.950 €",
+    "meter": "164 m²"
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127378779",
+    "cold": "649 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      "38 min",
+      "40 min",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127378743",
+    "cold": "859 €",
+    "meter": "47,5 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127378736",
+    "cold": "859 €",
+    "meter": "47,5 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Liebensteiner Straße 41, Marzahn, Berlin",
+    "id": "127378695",
+    "cold": "196,90 €",
+    "meter": "32,6 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 44 min  typically   ",
+      "58 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127378437",
+    "cold": "794 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      "38 min",
+      "40 min",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Märkische Allee 280, Marzahn, Berlin",
+    "id": "127378346",
+    "cold": "184,87 €",
+    "meter": "30,26 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 39 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 39 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127378100",
+    "cold": "704 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127378087",
+    "cold": "704 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Am Köllnischen Park 8, Mitte (Ortsteil), Berlin",
+    "id": "127377856",
+    "cold": "1.280 €",
+    "meter": "40,65 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Am Köllnischen Park 14, Mitte (Ortsteil), Berlin",
+    "id": "127377798",
+    "cold": "1.300 €",
+    "meter": "47 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      "20 min",
+      "21 min",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Am Köllnischen Park 8, Mitte (Ortsteil), Berlin",
+    "id": "127377718",
+    "cold": "1.400 €",
+    "meter": "51,88 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Am Köllnischen Park 12, Mitte (Ortsteil), Berlin",
+    "id": "127377679",
+    "cold": "1.495 €",
+    "meter": "54,42 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Am Köllnischen Park 14, Mitte (Ortsteil), Berlin",
+    "id": "127377634",
+    "cold": "1.436 €",
+    "meter": "57,73 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Am Köllnischen Park 12, Mitte (Ortsteil), Berlin",
+    "id": "127377578",
+    "cold": "1.568 €",
+    "meter": "58,7 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Am Köllnischen Park 6, Mitte (Ortsteil), Berlin",
+    "id": "127377446",
+    "cold": "2.087 €",
+    "meter": "81,32 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Am Köllnischen Park 11, Mitte (Ortsteil), Berlin",
+    "id": "127377387",
+    "cold": "2.113 €",
+    "meter": "83,27 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 22 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Chamissostraße 4, Hakenfelde, Berlin",
+    "id": "127377330",
+    "cold": "349,56 €",
+    "meter": "39,28 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 34 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      "49 min",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Alte jokbstraße 92, Mitte (Ortsteil), Berlin",
+    "id": "127376750",
+    "cold": "1.950 €",
+    "meter": "95 m²"
+  }
+]

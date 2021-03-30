@@ -1,0 +1,322 @@
+[
+  {
+    "address": "Rhinstraße 7, Friedrichsfelde, Berlin",
+    "id": "127277854",
+    "cold": "499 €",
+    "meter": "37,1 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 38 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 38 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Holsteinische Straße 36, Friedenau, Berlin",
+    "id": "127276289",
+    "cold": "550 €",
+    "meter": "74 m²",
+    "transit": [
+      " 30 min  typically   ",
+      "35 min",
+      " 35 min  typically   "
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      "35 min",
+      " 35 min  typically   "
+    ]
+  },
+  {
+    "address": "Schinkestr. 14, Neukölln (Ortsteil), Berlin",
+    "id": "127274979",
+    "cold": "1.250 €",
+    "meter": "70 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 30 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 30 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Achillesstr. 72, Karow, Berlin",
+    "id": "127271614",
+    "cold": "536,73 €",
+    "meter": "55,62 m²",
+    "transit": [
+      "32 min",
+      " 32 min  typically   ",
+      " 36 min  typically   "
+    ],
+    "cycling": [
+      "32 min",
+      " 32 min  typically   ",
+      " 36 min  typically   "
+    ]
+  },
+  {
+    "address": "Glauchauer Str. 12, Hellersdorf, Berlin",
+    "id": "127271593",
+    "cold": "301,73 €",
+    "meter": "34,35 m²",
+    "transit": [
+      " 41 min  typically   ",
+      " 50 min  typically   ",
+      "55 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      " 50 min  typically   ",
+      "55 min"
+    ]
+  },
+  {
+    "address": "Lynarstr. 42, Spandau (Ortsteil), Berlin",
+    "id": "127270976",
+    "cold": "435 €",
+    "meter": "48,66 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "44 min"
+    ]
+  },
+  {
+    "address": "Ahornstraße 4a, Zehlendorf, Berlin",
+    "id": "127268424",
+    "cold": "1.525 €",
+    "meter": "91,34 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 41 min  typically   ",
+      "46 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      " 41 min  typically   ",
+      "46 min"
+    ]
+  },
+  {
+    "address": "Stralauer Platz 37, Friedrichshain, Berlin",
+    "id": "127266827",
+    "cold": "879,56 €",
+    "meter": "39,98 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Stralauer Platz 37, Friedrichshain, Berlin",
+    "id": "127266722",
+    "cold": "900,24 €",
+    "meter": "39,75 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Südostallee 106, Johannisthal, Berlin",
+    "id": "127266176",
+    "cold": "1.156,96 €",
+    "meter": "72,31 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 42 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      "52 min",
+      "52 min",
+      "55 min"
+    ]
+  },
+  {
+    "address": "Stralauer Platz 37, Friedrichshain, Berlin",
+    "id": "127265394",
+    "cold": "842,37 €",
+    "meter": "39,18 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Südostallee 124, Johannisthal, Berlin",
+    "id": "127265344",
+    "cold": "1.398,20 €",
+    "meter": "93,28 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 45 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      " 45 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Lynarstr. 9, Grunewald, Berlin",
+    "id": "127265282",
+    "cold": "2.830 €",
+    "meter": "155,3 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 32 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 32 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Stralauer Platz 39, Friedrichshain, Berlin",
+    "id": "127265180",
+    "cold": "1.680,53 €",
+    "meter": "83,91 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Willibald-Alexis-Straße 26, Kreuzberg, Berlin",
+    "id": "127263334",
+    "cold": "1.050 €",
+    "meter": "102 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Belziger Str. 71, Schöneberg, Berlin",
+    "id": "127263316",
+    "cold": "1.100 €",
+    "meter": "110,34 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 24 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 24 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Hertastr. 2, Neukölln (Ortsteil), Berlin",
+    "id": "127262791",
+    "cold": "720 €",
+    "meter": "60 m²",
+    "transit": [
+      " 34 min  typically   ",
+      "38 min",
+      "41 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      "38 min",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Rohrbrunner Straße 10, Tegel, Berlin",
+    "id": "127260703",
+    "cold": "649 €",
+    "meter": "49,6 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Knobelsdorffstr. 44, Charlottenburg, Berlin",
+    "id": "127259706",
+    "cold": "1.672 €",
+    "meter": "76 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 22 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 22 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Neukölln (Ortsteil), Berlin",
+    "id": "127256156",
+    "cold": "1.690 €",
+    "meter": "100 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  }
+]

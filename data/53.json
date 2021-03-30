@@ -1,0 +1,298 @@
+[
+  {
+    "address": "Hagenstraße  52, Lichtenberg (Ortsteil), Berlin",
+    "id": "127014877",
+    "cold": "1.150 €",
+    "meter": "85,44 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 29 min  typically   ",
+      "38 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 29 min  typically   ",
+      "38 min"
+    ]
+  },
+  {
+    "address": "Lindenstraße 28a, Köpenick, Berlin",
+    "id": "127014832",
+    "cold": "600,48 €",
+    "meter": "33,36 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 51 min  typically   ",
+      "56 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "127014548",
+    "cold": "2.626,84 €",
+    "meter": "154,52 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Karlshorst, Berlin",
+    "id": "126988001",
+    "cold": "2.528 €",
+    "meter": "158 m²",
+    "transit": [
+      " 35 min  typically   ",
+      "38 min",
+      " 42 min  typically   "
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      "38 min",
+      " 42 min  typically   "
+    ]
+  },
+  {
+    "address": "Bernburger Straße 10, Kreuzberg, Berlin",
+    "id": "126984472",
+    "cold": "1.800 €",
+    "meter": "100 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "21 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Ahrenshooper Straße 10, Neu-Hohenschönhausen, Berlin",
+    "id": "126981404",
+    "cold": "479 €",
+    "meter": "37,03 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 28 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      "36 min",
+      "36 min",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Weisestraße 47, Neukölln (Ortsteil), Berlin",
+    "id": "126974202",
+    "cold": "560 €",
+    "meter": "36,13 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 34 min  typically   ",
+      "37 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Alt-Lankwitz 33a, Lankwitz, Berlin",
+    "id": "126972919",
+    "cold": "538,70 €",
+    "meter": "49,88 m²",
+    "transit": [
+      " 38 min  typically   ",
+      "39 min",
+      "41 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      "39 min",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Havelländer Ring 34, Hellersdorf, Berlin",
+    "id": "126967203",
+    "cold": "540,56 €",
+    "meter": "58 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 49 min  typically   ",
+      "1 hr 5 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 49 min  typically   ",
+      "1 hr 5 min"
+    ]
+  },
+  {
+    "address": "Johann-Sigismund-Straße 2, Halensee, Berlin",
+    "id": "126963408",
+    "cold": "3.264 €",
+    "meter": "210,6 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 32 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 32 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Weinmeisterhornweg 170A, Staaken, Berlin",
+    "id": "126962374",
+    "cold": "630,82 €",
+    "meter": "67,45 m²",
+    "transit": [
+      " 40 min  typically   ",
+      " 41 min  typically   ",
+      "1 hr 1 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Pfannschmidtstr. 37, Karow, Berlin",
+    "id": "126959797",
+    "cold": "579 €",
+    "meter": "42,98 m²",
+    "transit": [
+      "30 min",
+      " 32 min  typically   ",
+      " 39 min  typically   "
+    ],
+    "cycling": [
+      "30 min",
+      " 32 min  typically   ",
+      " 39 min  typically   "
+    ]
+  },
+  {
+    "address": "Dörpfeldstraße 1, Adlershof, Berlin",
+    "id": "126949528",
+    "cold": "647,90 €",
+    "meter": "34,1 m²",
+    "transit": [
+      " 46 min  typically   ",
+      "47 min",
+      "46 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Adlershof, Berlin",
+    "id": "126949352",
+    "cold": "563,55 €",
+    "meter": "28,9 m²",
+    "transit": [
+      " 44 min  typically   ",
+      "48 min",
+      "47 min"
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      "48 min",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Am Hohen Feld 129, Karow, Berlin",
+    "id": "126944463",
+    "cold": "417,86 €",
+    "meter": "51,24 m²",
+    "transit": [
+      " 33 min  typically   ",
+      "35 min",
+      " 38 min  typically   "
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      "35 min",
+      " 38 min  typically   "
+    ]
+  },
+  {
+    "address": "Altonaer Straße 21, Hansaviertel, Berlin",
+    "id": "126939690",
+    "cold": "2.499 €",
+    "meter": "119 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "126932738",
+    "cold": "1.252,48 €",
+    "meter": "65,92 m²",
+    "transit": [
+      " 49 min  typically   ",
+      "50 min",
+      " 51 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "126932523",
+    "cold": "1.482,76 €",
+    "meter": "78,04 m²",
+    "transit": [
+      " 49 min  typically   ",
+      "50 min",
+      " 51 min  typically   "
+    ],
+    "cycling": [
+      " 49 min  typically   ",
+      "50 min",
+      " 51 min  typically   "
+    ]
+  },
+  {
+    "address": "Pasewalker Str. 68, Französisch Buchholz, Berlin",
+    "id": "126931086",
+    "cold": "952,35 €",
+    "meter": "90,7 m²",
+    "transit": [
+      "23 min",
+      " 24 min  typically   ",
+      " 25 min  typically   "
+    ],
+    "cycling": [
+      "23 min",
+      " 24 min  typically   ",
+      " 25 min  typically   "
+    ]
+  },
+  {
+    "address": "Stresemannstraße 76, Kreuzberg, Berlin",
+    "id": "126922812",
+    "cold": "660 €",
+    "meter": "38 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "19 min"
+    ]
+  }
+]

@@ -1,0 +1,277 @@
+[
+  {
+    "address": "Dahmestr. 4, Grünau, Berlin",
+    "id": "127188887",
+    "cold": "725 €",
+    "meter": "52,82 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 52 min  typically   ",
+      "57 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Malteserstr. 150 a, Marienfelde, Berlin",
+    "id": "96251693",
+    "cold": "550 €",
+    "meter": "62,8 m²",
+    "transit": [
+      " 41 min  typically   ",
+      " 45 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      " 45 min  typically   ",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Dudenstraße 80, Schöneberg, Berlin",
+    "id": "100542224",
+    "cold": "599 €",
+    "meter": "20 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Brunsbüttler Damm 223b, Staaken, Berlin",
+    "id": "126508056",
+    "cold": "650 €",
+    "meter": "90,26 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 39 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 39 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Welfenallee 3, Frohnau, Berlin",
+    "id": "69500719",
+    "cold": "699,38 €",
+    "meter": "77 m²",
+    "transit": [
+      "26 min",
+      " 33 min  typically   ",
+      " 35 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Grünauer Straße 129a, Köpenick, Berlin",
+    "id": "127366215",
+    "cold": "621 €",
+    "meter": "59,62 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 51 min  typically   ",
+      "57 min"
+    ],
+    "cycling": [
+      "1 hr 13 min",
+      "1 hr 13 min"
+    ]
+  },
+  {
+    "address": "Wittenberger Straße 21, Marzahn, Berlin",
+    "id": "127366050",
+    "cold": "217,62 €",
+    "meter": "36,03 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 46 min  typically   ",
+      "56 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Grünauer Straße 129, Köpenick, Berlin",
+    "id": "127366028",
+    "cold": "752 €",
+    "meter": "81,18 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 51 min  typically   ",
+      "57 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Voltairestraße 11, Mitte (Ortsteil), Berlin",
+    "id": "127366019",
+    "cold": "1.198 €",
+    "meter": "56,2 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 21 min  typically   ",
+      "25 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 21 min  typically   ",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Barstraße 37, Wilmersdorf, Berlin",
+    "id": "127364214",
+    "cold": "386,40 €",
+    "meter": "46 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 34 min  typically   ",
+      "37 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wilhelmsaue 32, Wilmersdorf, Berlin",
+    "id": "127364133",
+    "cold": "1.290 €",
+    "meter": "65 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 30 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      "36 min",
+      "38 min",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Albert-Schweitzer-Straße 27, Friedrichshagen, Berlin",
+    "id": "127363348",
+    "cold": "335,88 €",
+    "meter": "56,45 m²",
+    "transit": [
+      "48 min",
+      "48 min",
+      " 54 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Kastanienallee 98b, Prenzlauer Berg, Berlin",
+    "id": "127362929",
+    "cold": "1.350 €",
+    "meter": "67,5 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ],
+    "cycling": [
+      "8 min",
+      "9 min",
+      "9 min"
+    ]
+  },
+  {
+    "address": "Helene-Jacobs-Straße 26, Schmargendorf, Berlin",
+    "id": "127361244",
+    "cold": "1.171,60 €",
+    "meter": "65,82 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 32 min  typically   ",
+      "49 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "127360416",
+    "cold": "1.430 €",
+    "meter": "65 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Helene-Jacobs-Straße 24, Schmargendorf, Berlin",
+    "id": "127360236",
+    "cold": "1.505,35 €",
+    "meter": "86,02 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 32 min  typically   ",
+      "48 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mühlenstraße  75, Pankow (Ortsteil), Berlin",
+    "id": "127359896",
+    "cold": "822,75 €",
+    "meter": "54,85 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "18 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Elfriede-Kuhr-Straße 21, Rudow, Berlin",
+    "id": "127359576",
+    "cold": "670,37 €",
+    "meter": "67,51 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 52 min  typically   ",
+      "59 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Quartiersweg 6, Schöneberg, Berlin",
+    "id": "127359550",
+    "cold": "675,36 €",
+    "meter": "23,45 m²",
+    "transit": [
+      "28 min",
+      " 29 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      "28 min",
+      " 29 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Quartiersweg 8, Schöneberg, Berlin",
+    "id": "127359542",
+    "cold": "1.457,47 €",
+    "meter": "88,75 m²",
+    "transit": [
+      "28 min",
+      " 28 min  typically   ",
+      "33 min"
+    ],
+    "cycling": []
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "address": "Moabit, Berlin",
+    "id": "119839734",
+    "cold": "568 €",
+    "meter": "52 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Gaußstraße 2, Oberschöneweide, Berlin",
+    "id": "119836974",
+    "cold": "360 €",
+    "meter": "20,67 m²",
+    "transit": [
+      " 42 min  typically   ",
+      "51 min",
+      " 55 min  typically   "
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      "51 min",
+      " 55 min  typically   "
+    ]
+  },
+  {
+    "address": "Friedrichsfelde, Berlin",
+    "id": "119834288",
+    "cold": "247 €",
+    "meter": "35 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 37 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 37 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Köpenick, Berlin",
+    "id": "119834285",
+    "cold": "600 €",
+    "meter": "55 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 56 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 49 min  typically   ",
+      " 56 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Weißensee, Berlin",
+    "id": "119834270",
+    "cold": "620 €",
+    "meter": "82 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Lichtenberg (Ortsteil), Berlin",
+    "id": "119834227",
+    "cold": "221 €",
+    "meter": "34 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 26 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 26 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg-Nord, Berlin",
+    "id": "119730752",
+    "cold": "258 €",
+    "meter": "38 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 19 min  typically   ",
+      " 19 min  typically   "
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 19 min  typically   ",
+      " 19 min  typically   "
+    ]
+  },
+  {
+    "address": "Neukölln (Ortsteil), Berlin",
+    "id": "119725209",
+    "cold": "300 €",
+    "meter": "38 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 39 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      " 39 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "119720821",
+    "cold": "350 €",
+    "meter": "35 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Hansaviertel, Berlin",
+    "id": "119701121",
+    "cold": "700 €",
+    "meter": "70 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 16 min  typically   ",
+      "25 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 16 min  typically   ",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Müggelheimer Straße 21, Köpenick, Berlin",
+    "id": "119688876",
+    "cold": "697 €",
+    "meter": "82 m²",
+    "transit": [
+      " 52 min  typically   ",
+      " 56 min  typically   ",
+      "59 min"
+    ],
+    "cycling": [
+      " 52 min  typically   ",
+      " 56 min  typically   ",
+      "59 min"
+    ]
+  },
+  {
+    "address": "Neptunstr. 22, Reinickendorf (Ortsteil), Berlin",
+    "id": "119230494",
+    "cold": "998,03 €",
+    "meter": "61,18 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "119081100",
+    "cold": "1.050 €",
+    "meter": "52 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Greifenhagener Str. 5, Prenzlauer Berg, Berlin",
+    "id": "119080744",
+    "cold": "1.100 €",
+    "meter": "50 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 9 min  typically   "
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 9 min  typically   "
+    ]
+  },
+  {
+    "address": "Buchholzer Str. 5, Prenzlauer Berg, Berlin",
+    "id": "119080120",
+    "cold": "1.800 €",
+    "meter": "83 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 9 min  typically   "
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 9 min  typically   "
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "119079822",
+    "cold": "950 €",
+    "meter": "43 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "119077890",
+    "cold": "1.100 €",
+    "meter": "36 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "119077709",
+    "cold": "1.350 €",
+    "meter": "60 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "119077594",
+    "cold": "1.250 €",
+    "meter": "45 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "119077352",
+    "cold": "1.400 €",
+    "meter": "52 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  }
+]

@@ -1,0 +1,287 @@
+[
+  {
+    "address": "Müllerstraße 34, Wedding, Berlin",
+    "id": "124309336",
+    "cold": "556,34 €",
+    "meter": "20,41 m²",
+    "transit": [],
+    "cycling": [
+      "11 min",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Venusstraße 28, Altglienicke, Berlin",
+    "id": "123959287",
+    "cold": "305,37 €",
+    "meter": "46,98 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 50 min  typically   "
+    ],
+    "cycling": [
+      "1 hr 15 min",
+      "1 hr 14 min",
+      "1 hr 15 min"
+    ]
+  },
+  {
+    "address": "Venusstraße 28, Altglienicke, Berlin",
+    "id": "123958383",
+    "cold": "420,62 €",
+    "meter": "64,71 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 51 min  typically   "
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      " 51 min  typically   "
+    ]
+  },
+  {
+    "address": "Venusstraße 28, Altglienicke, Berlin",
+    "id": "123958369",
+    "cold": "379,54 €",
+    "meter": "58,39 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 51 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Venusstraße 28, Altglienicke, Berlin",
+    "id": "123958362",
+    "cold": "356,07 €",
+    "meter": "54,78 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 50 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Venusstraße 28, Altglienicke, Berlin",
+    "id": "123958348",
+    "cold": "302,97 €",
+    "meter": "46,61 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 50 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "An der Wuhlheide 226 b, Oberschöneweide, Berlin",
+    "id": "122806019",
+    "cold": "856 €",
+    "meter": "68,5 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 53 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      "1 hr 1 min",
+      "1 hr 5 min",
+      "1 hr 7 min"
+    ]
+  },
+  {
+    "address": "Schöneberg, Berlin",
+    "id": "119630822",
+    "cold": "2.690 €",
+    "meter": "130 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Tino-Schwierzina-Str. 30a, Heinersdorf, Berlin",
+    "id": "115181388",
+    "cold": "459 €",
+    "meter": "20,3 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 21 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 21 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Gerichtstraße 65-68, Gesundbrunnen, Berlin",
+    "id": "114778975",
+    "cold": "455 €",
+    "meter": "19,5 m²",
+    "transit": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ],
+    "cycling": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ]
+  },
+  {
+    "address": "Wexstraße 13, Wilmersdorf, Berlin",
+    "id": "113031910",
+    "cold": "525 €",
+    "meter": "23,37 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Teltower Damm 203B, Zehlendorf, Berlin",
+    "id": "111898535",
+    "cold": "531,68 €",
+    "meter": "40,34 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 43 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      " 43 min  typically   ",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Henleinweg 8, Lichterfelde, Berlin",
+    "id": "104834227",
+    "cold": "1.056,88 €",
+    "meter": "110,9 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "42 min",
+      "45 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      "42 min",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Ostpreußendamm 158 , Lichterfelde, Berlin",
+    "id": "68353748",
+    "cold": "805,55 €",
+    "meter": "74,45 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 41 min  typically   ",
+      "43 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 41 min  typically   ",
+      "43 min"
+    ]
+  },
+  {
+    "address": "Teltower Damm 199, Zehlendorf, Berlin",
+    "id": "63888161",
+    "cold": "335,15 €",
+    "meter": "25,86 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 43 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      "1 hr 9 min",
+      "1 hr 12 min",
+      "1 hr 9 min"
+    ]
+  },
+  {
+    "address": "Otto-Suhr-Allee 62, Charlottenburg, Berlin",
+    "id": "124684797",
+    "cold": "390 €",
+    "meter": "41,53 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 21 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      "32 min",
+      "31 min",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "124075181",
+    "cold": "320,65 €",
+    "meter": "32,27 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 24 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "127275634",
+    "cold": "2.400 €",
+    "meter": "140 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "32 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Sophie-Charlotten-Straße 107, Charlottenburg, Berlin",
+    "id": "126918934",
+    "cold": "1.248 €",
+    "meter": "78 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "43 min"
+    ],
+    "cycling": [
+      "38 min",
+      "38 min",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Kopenhagener Straße 57, Prenzlauer Berg, Berlin",
+    "id": "126905007",
+    "cold": "1.700 €",
+    "meter": "61,3 m²",
+    "transit": [],
+    "cycling": [
+      "7 min",
+      "9 min",
+      "8 min"
+    ]
+  }
+]

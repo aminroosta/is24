@@ -1,0 +1,294 @@
+[
+  {
+    "address": "Lehrter Straße 25, Moabit, Berlin",
+    "id": "126508198",
+    "cold": "1.154 €",
+    "meter": "57,7 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      " 11 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Clayallee 165, Dahlem, Berlin",
+    "id": "126499784",
+    "cold": "1.000 €",
+    "meter": "60,11 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 36 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 36 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Wannsee, Berlin",
+    "id": "126499614",
+    "cold": "2.354,50 €",
+    "meter": "138,41 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 47 min  typically   ",
+      "51 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 21, Tiergarten, Berlin",
+    "id": "126498993",
+    "cold": "3.900 €",
+    "meter": "135,1 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Wannsee, Berlin",
+    "id": "126496317",
+    "cold": "1.313,50 €",
+    "meter": "71 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 47 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      " 47 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Steglitz, Berlin",
+    "id": "126492553",
+    "cold": "1.180 €",
+    "meter": "76 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 36 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 36 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Heinrich Böll Straße 11a, Niederschönhausen, Berlin",
+    "id": "126486023",
+    "cold": "811,50 €",
+    "meter": "64,92 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "36 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Nürnberger Straße 68, Schöneberg, Berlin",
+    "id": "126481139",
+    "cold": "1.600 €",
+    "meter": "55 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Rungestraße 6, Mitte (Ortsteil), Berlin",
+    "id": "126474407",
+    "cold": "1.415 €",
+    "meter": "73 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 22 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 22 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Gadebuscher Straße 25, Hellersdorf, Berlin",
+    "id": "126469630",
+    "cold": "397,15 €",
+    "meter": "61,1 m²",
+    "transit": [
+      " 37 min  typically   ",
+      "48 min",
+      " 50 min  typically   "
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      "48 min",
+      " 50 min  typically   "
+    ]
+  },
+  {
+    "address": "Gadebuscher Straße 25, Hellersdorf, Berlin",
+    "id": "126469547",
+    "cold": "368,81 €",
+    "meter": "56,74 m²",
+    "transit": [
+      " 37 min  typically   ",
+      "48 min",
+      " 50 min  typically   "
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      "48 min",
+      " 50 min  typically   "
+    ]
+  },
+  {
+    "address": "Stresemannstraße 74, Kreuzberg, Berlin",
+    "id": "126452401",
+    "cold": "440 €",
+    "meter": "32 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "126432362",
+    "cold": "1.250 €",
+    "meter": "61,1 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 34 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 34 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Westend, Berlin",
+    "id": "126413644",
+    "cold": "2.800 €",
+    "meter": "139,5 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 25 min  typically   ",
+      "39 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Rungestr. 13, Mitte (Ortsteil), Berlin",
+    "id": "126407287",
+    "cold": "1.846,72 €",
+    "meter": "130 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 21 min  typically   ",
+      "24 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Fritz-Lang-Straße 6, Hellersdorf, Berlin",
+    "id": "126396037",
+    "cold": "577,47 €",
+    "meter": "74,34 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 49 min  typically   ",
+      "55 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Nürnberger Str. 68, Schöneberg, Berlin",
+    "id": "126394091",
+    "cold": "1.600 €",
+    "meter": "55 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Schaffhausener Str. 29, Tempelhof, Berlin",
+    "id": "126356112",
+    "cold": "400,30 €",
+    "meter": "47,88 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 37 min  typically   ",
+      "53 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126355582",
+    "cold": "2.578,30 €",
+    "meter": "135,7 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Tiergarten, Berlin",
+    "id": "126353475",
+    "cold": "2.385 €",
+    "meter": "159 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 15 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 15 min  typically   ",
+      "30 min"
+    ]
+  }
+]

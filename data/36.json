@@ -1,0 +1,306 @@
+[
+  {
+    "address": "Grunewald, Berlin",
+    "id": "126834203",
+    "cold": "3.700 €",
+    "meter": "202 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 33 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 33 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Lehrter Straße  24b, Moabit, Berlin",
+    "id": "126831802",
+    "cold": "640 €",
+    "meter": "23 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Maaßenstraße 4, Schöneberg, Berlin",
+    "id": "126830582",
+    "cold": "413,16 €",
+    "meter": "37,56 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 18 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 18 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Nahariyastraße 18, Lichtenrade, Berlin",
+    "id": "126824988",
+    "cold": "462,11 €",
+    "meter": "62,15 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 57 min  typically   ",
+      "58 min"
+    ],
+    "cycling": [
+      " 48 min  typically   ",
+      " 57 min  typically   ",
+      "58 min"
+    ]
+  },
+  {
+    "address": "Schöneberger Ufer 5b, Kreuzberg, Berlin",
+    "id": "126706348",
+    "cold": "1.950 €",
+    "meter": "90 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 18 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 18 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Wichertstraße 51, Prenzlauer Berg, Berlin",
+    "id": "126351147",
+    "cold": "2.833 €",
+    "meter": "103,01 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "21 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Am Carlsgarten 7, Karlshorst, Berlin",
+    "id": "126191714",
+    "cold": "465 €",
+    "meter": "18 m²",
+    "transit": [
+      "36 min",
+      " 38 min  typically   ",
+      "38 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Köthener Strasse 6, Tiergarten, Berlin",
+    "id": "126149558",
+    "cold": "2.977,56 €",
+    "meter": "275 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 17 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 17 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Am Zirkus 20, Mitte (Ortsteil), Berlin",
+    "id": "126022218",
+    "cold": "1.995 €",
+    "meter": "130 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "18 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Walter-Benjamin Platz 0, Charlottenburg, Berlin",
+    "id": "125928591",
+    "cold": "1.280 €",
+    "meter": "70 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Melli-Beese-Straße 64, Johannisthal, Berlin",
+    "id": "124885146",
+    "cold": "227,50 €",
+    "meter": "35 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 42 min  typically   ",
+      "1 hr 5 min"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      " 42 min  typically   ",
+      "1 hr 5 min"
+    ]
+  },
+  {
+    "address": "Otto-Suhr-Allee  22A, Charlottenburg, Berlin",
+    "id": "124447454",
+    "cold": "1.962,56 €",
+    "meter": "135,27 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Schöneberg, Berlin",
+    "id": "123803528",
+    "cold": "9.541,62 €",
+    "meter": "160,79 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 22 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 22 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "123737239",
+    "cold": "4.200 €",
+    "meter": "116 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Rosenfelder Ring  154, Friedrichsfelde, Berlin",
+    "id": "122860590",
+    "cold": "1.989,12 €",
+    "meter": "165,76 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 33 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 33 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Weinbergsweg 6, Mitte (Ortsteil), Berlin",
+    "id": "115451318",
+    "cold": "1.500 €",
+    "meter": "50,96 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 7 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Lüderitzstraße 56, Wedding, Berlin",
+    "id": "114121331",
+    "cold": "1.300 €",
+    "meter": "91,7 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 14 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 14 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Wexstraße 13-15, Wilmersdorf, Berlin",
+    "id": "110395738",
+    "cold": "540 €",
+    "meter": "23,98 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Wexstraße 15, Wilmersdorf, Berlin",
+    "id": "109755628",
+    "cold": "580 €",
+    "meter": "25,9 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 28 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 28 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Schmargendorf, Berlin",
+    "id": "108319408",
+    "cold": "12.000 €",
+    "meter": "364 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 31 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  }
+]

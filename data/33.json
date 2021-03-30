@@ -1,0 +1,280 @@
+[
+  {
+    "address": "Parksiedlung Spruch 3 bis 137, Buckow, Berlin",
+    "id": "127301961",
+    "cold": "574,83 €",
+    "meter": "63,87 m²"
+  },
+  {
+    "address": "Carl-Herz-Ufer, Wilmsstr. 1,3,5, Kreuzberg, Berlin",
+    "id": "122052312",
+    "cold": "2.700 €",
+    "meter": "135 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 22 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 22 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Neukölln (Ortsteil), Berlin",
+    "id": "120023122",
+    "cold": "360 €",
+    "meter": "49,6 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 39 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 39 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Haubachstraße 32, Charlottenburg, Berlin",
+    "id": "125052256",
+    "cold": "2.106 €",
+    "meter": "131,6 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 25 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Rothenbachstraße 34 34, Heinersdorf, Berlin",
+    "id": "66784170",
+    "cold": "749 €",
+    "meter": "83 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 18 min  typically   ",
+      "28 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Bremer Straße 53, Moabit, Berlin",
+    "id": "127299020",
+    "cold": "259,14 €",
+    "meter": "35 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 14 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 14 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Niebuhrstr. 55, Charlottenburg, Berlin",
+    "id": "127186323",
+    "cold": "1.247,29 €",
+    "meter": "55 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 25 min  typically   ",
+      "34 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 21, Tiergarten, Berlin",
+    "id": "127186022",
+    "cold": "1.685 €",
+    "meter": "55 m²",
+    "transit": [],
+    "cycling": [
+      "19 min",
+      "21 min",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 21, Tiergarten, Berlin",
+    "id": "127185826",
+    "cold": "1.385 €",
+    "meter": "55 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Pauline-Staegemann-Str. 6, Friedrichshain, Berlin",
+    "id": "122122657",
+    "cold": "990 - 3.200 €",
+    "meter": "42,00 - 155,00 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Schöneberg, Berlin",
+    "id": "36501980",
+    "cold": "341,65 €",
+    "meter": "40,5 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Schönhauser Allee  125, Prenzlauer Berg, Berlin",
+    "id": "127310390",
+    "cold": "1.749,90 €",
+    "meter": "92,1 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      "16 min"
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      "16 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "127309273",
+    "cold": "800 €",
+    "meter": "42 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "127309207",
+    "cold": "800 €",
+    "meter": "42 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Schlangenbader Straße 29C, Wilmersdorf, Berlin",
+    "id": "127307829",
+    "cold": "521,38 €",
+    "meter": "73,11 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 30 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 30 min  typically   ",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Provinzstr 69A, Niederschönhausen, Berlin",
+    "id": "127306655",
+    "cold": "900 €",
+    "meter": "56,99 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 15 min  typically   ",
+      "15 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Zillestr. 50, Charlottenburg, Berlin",
+    "id": "127303034",
+    "cold": "2.079 €",
+    "meter": "115,5 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 21 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 21 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "127301546",
+    "cold": "1.573 €",
+    "meter": "53 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "127301106",
+    "cold": "1.573 €",
+    "meter": "53 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      "9 min",
+      "8 min",
+      "9 min"
+    ]
+  },
+  {
+    "address": "Linienstr. 115, Mitte (Ortsteil), Berlin",
+    "id": "127299177",
+    "cold": "2.010 €",
+    "meter": "91 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 7 min  typically   ",
+      "14 min"
+    ],
+    "cycling": []
+  }
+]

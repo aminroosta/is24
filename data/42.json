@@ -1,0 +1,290 @@
+[
+  {
+    "address": "Münchehagenstr. 44, Karow, Berlin",
+    "id": "127362709",
+    "cold": "482,24 €",
+    "meter": "43,84 m²",
+    "transit": [
+      " 33 min  typically   ",
+      "35 min",
+      " 37 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Flottwellstraße 24, Tiergarten, Berlin",
+    "id": "127362704",
+    "cold": "1.727,16 €",
+    "meter": "93,36 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "33 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schnellerstr. 103, Niederschöneweide, Berlin",
+    "id": "127362695",
+    "cold": "444,60 €",
+    "meter": "24,7 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 47 min  typically   ",
+      "47 min"
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      " 47 min  typically   ",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Schnellerstr. 103, Niederschöneweide, Berlin",
+    "id": "127362547",
+    "cold": "537,40 €",
+    "meter": "26,87 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 48 min  typically   ",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Fließstraße 13, Niederschöneweide, Berlin",
+    "id": "127361540",
+    "cold": "509,76 €",
+    "meter": "28,32 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 45 min  typically   ",
+      "46 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Arnold Knoblauch Ring 60, Wannsee, Berlin",
+    "id": "127361087",
+    "cold": "1.200 €",
+    "meter": "62 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 50 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      " 50 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Osningweg 4, Falkenhagener Feld, Berlin",
+    "id": "127360330",
+    "cold": "452,20 €",
+    "meter": "59,5 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 35 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 35 min  typically   ",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Mahlsdorfer Str. 02c, Köpenick, Berlin",
+    "id": "127360195",
+    "cold": "640 €",
+    "meter": "51,72 m²",
+    "transit": [
+      "41 min",
+      "43 min",
+      " 45 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Streitstraße 77, Hakenfelde, Berlin",
+    "id": "127360056",
+    "cold": "783 €",
+    "meter": "54 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 34 min  typically   ",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gerichtstraße 66, Gesundbrunnen, Berlin",
+    "id": "127359328",
+    "cold": "500 €",
+    "meter": "20 m²",
+    "transit": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wassermannstr. 73, Adlershof, Berlin",
+    "id": "127358118",
+    "cold": "955 €",
+    "meter": "59,3 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 48 min  typically   ",
+      "51 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Flutstraße 23, Niederschöneweide, Berlin",
+    "id": "127357849",
+    "cold": "846,54 €",
+    "meter": "47,03 m²",
+    "transit": [
+      "44 min",
+      " 45 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      "44 min",
+      " 45 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Stralauer Allee 14, Friedrichshain, Berlin",
+    "id": "127356615",
+    "cold": "950 €",
+    "meter": "41 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Pankow (Ortsteil), Berlin",
+    "id": "127354553",
+    "cold": "800 €",
+    "meter": "43,5 m²",
+    "transit": [
+      " 13 min  typically   ",
+      "14 min",
+      " 14 min  typically   "
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      "14 min",
+      " 14 min  typically   "
+    ]
+  },
+  {
+    "address": "Charlottenburger Straße 136, Weißensee, Berlin",
+    "id": "127353402",
+    "cold": "1.167 €",
+    "meter": "45,78 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 22 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 22 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Stallschreiberstr. 16, Mitte (Ortsteil), Berlin",
+    "id": "127352680",
+    "cold": "1.449 €",
+    "meter": "87,9 m²",
+    "transit": [
+      " 19 min  typically   ",
+      "27 min",
+      "29 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      "27 min",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Kaiserstr. 123, Mariendorf, Berlin",
+    "id": "127348871",
+    "cold": "748 €",
+    "meter": "62,33 m²",
+    "transit": [
+      " 35 min  typically   ",
+      "37 min",
+      "37 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      "37 min",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Wedding, Berlin",
+    "id": "127348836",
+    "cold": "680 €",
+    "meter": "43 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Buckow, Berlin",
+    "id": "127347841",
+    "cold": "290 €",
+    "meter": "43,86 m²",
+    "transit": [
+      " 41 min  typically   ",
+      " 45 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      " 45 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Schöneberg, Berlin",
+    "id": "127347199",
+    "cold": "500 €",
+    "meter": "50 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 21 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 21 min  typically   ",
+      "34 min"
+    ]
+  }
+]

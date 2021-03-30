@@ -1,0 +1,310 @@
+[
+  {
+    "address": "Brettnacher Straße 15a, Zehlendorf, Berlin",
+    "id": "127115233",
+    "cold": "990 €",
+    "meter": "54 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 40 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      " 40 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Malteserstr. 154, Marienfelde, Berlin",
+    "id": "126503825",
+    "cold": "597 €",
+    "meter": "68,66 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "46 min",
+      "49 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      "46 min",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Wexstr. 15, Wilmersdorf, Berlin",
+    "id": "127348138",
+    "cold": "562 €",
+    "meter": "27 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Invalidenstraße 6, Mitte (Ortsteil), Berlin",
+    "id": "127348002",
+    "cold": "1.229,75 €",
+    "meter": "49,19 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "12 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Invalidenstraße 6, Mitte (Ortsteil), Berlin",
+    "id": "127347993",
+    "cold": "1.384,75 €",
+    "meter": "55,39 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "12 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Einbecker Str. 53a, Friedrichsfelde, Berlin",
+    "id": "127347987",
+    "cold": "520 €",
+    "meter": "26 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Einbecker Str. 53a, Friedrichsfelde, Berlin",
+    "id": "127347984",
+    "cold": "601,40 €",
+    "meter": "24,15 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Einbecker Str. 53a, Friedrichsfelde, Berlin",
+    "id": "127347978",
+    "cold": "601,40 €",
+    "meter": "26,92 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Einbecker Str. 53a, Friedrichsfelde, Berlin",
+    "id": "127347943",
+    "cold": "601,40 €",
+    "meter": "25,58 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Einbecker Str. 53a, Friedrichsfelde, Berlin",
+    "id": "127347924",
+    "cold": "601,40 €",
+    "meter": "28,24 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 39 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Pettenkofer Str. 31, Friedrichshain, Berlin",
+    "id": "127347912",
+    "cold": "460 €",
+    "meter": "23 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Langhansstrasse 79, Weißensee, Berlin",
+    "id": "127125253",
+    "cold": "1.750 €",
+    "meter": "95,58 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 15 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      "17 min",
+      "16 min",
+      "17 min"
+    ]
+  },
+  {
+    "address": "Märkische Allee 316 A, Marzahn, Berlin",
+    "id": "127116710",
+    "cold": "710 €",
+    "meter": "66,33 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 46 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 46 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Märkische Allee 316, Marzahn, Berlin",
+    "id": "127116656",
+    "cold": "657 €",
+    "meter": "61,1 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 45 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 45 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Märkische Allee 316 A, Marzahn, Berlin",
+    "id": "127116629",
+    "cold": "591 €",
+    "meter": "55,73 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 46 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 46 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Märkische Allee 316 A, Marzahn, Berlin",
+    "id": "127116590",
+    "cold": "808 €",
+    "meter": "75,83 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 46 min  typically   ",
+      "56 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Hauptstr. 15, Schöneberg, Berlin",
+    "id": "126426477",
+    "cold": "2.300 €",
+    "meter": "130 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 26 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 26 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Otto-Suhr-Allee  26, Charlottenburg, Berlin",
+    "id": "126137115",
+    "cold": "1.798,83 €",
+    "meter": "102,79 m²",
+    "transit": [],
+    "cycling": [
+      "33 min",
+      "31 min",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Otto-Braun Strasse 67, Mitte (Ortsteil), Berlin",
+    "id": "79469862",
+    "cold": "1.790 €",
+    "meter": "34 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 13 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 13 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Otto-Braun Strasse 67, Mitte (Ortsteil), Berlin",
+    "id": "79469490",
+    "cold": "1.990 €",
+    "meter": "30 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 12 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  }
+]

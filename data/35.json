@@ -1,0 +1,290 @@
+[
+  {
+    "address": "Mertensstraße 13 e, Hakenfelde, Berlin",
+    "id": "127036242",
+    "cold": "718,42 €",
+    "meter": "54,55 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 34 min  typically   ",
+      "50 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Luisenstraße 40, Mitte (Ortsteil), Berlin",
+    "id": "126957363",
+    "cold": "1.485 €",
+    "meter": "75 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "21 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "126957079",
+    "cold": "1.516 €",
+    "meter": "75,8 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Nürnbergerstr. 68, Schöneberg, Berlin",
+    "id": "126957075",
+    "cold": "1.450 €",
+    "meter": "50,14 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "35 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Archibaldweg 12, Rummelsburg, Berlin",
+    "id": "126950403",
+    "cold": "736 €",
+    "meter": "31,5 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Lehrter Straße 24 B, Moabit, Berlin",
+    "id": "126948690",
+    "cold": "689 €",
+    "meter": "22,35 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      "12 min",
+      "14 min",
+      "11 min"
+    ]
+  },
+  {
+    "address": "Lydia-Rabinowitsch-Straße 24, Moabit, Berlin",
+    "id": "126948611",
+    "cold": "1.488 €",
+    "meter": "77,79 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 9 min  typically   ",
+      "26 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Lehrter Straße 24 B, Moabit, Berlin",
+    "id": "126948590",
+    "cold": "689 €",
+    "meter": "22,35 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Lehrter Straße 24 B, Moabit, Berlin",
+    "id": "126948580",
+    "cold": "689 €",
+    "meter": "22,35 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Lehrter Straße 24 B, Moabit, Berlin",
+    "id": "126948566",
+    "cold": "689 €",
+    "meter": "22,35 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Lehrter Straße 24B, Moabit, Berlin",
+    "id": "126948561",
+    "cold": "689 €",
+    "meter": "24,07 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "In den Leonorengärten 2, Lankwitz, Berlin",
+    "id": "126948550",
+    "cold": "1.500,47 €",
+    "meter": "80 m²",
+    "transit": [
+      " 35 min  typically   ",
+      "37 min",
+      " 42 min  typically   "
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      "37 min",
+      " 42 min  typically   "
+    ]
+  },
+  {
+    "address": "Brüder-Grimm-Gasse 4, Tiergarten, Berlin",
+    "id": "126948350",
+    "cold": "1.790 €",
+    "meter": "115,23 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 17 min  typically   ",
+      "21 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Stallschreiber Straße 19, Mitte (Ortsteil), Berlin",
+    "id": "126946880",
+    "cold": "1.495 €",
+    "meter": "65,1 m²",
+    "transit": [
+      " 18 min  typically   ",
+      "28 min",
+      "30 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      "28 min",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Ringbahnstr. 28, Neukölln (Ortsteil), Berlin",
+    "id": "126946245",
+    "cold": "616 €",
+    "meter": "44 m²",
+    "transit": [
+      " 35 min  typically   ",
+      "37 min",
+      " 42 min  typically   "
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      "37 min",
+      " 42 min  typically   "
+    ]
+  },
+  {
+    "address": "Berliner Allee 200-204, Weißensee, Berlin",
+    "id": "126946186",
+    "cold": "950 €",
+    "meter": "94,07 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 21 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 21 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "126893234",
+    "cold": "500 €",
+    "meter": "18 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Joseph-von-Eichendorff-Gasse 1, Tiergarten, Berlin",
+    "id": "126835209",
+    "cold": "1.690 €",
+    "meter": "101 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Joseph-von-Eichendorff-Gasse 1, Tiergarten, Berlin",
+    "id": "126835115",
+    "cold": "1.650 €",
+    "meter": "94 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Alte Potsdamer Straße 13, Tiergarten, Berlin",
+    "id": "126834808",
+    "cold": "1.650 €",
+    "meter": "101 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 15 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      "18 min",
+      "23 min",
+      "20 min"
+    ]
+  }
+]

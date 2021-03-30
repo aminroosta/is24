@@ -1,0 +1,310 @@
+[
+  {
+    "address": "Voltairestraße 11, Mitte (Ortsteil), Berlin",
+    "id": "127089106",
+    "cold": "1.388,81 €",
+    "meter": "80,75 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "24 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Köpenick, Berlin",
+    "id": "127089044",
+    "cold": "2.000 €",
+    "meter": "170 m²",
+    "transit": [
+      " 52 min  typically   ",
+      " 52 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 52 min  typically   ",
+      " 52 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Voltairestraße 11, Mitte (Ortsteil), Berlin",
+    "id": "127088453",
+    "cold": "2.977,94 €",
+    "meter": "143,52 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Edisonstrasse 39, Oberschöneweide, Berlin",
+    "id": "127087904",
+    "cold": "875 €",
+    "meter": "84 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Altglienicke, Berlin",
+    "id": "127084481",
+    "cold": "1.190 €",
+    "meter": "76 m²",
+    "transit": [
+      " 47 min  typically   ",
+      " 57 min  typically   ",
+      "1 hr 5 min"
+    ],
+    "cycling": [
+      " 47 min  typically   ",
+      " 57 min  typically   ",
+      "1 hr 5 min"
+    ]
+  },
+  {
+    "address": "Am Tegeler Hafen 8d, Tegel, Berlin",
+    "id": "127074890",
+    "cold": "1.085 €",
+    "meter": "82 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Wassermannstraße 73, Adlershof, Berlin",
+    "id": "127070294",
+    "cold": "600 €",
+    "meter": "33 m²",
+    "transit": [
+      " 47 min  typically   ",
+      "51 min",
+      "49 min"
+    ],
+    "cycling": [
+      " 47 min  typically   ",
+      "51 min",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Weißensee, Berlin",
+    "id": "127064853",
+    "cold": "1.150 €",
+    "meter": "79,17 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 22 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 22 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Katharina-Boll-Dornberger-Str. 16, Adlershof, Berlin",
+    "id": "127064788",
+    "cold": "512 €",
+    "meter": "37,49 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 43 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 43 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Lipschitzallee 48, Gropiusstadt, Berlin",
+    "id": "127061793",
+    "cold": "285,31 €",
+    "meter": "39,96 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 49 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 49 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Scherenbergstr. 6, Prenzlauer Berg, Berlin",
+    "id": "127059729",
+    "cold": "780 €",
+    "meter": "86,19 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 12 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 12 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Flughafenstraße 72-74, Neukölln (Ortsteil), Berlin",
+    "id": "127055581",
+    "cold": "575 €",
+    "meter": "21 m²",
+    "transit": [
+      " 27 min  typically   ",
+      "30 min",
+      "32 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      "30 min",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Lindenstraße 28a, Köpenick, Berlin",
+    "id": "127052774",
+    "cold": "582,40 €",
+    "meter": "29,12 m²",
+    "transit": [
+      " 46 min  typically   ",
+      " 52 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 46 min  typically   ",
+      " 52 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "127051776",
+    "cold": "2.139 €",
+    "meter": "89,16 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 25 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 25 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Stallschreiberstr. 18, Mitte (Ortsteil), Berlin",
+    "id": "127042964",
+    "cold": "1.300 €",
+    "meter": "43 m²",
+    "transit": [
+      " 18 min  typically   ",
+      "27 min",
+      "29 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      "27 min",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Stallschreiberstr. 18, Mitte (Ortsteil), Berlin",
+    "id": "127042878",
+    "cold": "1.300 €",
+    "meter": "43,1 m²",
+    "transit": [
+      " 18 min  typically   ",
+      "27 min",
+      "29 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Hasenheide 119, Neukölln (Ortsteil), Berlin",
+    "id": "127042042",
+    "cold": "2.470 €",
+    "meter": "162 m²",
+    "transit": [
+      " 25 min  typically   ",
+      "29 min",
+      " 31 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Marzahnstraße 11, Tegel, Berlin",
+    "id": "127032669",
+    "cold": "328,74 €",
+    "meter": "52,43 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 25 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 25 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Straße 614 Nr. 12, Britz, Berlin",
+    "id": "127027491",
+    "cold": "844,62 €",
+    "meter": "80,44 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 41 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 41 min  typically   ",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Krowelstr. 16a, Wilhelmstadt, Berlin",
+    "id": "127020602",
+    "cold": "615 €",
+    "meter": "62 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 34 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 34 min  typically   ",
+      "45 min"
+    ]
+  }
+]

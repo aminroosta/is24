@@ -1,0 +1,279 @@
+[
+  {
+    "address": "Steffelbauer Str. 20-24, Oberschöneweide, Berlin",
+    "id": "126424480",
+    "cold": "460 €",
+    "meter": "25 m²",
+    "transit": [
+      " 40 min  typically   ",
+      " 43 min  typically   ",
+      "49 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Soldiner Straße 38, Gesundbrunnen, Berlin",
+    "id": "105301277",
+    "cold": "957,56 €",
+    "meter": "63,95 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 9 min  typically   ",
+      " 10 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wandlitzstraße 23-25, Karlshorst, Berlin",
+    "id": "127320890",
+    "cold": "673,13 €",
+    "meter": "55,04 m²",
+    "transit": [],
+    "cycling": [
+      "47 min",
+      "46 min",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "126832099",
+    "cold": "2.586 €",
+    "meter": "143,64 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "126832075",
+    "cold": "1.769 €",
+    "meter": "88,47 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Martin- Riesenburger-Str. 36, Hellersdorf, Berlin",
+    "id": "127053397",
+    "cold": "909 €",
+    "meter": "83,94 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 50 min  typically   ",
+      "1 hr 1 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Teichstr. 47, Reinickendorf (Ortsteil), Berlin",
+    "id": "127074218",
+    "cold": "1.221 €",
+    "meter": "74 m²",
+    "transit": [],
+    "cycling": [
+      "21 min",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Teichstr. 47, Reinickendorf (Ortsteil), Berlin",
+    "id": "127071010",
+    "cold": "1.237,50 €",
+    "meter": "75 m²",
+    "transit": [],
+    "cycling": [
+      "21 min",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "123605674",
+    "cold": "1.957 €",
+    "meter": "65,37 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Wilmersdorfer Str. 95, Charlottenburg, Berlin",
+    "id": "118862086",
+    "cold": "2.257 €",
+    "meter": "118,77 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Wilmersdorfer Str. 94, Charlottenburg, Berlin",
+    "id": "116016167",
+    "cold": "4.833 €",
+    "meter": "230 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Alt-Friedrichsfelde 104, Friedrichsfelde, Berlin",
+    "id": "127339062",
+    "cold": "383,50 €",
+    "meter": "52 m²",
+    "transit": [],
+    "cycling": [
+      "36 min",
+      "35 min",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Schirmvogelweg 3, Buckow, Berlin",
+    "id": "94022339",
+    "cold": "529,76 €",
+    "meter": "56 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 43 min  typically   ",
+      "1 hr 6 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      " 43 min  typically   ",
+      "1 hr 6 min"
+    ]
+  },
+  {
+    "address": "Mindener Str. 7, Charlottenburg, Berlin",
+    "id": "125217504",
+    "cold": "2.200 €",
+    "meter": "154 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 21 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      "31 min",
+      "30 min",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Wönnichstraße 3, Rummelsburg, Berlin",
+    "id": "127171332",
+    "cold": "483 - 1.125 €",
+    "meter": "16,07 - 40,06 m²",
+    "transit": [],
+    "cycling": [
+      "37 min",
+      "37 min",
+      "43 min"
+    ]
+  },
+  {
+    "address": "Neukölln (Ortsteil), Berlin",
+    "id": "126568818",
+    "cold": "800 €",
+    "meter": "39 m²",
+    "transit": [
+      " 34 min  typically   ",
+      "39 min",
+      " 39 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Teichstr. 46, Reinickendorf (Ortsteil), Berlin",
+    "id": "127202588",
+    "cold": "891,40 €",
+    "meter": "54 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Teichstr. 46, Reinickendorf (Ortsteil), Berlin",
+    "id": "127209533",
+    "cold": "1.237,50 €",
+    "meter": "75 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Boyenstraße 33, Mitte (Ortsteil), Berlin",
+    "id": "125569399",
+    "cold": "2.441,63 €",
+    "meter": "131,98 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "16 min",
+      "19 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "16 min",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Teichstr. 47, Reinickendorf (Ortsteil), Berlin",
+    "id": "127026500",
+    "cold": "891,40 €",
+    "meter": "54 m²",
+    "transit": [],
+    "cycling": [
+      "21 min",
+      "30 min"
+    ]
+  }
+]

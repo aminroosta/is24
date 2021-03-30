@@ -1,0 +1,312 @@
+[
+  {
+    "address": "Koloniestr. 11/12, Gesundbrunnen, Berlin",
+    "id": "105942908",
+    "cold": "500 €",
+    "meter": "21 m²",
+    "transit": [
+      " 9 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Chausseestraße 37, Mitte (Ortsteil), Berlin",
+    "id": "104140395",
+    "cold": "1.300 €",
+    "meter": "58 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 7 min  typically   ",
+      "15 min"
+    ],
+    "cycling": [
+      " 7 min  typically   ",
+      " 7 min  typically   ",
+      "15 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "103333796",
+    "cold": "645 €",
+    "meter": "27,8 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "103333338",
+    "cold": "603 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "103289507",
+    "cold": "550 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Fercher Straße 8, Hellersdorf, Berlin",
+    "id": "103110941",
+    "cold": "322,41 €",
+    "meter": "37,93 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 49 min  typically   ",
+      "1 hr 4 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 49 min  typically   ",
+      "1 hr 4 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "103038363",
+    "cold": "560 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "102766942",
+    "cold": "571 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "102748881",
+    "cold": "541 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Westend, Berlin",
+    "id": "102665812",
+    "cold": "450 €",
+    "meter": "41,5 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 24 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 24 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "102344341",
+    "cold": "593 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "102325313",
+    "cold": "582 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "102272244",
+    "cold": "541 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Conrad-Blenkle-Straße 65, Prenzlauer Berg, Berlin",
+    "id": "102197393",
+    "cold": "444 €",
+    "meter": "40,99 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wittenberger Straße  68, Marzahn, Berlin",
+    "id": "101889221",
+    "cold": "678,05 €",
+    "meter": "79,77 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 49 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      " 49 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "101799040",
+    "cold": "1.000 €",
+    "meter": "42 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mariendorfer Damm 69, Mariendorf, Berlin",
+    "id": "100680714",
+    "cold": "1.170 €",
+    "meter": "111,51 m²",
+    "transit": [
+      " 33 min  typically   ",
+      "35 min",
+      "37 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      "35 min",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "100292922",
+    "cold": "572 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Wasserwerkstr 12, Falkenhagener Feld, Berlin",
+    "id": "100240677",
+    "cold": "585 €",
+    "meter": "46,25 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 36 min  typically   ",
+      "45 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Marienfelder Allee 174-184, Marienfelde, Berlin",
+    "id": "99479481",
+    "cold": "875,60 €",
+    "meter": "79,6 m²",
+    "transit": [
+      "47 min",
+      " 48 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      "47 min",
+      " 48 min  typically   ",
+      "48 min"
+    ]
+  }
+]

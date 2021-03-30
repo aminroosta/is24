@@ -1,0 +1,301 @@
+[
+  {
+    "address": "Zimmerstraße 96, Mitte (Ortsteil), Berlin",
+    "id": "110858313",
+    "cold": "1.451,05 €",
+    "meter": "78,44 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Zimmerstraße 92, Mitte (Ortsteil), Berlin",
+    "id": "110851873",
+    "cold": "3.248,87 €",
+    "meter": "141,26 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 16 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 16 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Lützowufer 18, Tiergarten, Berlin",
+    "id": "110759860",
+    "cold": "2.080 €",
+    "meter": "103,79 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Gaußstraße 2, Oberschöneweide, Berlin",
+    "id": "110487823",
+    "cold": "315 €",
+    "meter": "20,13 m²",
+    "transit": [
+      " 42 min  typically   ",
+      "51 min",
+      " 55 min  typically   "
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      "51 min",
+      " 55 min  typically   "
+    ]
+  },
+  {
+    "address": "Otto-Suhr-Allee 20, Charlottenburg, Berlin",
+    "id": "110420430",
+    "cold": "1.000 €",
+    "meter": "54 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Bärbel-Bohley-Ring 26, Gesundbrunnen, Berlin",
+    "id": "110235757",
+    "cold": "561 €",
+    "meter": "20,5 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "20 min",
+      "21 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gotlandstraße 10 B, Prenzlauer Berg, Berlin",
+    "id": "109887125",
+    "cold": "942 €",
+    "meter": "50 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Torstr. 139, Mitte (Ortsteil), Berlin",
+    "id": "109818845",
+    "cold": "808 €",
+    "meter": "58 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Pankow (Ortsteil), Berlin",
+    "id": "108813597",
+    "cold": "2.394 €",
+    "meter": "133 m²",
+    "transit": [
+      " 13 min  typically   ",
+      "14 min",
+      " 14 min  typically   "
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      "14 min",
+      " 14 min  typically   "
+    ]
+  },
+  {
+    "address": "Voßstraße 35, Mitte (Ortsteil), Berlin",
+    "id": "108374378",
+    "cold": "1.645,65 €",
+    "meter": "91,43 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 15 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 15 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Voßstr. 32, Mitte (Ortsteil), Berlin",
+    "id": "108372512",
+    "cold": "3.229,02 €",
+    "meter": "164,61 m²",
+    "transit": [],
+    "cycling": [
+      "15 min",
+      "17 min"
+    ]
+  },
+  {
+    "address": "Adlergestell 253, Adlershof, Berlin",
+    "id": "108275087",
+    "cold": "995 €",
+    "meter": "94 m²",
+    "transit": [],
+    "cycling": [
+      "1 hr 1 min",
+      "1 hr",
+      "1 hr 1 min"
+    ]
+  },
+  {
+    "address": "Alt-Treptow, Berlin",
+    "id": "106903011",
+    "cold": "828 €",
+    "meter": "80 m²",
+    "transit": [
+      " 32 min  typically   ",
+      "33 min",
+      "33 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 21, Tiergarten, Berlin",
+    "id": "106734943",
+    "cold": "1.290 €",
+    "meter": "41,5 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "106692766",
+    "cold": "1.500 €",
+    "meter": "72 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Sonnenallee 21, Neukölln (Ortsteil), Berlin",
+    "id": "106669673",
+    "cold": "576,32 €",
+    "meter": "40,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Jülicher Str. 16-17, Gesundbrunnen, Berlin",
+    "id": "105943495",
+    "cold": "520 €",
+    "meter": "19,2 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Jülicher Str. 16, Gesundbrunnen, Berlin",
+    "id": "105943288",
+    "cold": "505 €",
+    "meter": "19,2 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Jülicher Str. 16, Gesundbrunnen, Berlin",
+    "id": "105943231",
+    "cold": "500 €",
+    "meter": "19,22 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Jülicher Str. 16, Gesundbrunnen, Berlin",
+    "id": "105943109",
+    "cold": "505 €",
+    "meter": "19,2 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  }
+]

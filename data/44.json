@@ -1,0 +1,289 @@
+[
+  {
+    "address": "Röländer Straße 41, Karow, Berlin",
+    "id": "127325723",
+    "cold": "638,69 €",
+    "meter": "78,56 m²",
+    "transit": [
+      "29 min",
+      " 30 min  typically   ",
+      "35 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Achillesstraße 69B, Karow, Berlin",
+    "id": "127325613",
+    "cold": "643,37 €",
+    "meter": "77,05 m²",
+    "transit": [
+      "31 min",
+      " 32 min  typically   ",
+      " 36 min  typically   "
+    ],
+    "cycling": [
+      "31 min",
+      " 32 min  typically   ",
+      " 36 min  typically   "
+    ]
+  },
+  {
+    "address": "Achillesstraße 71, Karow, Berlin",
+    "id": "127325387",
+    "cold": "527,55 €",
+    "meter": "63,18 m²",
+    "transit": [
+      "30 min",
+      " 32 min  typically   ",
+      " 36 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Talstr. 4, Pankow (Ortsteil), Berlin",
+    "id": "127324879",
+    "cold": "1.099 €",
+    "meter": "62 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 14 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 14 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127323916",
+    "cold": "799,98 €",
+    "meter": "52,63 m²",
+    "transit": [
+      " 50 min  typically   ",
+      "50 min",
+      " 50 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127323801",
+    "cold": "777,02 €",
+    "meter": "51,12 m²",
+    "transit": [
+      " 50 min  typically   ",
+      "50 min",
+      " 50 min  typically   "
+    ],
+    "cycling": [
+      " 50 min  typically   ",
+      "50 min",
+      " 50 min  typically   "
+    ]
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127323535",
+    "cold": "743,77 €",
+    "meter": "45,63 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Sebastianstr. 16, Kreuzberg, Berlin",
+    "id": "127323448",
+    "cold": "950 €",
+    "meter": "47 m²",
+    "transit": [
+      " 21 min  typically   ",
+      "25 min",
+      " 27 min  typically   "
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      "25 min",
+      " 27 min  typically   "
+    ]
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127323240",
+    "cold": "708,12 €",
+    "meter": "50,58 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 49 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127323187",
+    "cold": "678,86 €",
+    "meter": "48,49 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 49 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Kaiserin-Augusta-Allee 48, Charlottenburg, Berlin",
+    "id": "127322867",
+    "cold": "1.650 €",
+    "meter": "115 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 20 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Zabel-Krüger-Damm 9, Waidmannslust, Berlin",
+    "id": "127321835",
+    "cold": "800 €",
+    "meter": "74 m²",
+    "transit": [
+      "27 min",
+      " 27 min  typically   ",
+      " 29 min  typically   "
+    ],
+    "cycling": [
+      "27 min",
+      " 27 min  typically   ",
+      " 29 min  typically   "
+    ]
+  },
+  {
+    "address": "Kirschnerweg 5, Gropiusstadt, Berlin",
+    "id": "127321286",
+    "cold": "335,88 €",
+    "meter": "30,49 m²",
+    "transit": [
+      " 43 min  typically   ",
+      "49 min",
+      "47 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      "49 min",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Leibnizstraße 85, Charlottenburg, Berlin",
+    "id": "127320894",
+    "cold": "990 €",
+    "meter": "26 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 22 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 22 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Koloniestr. 5, Lichterfelde, Berlin",
+    "id": "127320009",
+    "cold": "1.415,75 €",
+    "meter": "120 m²",
+    "transit": [
+      " 42 min  typically   ",
+      "43 min",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Prenzlauer Allee 188, Prenzlauer Berg, Berlin",
+    "id": "127319667",
+    "cold": "2.300 €",
+    "meter": "128,48 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 12 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Büchsenweg 18, Reinickendorf (Ortsteil), Berlin",
+    "id": "127319640",
+    "cold": "523,89 €",
+    "meter": "67,48 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 15 min  typically   ",
+      "24 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Petersburger Straße 39, Friedrichshain, Berlin",
+    "id": "127319483",
+    "cold": "1.797,60 €",
+    "meter": "89,88 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 21 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      "19 min",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Loschwitzer Weg 15, Staaken, Berlin",
+    "id": "127319182",
+    "cold": "384 €",
+    "meter": "59,04 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 42 min  typically   ",
+      "1 hr"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      " 42 min  typically   ",
+      "1 hr"
+    ]
+  },
+  {
+    "address": "Heerstraße 450, Staaken, Berlin",
+    "id": "127319152",
+    "cold": "482 €",
+    "meter": "74,13 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 42 min  typically   ",
+      "53 min"
+    ],
+    "cycling": []
+  }
+]

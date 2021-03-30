@@ -1,0 +1,306 @@
+[
+  {
+    "address": "Lichtenrade, Berlin",
+    "id": "125333037",
+    "cold": "1.152 €",
+    "meter": "64 m²",
+    "transit": [
+      " 43 min  typically   ",
+      "57 min",
+      "52 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gesundbrunnen, Berlin",
+    "id": "125197714",
+    "cold": "1.278,90 €",
+    "meter": "91,35 m²",
+    "transit": [
+      " 4 min  typically   ",
+      " 5 min  typically   ",
+      "10 min"
+    ],
+    "cycling": [
+      " 4 min  typically   ",
+      " 5 min  typically   ",
+      "10 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "125193781",
+    "cold": "1.600 €",
+    "meter": "65 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Jülicher Str. 16, Gesundbrunnen, Berlin",
+    "id": "125148701",
+    "cold": "563 €",
+    "meter": "19,2 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Reinickendorfer Straße 59 B, Wedding, Berlin",
+    "id": "125084909",
+    "cold": "468,76 €",
+    "meter": "59,45 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ]
+  },
+  {
+    "address": "Kreuzberg, Berlin",
+    "id": "125060604",
+    "cold": "3.920 €",
+    "meter": "168,74 m²",
+    "transit": [
+      " 20 min  typically   ",
+      "29 min",
+      "25 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      "29 min",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Dahlem, Berlin",
+    "id": "125041771",
+    "cold": "3.000 €",
+    "meter": "140 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 34 min  typically   ",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "125020004",
+    "cold": "1.150 €",
+    "meter": "42,5 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Französisch Buchholz, Berlin",
+    "id": "124982321",
+    "cold": "2.369 €",
+    "meter": "94 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Frohnau, Berlin",
+    "id": "124778424",
+    "cold": "284,62 €",
+    "meter": "18 m²",
+    "transit": [
+      " 34 min  typically   ",
+      "37 min",
+      " 40 min  typically   "
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      "37 min",
+      " 40 min  typically   "
+    ]
+  },
+  {
+    "address": "Planufer 92b, Kreuzberg, Berlin",
+    "id": "124722029",
+    "cold": "3.189 €",
+    "meter": "161,38 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 28 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 28 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Französisch Buchholz, Berlin",
+    "id": "124704438",
+    "cold": "2.575 €",
+    "meter": "103 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Mommsenstraße 10, Charlottenburg, Berlin",
+    "id": "124695025",
+    "cold": "5.936 €",
+    "meter": "212 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Schlüterstraße 33, Charlottenburg, Berlin",
+    "id": "124694720",
+    "cold": "8.200 €",
+    "meter": "242 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Rosenrotweg 1, Bohnsdorf, Berlin",
+    "id": "124668194",
+    "cold": "1.150,38 €",
+    "meter": "80,46 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 52 min  typically   ",
+      "1 hr"
+    ],
+    "cycling": [
+      " 48 min  typically   ",
+      " 52 min  typically   ",
+      "1 hr"
+    ]
+  },
+  {
+    "address": "Klara-Franke-Straße 21, Moabit, Berlin",
+    "id": "124646705",
+    "cold": "1.875 €",
+    "meter": "117,23 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Voltairestraße 11, Mitte (Ortsteil), Berlin",
+    "id": "124529882",
+    "cold": "1.305,60 €",
+    "meter": "54,4 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Westfälische Str. 49, Halensee, Berlin",
+    "id": "124462171",
+    "cold": "1.190 €",
+    "meter": "53,5 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "40 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Kreuzberg, Berlin",
+    "id": "124415971",
+    "cold": "1.550 €",
+    "meter": "110 m²",
+    "transit": [
+      " 20 min  typically   ",
+      "29 min",
+      "25 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      "29 min",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Reinickendorfer Straße 59 B, Wedding, Berlin",
+    "id": "124388627",
+    "cold": "469,05 €",
+    "meter": "65,97 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 8 min  typically   "
+    ]
+  }
+]

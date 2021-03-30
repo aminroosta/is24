@@ -1,0 +1,284 @@
+[
+  {
+    "address": "Teichstr. 47, Reinickendorf (Ortsteil), Berlin",
+    "id": "127026551",
+    "cold": "1.221 €",
+    "meter": "74 m²",
+    "transit": [],
+    "cycling": [
+      "21 min",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Heinersdorfer Straße 35, Weißensee, Berlin",
+    "id": "127101106",
+    "cold": "885 €",
+    "meter": "58 m²",
+    "transit": [],
+    "cycling": [
+      "18 min",
+      "17 min",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Cosmarweg 51a, Staaken, Berlin",
+    "id": "127326923",
+    "cold": "317,99 €",
+    "meter": "39 m²",
+    "transit": [],
+    "cycling": [
+      "1 hr 2 min",
+      "1 hr 7 min",
+      "1 hr 7 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "126974415",
+    "cold": "3.600 €",
+    "meter": "180 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "38 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 23 min  typically   ",
+      "38 min"
+    ]
+  },
+  {
+    "address": "Sophie-Charlotten-Straße 117a, Charlottenburg, Berlin",
+    "id": "126419720",
+    "cold": "686 - 2.522 €",
+    "meter": "36,00 - 160,00 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 21 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 21 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Moabit, Berlin",
+    "id": "127196425",
+    "cold": "1.699 €",
+    "meter": "92,41 m²",
+    "transit": [],
+    "cycling": [
+      "16 min",
+      "13 min",
+      "15 min"
+    ]
+  },
+  {
+    "address": "Teichmummelring 55, Grünau, Berlin",
+    "id": "115113225",
+    "cold": "995 €",
+    "meter": "47,44 m²",
+    "transit": [
+      " 52 min  typically   ",
+      " 55 min  typically   ",
+      "57 min"
+    ],
+    "cycling": [
+      " 52 min  typically   ",
+      " 55 min  typically   ",
+      "57 min"
+    ]
+  },
+  {
+    "address": "Schöneberger Ufer 5, Kreuzberg, Berlin",
+    "id": "127209993",
+    "cold": "1.644,81 €",
+    "meter": "49,55 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Dirschauer Str. 10, Friedrichshain, Berlin",
+    "id": "126451137",
+    "cold": "1.640 €",
+    "meter": "75 m²",
+    "transit": [
+      "34 min",
+      "42 min",
+      "38 min",
+      "40 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Dirschauer Str. 10, Friedrichshain, Berlin",
+    "id": "125807845",
+    "cold": "1.590 €",
+    "meter": "74 m²",
+    "transit": [],
+    "cycling": [
+      "27 min",
+      "33 min",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Schöneberger Ufer 5, Kreuzberg, Berlin",
+    "id": "122813740",
+    "cold": "1.660,02 €",
+    "meter": "49,55 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Niederschönhausen, Berlin",
+    "id": "126725354",
+    "cold": "1.320 €",
+    "meter": "82,5 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Teichstr. 45, Reinickendorf (Ortsteil), Berlin",
+    "id": "126022631",
+    "cold": "924 €",
+    "meter": "56 m²",
+    "transit": [],
+    "cycling": [
+      "21 min",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Lehrter Str 24B, Moabit, Berlin",
+    "id": "122959931",
+    "cold": "649 €",
+    "meter": "25 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 9 min  typically   ",
+      "25 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 9 min  typically   ",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Prenzlauer Promenade 11, Weißensee, Berlin",
+    "id": "114749015",
+    "cold": "2.300 €",
+    "meter": "130 m²",
+    "transit": [],
+    "cycling": [
+      "20 min",
+      "18 min",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Am Köllnischen Park 8, Mitte (Ortsteil), Berlin",
+    "id": "127266698",
+    "cold": "1.280 €",
+    "meter": "40,65 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Friedrichstraße 88/89, Mitte (Ortsteil), Berlin",
+    "id": "127194891",
+    "cold": "8.900 €",
+    "meter": "462 m²",
+    "transit": [
+      " 15 min  typically   "
+    ],
+    "cycling": [
+      " 15 min  typically   "
+    ]
+  },
+  {
+    "address": "Adlershof, Berlin",
+    "id": "127305070",
+    "cold": "1.200 €",
+    "meter": "66 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 46 min  typically   ",
+      "47 min"
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      " 46 min  typically   ",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Pariser Straße 23-24, Wilmersdorf, Berlin",
+    "id": "88796792",
+    "cold": "1.880 €",
+    "meter": "86,5 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 26 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 26 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Waldstraße 22, Adlershof, Berlin",
+    "id": "104916496",
+    "cold": "715 €",
+    "meter": "75,28 m²",
+    "transit": [
+      " 47 min  typically   ",
+      " 47 min  typically   ",
+      "55 min"
+    ],
+    "cycling": [
+      "1 hr 5 min",
+      "1 hr 11 min"
+    ]
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127191036",
+    "cold": "583,95 €",
+    "meter": "34,35 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 50 min  typically   ",
+      "50 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127189940",
+    "cold": "683,20 €",
+    "meter": "48,8 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 50 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127189669",
+    "cold": "707,98 €",
+    "meter": "50,57 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 50 min  typically   ",
+      " 49 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Staaken, Berlin",
+    "id": "127185047",
+    "cold": "1.565 €",
+    "meter": "108 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 40 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      " 40 min  typically   ",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Bottroper Weg 23, Tegel, Berlin",
+    "id": "127183995",
+    "cold": "829 €",
+    "meter": "63,16 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 26 min  typically   ",
+      "43 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 26 min  typically   ",
+      "43 min"
+    ]
+  },
+  {
+    "address": "Rhinstraße 9, Friedrichsfelde, Berlin",
+    "id": "127183994",
+    "cold": "1.149 €",
+    "meter": "101,16 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 38 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 38 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Wilhelminenhofstraße 80, Oberschöneweide, Berlin",
+    "id": "127183054",
+    "cold": "500 €",
+    "meter": "15 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "50 min",
+      "54 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Buchholzer Str. 5, Prenzlauer Berg, Berlin",
+    "id": "127178666",
+    "cold": "1.100 €",
+    "meter": "50 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 9 min  typically   "
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      " 9 min  typically   "
+    ]
+  },
+  {
+    "address": "Badensche Straße 28, Wilmersdorf, Berlin",
+    "id": "127178403",
+    "cold": "3.950 €",
+    "meter": "100 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 31 min  typically   ",
+      "37 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Südostallee 108, Johannisthal, Berlin",
+    "id": "127178178",
+    "cold": "1.127,94 €",
+    "meter": "72,77 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 45 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 45 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Schaffhausener Str. 15, Tempelhof, Berlin",
+    "id": "127175822",
+    "cold": "432,99 €",
+    "meter": "48,11 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Oranienburger Straße 87-89, Mitte (Ortsteil), Berlin",
+    "id": "127175590",
+    "cold": "2.079 €",
+    "meter": "126 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 9 min  typically   ",
+      "16 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 9 min  typically   ",
+      "16 min"
+    ]
+  },
+  {
+    "address": "Oberlandgarten 1, Tempelhof, Berlin",
+    "id": "127174771",
+    "cold": "497,98 €",
+    "meter": "62,26 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 38 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 38 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Adolf-Heyden-Straße 5, Köpenick, Berlin",
+    "id": "127174377",
+    "cold": "773,07 €",
+    "meter": "50,86 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 50 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 49 min  typically   ",
+      " 50 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Koloniestr. 11/12, Gesundbrunnen, Berlin",
+    "id": "127172811",
+    "cold": "758 €",
+    "meter": "27,27 m²",
+    "transit": [
+      " 9 min  typically   ",
+      "28 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Lipschitzallee 46, Gropiusstadt, Berlin",
+    "id": "127172695",
+    "cold": "672,85 €",
+    "meter": "76,46 m²",
+    "transit": [
+      " 46 min  typically   ",
+      " 48 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 46 min  typically   ",
+      " 48 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Mommsenstr. 52, Charlottenburg, Berlin",
+    "id": "127172654",
+    "cold": "3.500 €",
+    "meter": "203,12 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Dunckerstrasse 63, Prenzlauer Berg, Berlin",
+    "id": "127171626",
+    "cold": "3.450 €",
+    "meter": "150 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Bernauer Straße 133f, Tegel, Berlin",
+    "id": "127171300",
+    "cold": "414,24 €",
+    "meter": "48,85 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 21, Tiergarten, Berlin",
+    "id": "127170606",
+    "cold": "1.800 €",
+    "meter": "85 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  }
+]

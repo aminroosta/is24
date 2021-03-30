@@ -1,0 +1,310 @@
+[
+  {
+    "address": "Schnellerstraße 103, Niederschöneweide, Berlin",
+    "id": "127379280",
+    "cold": "979,40 €",
+    "meter": "48,97 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 47 min  typically   ",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Rückertstraße 13, Charlottenburg, Berlin",
+    "id": "127378758",
+    "cold": "817,46 €",
+    "meter": "56,28 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 23 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 23 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Hirtsieferzeile 43, Gropiusstadt, Berlin",
+    "id": "127377821",
+    "cold": "361,25 €",
+    "meter": "48,41 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 49 min  typically   ",
+      "1 hr 3 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 49 min  typically   ",
+      "1 hr 3 min"
+    ]
+  },
+  {
+    "address": "Gilgestr. 15, Zehlendorf, Berlin",
+    "id": "127376703",
+    "cold": "406 €",
+    "meter": "42,98 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 39 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      " 39 min  typically   ",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Schnellerstr. 103, Niederschöneweide, Berlin",
+    "id": "127376576",
+    "cold": "444,60 €",
+    "meter": "24,7 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 48 min  typically   ",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Steffelbauerstraße 20-24, Oberschöneweide, Berlin",
+    "id": "127376567",
+    "cold": "460 €",
+    "meter": "25 m²",
+    "transit": [
+      " 45 min  typically   ",
+      " 44 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 45 min  typically   ",
+      " 44 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Seesener Straße 54, Halensee, Berlin",
+    "id": "127376530",
+    "cold": "950 €",
+    "meter": "60 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 29 min  typically   ",
+      "47 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 29 min  typically   ",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Siemensstadt, Berlin",
+    "id": "127374469",
+    "cold": "850 €",
+    "meter": "44 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 20 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 20 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Lipschitzallee 68, Gropiusstadt, Berlin",
+    "id": "127373289",
+    "cold": "308,42 €",
+    "meter": "30,39 m²",
+    "transit": [
+      " 47 min  typically   ",
+      " 46 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      " 47 min  typically   ",
+      " 46 min  typically   ",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Charlottenstraße 97B, Kreuzberg, Berlin",
+    "id": "127371456",
+    "cold": "823 €",
+    "meter": "51,46 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "25 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "25 min"
+    ]
+  },
+  {
+    "address": "La-Rochelle-Straße 71, Französisch Buchholz, Berlin",
+    "id": "127371438",
+    "cold": "1.059 €",
+    "meter": "81,4 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      "38 min",
+      "34 min",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Zeppelinstrasse 67, Falkenhagener Feld, Berlin",
+    "id": "127367015",
+    "cold": "1.100 €",
+    "meter": "120 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 34 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      " 34 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Köhlerstr. 39, Lichterfelde, Berlin",
+    "id": "127366787",
+    "cold": "363 €",
+    "meter": "33 m²",
+    "transit": [
+      " 37 min  typically   ",
+      "41 min",
+      " 43 min  typically   "
+    ],
+    "cycling": [
+      "56 min",
+      "1 hr 2 min",
+      "1 hr 1 min"
+    ]
+  },
+  {
+    "address": "Herbartstraße 16, Charlottenburg, Berlin",
+    "id": "127366376",
+    "cold": "2.150 €",
+    "meter": "86 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 25 min  typically   ",
+      "38 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 25 min  typically   ",
+      "38 min"
+    ]
+  },
+  {
+    "address": "Herbartstraße 16, Charlottenburg, Berlin",
+    "id": "127366368",
+    "cold": "2.760 €",
+    "meter": "121 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 25 min  typically   ",
+      "38 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 25 min  typically   ",
+      "38 min"
+    ]
+  },
+  {
+    "address": "Herbartstraße 16, Charlottenburg, Berlin",
+    "id": "127366365",
+    "cold": "1.875 €",
+    "meter": "75 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 25 min  typically   ",
+      "38 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 25 min  typically   ",
+      "38 min"
+    ]
+  },
+  {
+    "address": "Michaelkirchstraße 16, Mitte (Ortsteil), Berlin",
+    "id": "127366226",
+    "cold": "1.715 €",
+    "meter": "95,07 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 21 min  typically   ",
+      "27 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Ernststr. 65, Borsigwalde, Berlin",
+    "id": "127366026",
+    "cold": "1.297,10 €",
+    "meter": "74,12 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 24 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 24 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Singerstraße 33, Friedrichshain, Berlin",
+    "id": "127365230",
+    "cold": "954 €",
+    "meter": "52,9 m²",
+    "transit": [
+      " 19 min  typically   ",
+      "30 min",
+      "31 min"
+    ],
+    "cycling": [
+      "21 min",
+      "26 min",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Schnellerstr. 103, Niederschöneweide, Berlin",
+    "id": "127362912",
+    "cold": "542,98 €",
+    "meter": "31,94 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 48 min  typically   ",
+      "47 min"
+    ],
+    "cycling": [
+      "56 min",
+      "55 min",
+      "56 min"
+    ]
+  }
+]

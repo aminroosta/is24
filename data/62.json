@@ -1,0 +1,310 @@
+[
+  {
+    "address": "Soldinerstr. 11, Gesundbrunnen, Berlin",
+    "id": "121269780",
+    "cold": "1.018,50 €",
+    "meter": "97 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Neptunstr. 25, Reinickendorf (Ortsteil), Berlin",
+    "id": "121121051",
+    "cold": "912,49 €",
+    "meter": "54,9 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "22 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wichertstr. 51, Prenzlauer Berg, Berlin",
+    "id": "121101553",
+    "cold": "2.117,50 €",
+    "meter": "77 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "21 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Flughafenstraße 72-74, Neukölln (Ortsteil), Berlin",
+    "id": "121053233",
+    "cold": "600 €",
+    "meter": "21 m²",
+    "transit": [
+      " 26 min  typically   ",
+      "30 min",
+      "32 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      "30 min",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Unter den Eichen 96, Lichterfelde, Berlin",
+    "id": "121008146",
+    "cold": "719 €",
+    "meter": "35 m²",
+    "transit": [
+      " 34 min  typically   ",
+      "39 min",
+      " 39 min  typically   "
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      "39 min",
+      " 39 min  typically   "
+    ]
+  },
+  {
+    "address": "Breite Straße 42, Schmargendorf, Berlin",
+    "id": "120872162",
+    "cold": "824 €",
+    "meter": "36 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 30 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      " 30 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Niederlagstraße 7, Mitte (Ortsteil), Berlin",
+    "id": "120840946",
+    "cold": "2.100 €",
+    "meter": "75,9 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Clayallee 336, Zehlendorf, Berlin",
+    "id": "120834044",
+    "cold": "579 €",
+    "meter": "34 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 38 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 38 min  typically   ",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Mariendorfer Weg 29, Neukölln (Ortsteil), Berlin",
+    "id": "120696576",
+    "cold": "1.752,47 €",
+    "meter": "123,5 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 39 min  typically   ",
+      "43 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 39 min  typically   ",
+      "43 min"
+    ]
+  },
+  {
+    "address": "Mariendorfer Weg 31, Neukölln (Ortsteil), Berlin",
+    "id": "120696141",
+    "cold": "1.770,01 €",
+    "meter": "126,61 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 38 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 38 min  typically   ",
+      "44 min"
+    ]
+  },
+  {
+    "address": "Neptunstr. 21, Reinickendorf (Ortsteil), Berlin",
+    "id": "120575236",
+    "cold": "762,23 €",
+    "meter": "45,86 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "22 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Blissestr. 58, Wilmersdorf, Berlin",
+    "id": "120437598",
+    "cold": "1.000 €",
+    "meter": "39,03 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 34 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 34 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Blissestr. 58, Wilmersdorf, Berlin",
+    "id": "120436451",
+    "cold": "1.745 €",
+    "meter": "97,02 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 34 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 34 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Eisenacher Str. 71a, Mariendorf, Berlin",
+    "id": "119956066",
+    "cold": "508 €",
+    "meter": "67,7 m²",
+    "transit": [
+      " 32 min  typically   ",
+      "37 min",
+      "39 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      "37 min",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Rostocker Straße 3, Moabit, Berlin",
+    "id": "119908516",
+    "cold": "1.100 €",
+    "meter": "75 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "28 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Rummelsburg, Berlin",
+    "id": "119878381",
+    "cold": "440 €",
+    "meter": "48 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 30 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 30 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Dahlem, Berlin",
+    "id": "119874833",
+    "cold": "1.055 €",
+    "meter": "93 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 34 min  typically   ",
+      "47 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 34 min  typically   ",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Rudow, Berlin",
+    "id": "119867302",
+    "cold": "525 €",
+    "meter": "51 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 47 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 47 min  typically   ",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "119843002",
+    "cold": "1.000 €",
+    "meter": "80 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Alt-Treptow, Berlin",
+    "id": "119839778",
+    "cold": "750 €",
+    "meter": "85 m²",
+    "transit": [
+      " 32 min  typically   ",
+      "33 min",
+      "33 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      "33 min",
+      "33 min"
+    ]
+  }
+]

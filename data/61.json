@@ -1,0 +1,306 @@
+[
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "123107723",
+    "cold": "800 €",
+    "meter": "40 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "123106340",
+    "cold": "1.400 €",
+    "meter": "75 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Wilhelmsaue 113a, Wilmersdorf, Berlin",
+    "id": "123087797",
+    "cold": "770 €",
+    "meter": "40 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 29 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 29 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Lehrter Straße 24b, Moabit, Berlin",
+    "id": "122951846",
+    "cold": "750 €",
+    "meter": "24 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Mommsenstraße 10, Charlottenburg, Berlin",
+    "id": "122912069",
+    "cold": "6.490 €",
+    "meter": "217 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Pappelallee 45-53, Prenzlauer Berg, Berlin",
+    "id": "122892043",
+    "cold": "2.778,57 €",
+    "meter": "135,54 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 9 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Tabbertstraße 6E, Oberschöneweide, Berlin",
+    "id": "122745589",
+    "cold": "832,10 €",
+    "meter": "50,43 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 42 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      " 42 min  typically   ",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Stallschreiberstraße 16, Mitte (Ortsteil), Berlin",
+    "id": "122628885",
+    "cold": "1.480 €",
+    "meter": "68,5 m²",
+    "transit": [
+      " 20 min  typically   ",
+      "27 min",
+      "29 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      "27 min",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Pappelallee 45-53, Prenzlauer Berg, Berlin",
+    "id": "122606989",
+    "cold": "2.769,96 €",
+    "meter": "135,12 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 9 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 9 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Neptunstr. 22, Reinickendorf (Ortsteil), Berlin",
+    "id": "122526204",
+    "cold": "998,51 €",
+    "meter": "61,21 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 11 min  typically   ",
+      "22 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Dieffenbachstr. 52, Kreuzberg, Berlin",
+    "id": "122448291",
+    "cold": "899 €",
+    "meter": "31,36 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 29 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 29 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Böttgerstr. 23, Gesundbrunnen, Berlin",
+    "id": "122438892",
+    "cold": "430 €",
+    "meter": "22 m²",
+    "transit": [
+      " 3 min  typically   ",
+      "11 min",
+      "14 min"
+    ],
+    "cycling": [
+      " 3 min  typically   ",
+      "11 min",
+      "14 min"
+    ]
+  },
+  {
+    "address": "Kommandanten Str 79, Mitte (Ortsteil), Berlin",
+    "id": "122368219",
+    "cold": "2.100 €",
+    "meter": "84,66 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Charlottenstrasse 50a, Lankwitz, Berlin",
+    "id": "122365962",
+    "cold": "460 €",
+    "meter": "56 m²",
+    "transit": [
+      " 38 min  typically   ",
+      "40 min",
+      " 43 min  typically   "
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      "40 min",
+      " 43 min  typically   "
+    ]
+  },
+  {
+    "address": "Bornemannstr. 7, Gesundbrunnen, Berlin",
+    "id": "122182545",
+    "cold": "570 €",
+    "meter": "38 m²",
+    "transit": [
+      " 5 min  typically   ",
+      "17 min",
+      "18 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      "17 min",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Gaffelsteig 7, Schmöckwitz, Berlin",
+    "id": "122106730",
+    "cold": "1.150 €",
+    "meter": "72,4 m²",
+    "transit": [
+      " 52 min  typically   ",
+      " 51 min  typically   ",
+      "1 hr"
+    ],
+    "cycling": [
+      " 52 min  typically   ",
+      " 51 min  typically   ",
+      "1 hr"
+    ]
+  },
+  {
+    "address": "Gaffelsteig 7, Schmöckwitz, Berlin",
+    "id": "122028633",
+    "cold": "1.459 €",
+    "meter": "77,2 m²",
+    "transit": [
+      " 52 min  typically   ",
+      " 51 min  typically   ",
+      "1 hr"
+    ],
+    "cycling": [
+      " 52 min  typically   ",
+      " 51 min  typically   ",
+      "1 hr"
+    ]
+  },
+  {
+    "address": "Breisgauer Str. 4, Nikolassee, Berlin",
+    "id": "121644126",
+    "cold": "2.211,45 €",
+    "meter": "191,8 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 43 min  typically   ",
+      "46 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 43 min  typically   ",
+      "46 min"
+    ]
+  },
+  {
+    "address": "Dunckerstr. 60, Prenzlauer Berg, Berlin",
+    "id": "121406380",
+    "cold": "2.815 €",
+    "meter": "102,36 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wichertstraße 51A, Prenzlauer Berg, Berlin",
+    "id": "121406365",
+    "cold": "2.833 €",
+    "meter": "103,01 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ],
+    "cycling": []
+  }
+]

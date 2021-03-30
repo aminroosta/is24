@@ -1,0 +1,293 @@
+[
+  {
+    "address": "Waldstraße 23, Niederschönhausen, Berlin",
+    "id": "126780804",
+    "cold": "525 €",
+    "meter": "56 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Gaffelsteig 7, Schmöckwitz, Berlin",
+    "id": "122168763",
+    "cold": "999 €",
+    "meter": "61 m²",
+    "transit": [],
+    "cycling": [
+      "1 hr 11 min",
+      "1 hr 11 min",
+      "1 hr 17 min"
+    ]
+  },
+  {
+    "address": "Seestr. 119, Wedding, Berlin",
+    "id": "127375819",
+    "cold": "410 €",
+    "meter": "39,9 m²",
+    "transit": [],
+    "cycling": [
+      "18 min",
+      "16 min"
+    ]
+  },
+  {
+    "address": "Fischzug 8, Friedrichshain, Berlin",
+    "id": "102056520",
+    "cold": "1.400 €",
+    "meter": "92 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 31 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 31 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Gaffelsteig 7, Grünau, Berlin",
+    "id": "124018749",
+    "cold": "1.100 €",
+    "meter": "75,8 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 54 min  typically   ",
+      "1 hr"
+    ],
+    "cycling": [
+      " 50 min  typically   ",
+      " 54 min  typically   ",
+      "1 hr"
+    ]
+  },
+  {
+    "address": "Fährallee 15, Schmöckwitz, Berlin",
+    "id": "117780797",
+    "cold": "1.365 - 1.490 €",
+    "meter": "68,67 - 74,82 m²",
+    "transit": [
+      " 58 min  typically   ",
+      " 1 hr 12 min  typically   ",
+      "1 hr 19 min"
+    ],
+    "cycling": [
+      " 58 min  typically   ",
+      " 1 hr 12 min  typically   ",
+      "1 hr 19 min"
+    ]
+  },
+  {
+    "address": "Hermsdorf, Berlin",
+    "id": "126846989",
+    "cold": "1.350 €",
+    "meter": "78 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 31 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 31 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Hermsdorf, Berlin",
+    "id": "126847085",
+    "cold": "1.170 €",
+    "meter": "65 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 31 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 31 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Klaustaler Str. 28, Charlottenburg, Berlin",
+    "id": "126933283",
+    "cold": "1.195 €",
+    "meter": "63,46 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 20 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 20 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Jansastraße 13, Neukölln (Ortsteil), Berlin",
+    "id": "126424299",
+    "cold": "787,71 €",
+    "meter": "76,85 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 32 min  typically   ",
+      "38 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      " 32 min  typically   ",
+      "38 min"
+    ]
+  },
+  {
+    "address": "Tirschenreuther Ring 16, Marienfelde, Berlin",
+    "id": "127379676",
+    "cold": "296,37 €",
+    "meter": "49,81 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 51 min  typically   ",
+      "52 min"
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      " 51 min  typically   ",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127379450",
+    "cold": "704 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127379441",
+    "cold": "704 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127379368",
+    "cold": "599 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127379352",
+    "cold": "599 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 33 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Parsteiner Ring 19, Marzahn, Berlin",
+    "id": "127379252",
+    "cold": "354,22 €",
+    "meter": "68,67 m²"
+  },
+  {
+    "address": "Korsörer Str. 09, Prenzlauer Berg, Berlin",
+    "id": "127379132",
+    "cold": "267,97 €",
+    "meter": "33,92 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Selchower Straße 29, Neukölln (Ortsteil), Berlin",
+    "id": "127378917",
+    "cold": "624,17 €",
+    "meter": "91 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 32 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 32 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Isländische Straße, WE49 18, Prenzlauer Berg, Berlin",
+    "id": "127378875",
+    "cold": "3.000,42 €",
+    "meter": "167 m²"
+  },
+  {
+    "address": "Behmstraße, WE49 77, Prenzlauer Berg, Berlin",
+    "id": "127378840",
+    "cold": "3.459,52 €",
+    "meter": "182 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 12 min  typically   ",
+      "17 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 12 min  typically   ",
+      "17 min"
+    ]
+  }
+]

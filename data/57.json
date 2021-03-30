@@ -1,0 +1,298 @@
+[
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126352583",
+    "cold": "2.493,75 €",
+    "meter": "131,25 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Damerowstr. 17, Pankow (Ortsteil), Berlin",
+    "id": "126331577",
+    "cold": "824,93 €",
+    "meter": "75,13 m²",
+    "transit": [],
+    "cycling": [
+      "20 min",
+      "22 min",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Wannsee, Berlin",
+    "id": "126287222",
+    "cold": "1.872 €",
+    "meter": "97 m²",
+    "transit": [
+      " 39 min  typically   ",
+      " 47 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 39 min  typically   ",
+      " 47 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Leibnizstraße 85, Charlottenburg, Berlin",
+    "id": "126278811",
+    "cold": "897 €",
+    "meter": "29,9 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "39 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 23 min  typically   ",
+      "39 min"
+    ]
+  },
+  {
+    "address": "Landsberger Allee 61, Friedrichshain, Berlin",
+    "id": "126247986",
+    "cold": "1.250 €",
+    "meter": "63,5 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Landsberger Allee 61, Friedrichshain, Berlin",
+    "id": "126247784",
+    "cold": "1.200 €",
+    "meter": "61 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "31 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Landsberger Allee 61, Friedrichshain, Berlin",
+    "id": "126247694",
+    "cold": "1.080 €",
+    "meter": "57 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Landsberger Allee 61, Friedrichshain, Berlin",
+    "id": "126246966",
+    "cold": "1.200 €",
+    "meter": "60 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 18 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Landsberger Allee 61, Friedrichshain, Berlin",
+    "id": "126227556",
+    "cold": "969 €",
+    "meter": "57 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "31 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Nürnberger Straße 68, Charlottenburg, Berlin",
+    "id": "126210264",
+    "cold": "1.100 €",
+    "meter": "39 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 17 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Nürnberger Straße 68, Charlottenburg, Berlin",
+    "id": "126210241",
+    "cold": "720 €",
+    "meter": "24,34 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      "23 min",
+      "25 min",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Köbisstraße 3, Tiergarten, Berlin",
+    "id": "126198557",
+    "cold": "1.742,29 €",
+    "meter": "115,69 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 16 min  typically   ",
+      "30 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Adlershof, Berlin",
+    "id": "126157256",
+    "cold": "563,55 €",
+    "meter": "28,9 m²",
+    "transit": [
+      " 47 min  typically   ",
+      "48 min",
+      "47 min"
+    ],
+    "cycling": [
+      " 47 min  typically   ",
+      "48 min",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Adlershof, Berlin",
+    "id": "126157247",
+    "cold": "563,55 €",
+    "meter": "28,9 m²",
+    "transit": [
+      " 46 min  typically   ",
+      "48 min",
+      "47 min"
+    ],
+    "cycling": [
+      " 46 min  typically   ",
+      "48 min",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Adlershof, Berlin",
+    "id": "126157243",
+    "cold": "563,55 €",
+    "meter": "28,9 m²",
+    "transit": [
+      " 45 min  typically   ",
+      " 46 min  typically   ",
+      "48 min"
+    ],
+    "cycling": [
+      " 45 min  typically   ",
+      " 46 min  typically   ",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Katharina-Boll-Dornberger-Str. 10, Adlershof, Berlin",
+    "id": "126110065",
+    "cold": "673 €",
+    "meter": "55,35 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Adlershof, Berlin",
+    "id": "126047444",
+    "cold": "563,55 €",
+    "meter": "28,9 m²",
+    "transit": [
+      " 46 min  typically   ",
+      "48 min",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Chausseestraße 108, Mitte (Ortsteil), Berlin",
+    "id": "126044414",
+    "cold": "1.900 €",
+    "meter": "83 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "14 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "14 min"
+    ]
+  },
+  {
+    "address": "Chausseestraße 36, Mitte (Ortsteil), Berlin",
+    "id": "126012593",
+    "cold": "6.100 €",
+    "meter": "216 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      "15 min"
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      "15 min"
+    ]
+  },
+  {
+    "address": "Cambridger Straße 38, Wedding, Berlin",
+    "id": "125973354",
+    "cold": "750 €",
+    "meter": "45 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 16 min  typically   ",
+      " 16 min  typically   ",
+      "28 min"
+    ]
+  }
+]

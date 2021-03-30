@@ -1,0 +1,306 @@
+[
+  {
+    "address": "Cicerostraße 7, Halensee, Berlin",
+    "id": "127204518",
+    "cold": "3.400 €",
+    "meter": "124 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 31 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 31 min  typically   ",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Mendelstraße 5, Pankow (Ortsteil), Berlin",
+    "id": "127204359",
+    "cold": "2.341,24 €",
+    "meter": "137,72 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 20 min  typically   ",
+      "22 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Zehlendorf, Berlin",
+    "id": "127202385",
+    "cold": "850 €",
+    "meter": "45 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 39 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      " 39 min  typically   ",
+      "44 min"
+    ]
+  },
+  {
+    "address": "Stralsunder Str. 32, Gesundbrunnen, Berlin",
+    "id": "127172733",
+    "cold": "587,88 €",
+    "meter": "79,69 m²",
+    "transit": [
+      "8 min",
+      "9 min",
+      "9 min"
+    ],
+    "cycling": [
+      "8 min",
+      "9 min",
+      "9 min"
+    ]
+  },
+  {
+    "address": "Rudolf-von-Gneist-Gasse 1, Tiergarten, Berlin",
+    "id": "127159211",
+    "cold": "2.300 €",
+    "meter": "138,77 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Oberschöneweide, Berlin",
+    "id": "127153607",
+    "cold": "1.480 €",
+    "meter": "109 m²",
+    "transit": [
+      " 36 min  typically   ",
+      "43 min",
+      " 49 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Spichernstr 8, Wilmersdorf, Berlin",
+    "id": "127152406",
+    "cold": "1.190 €",
+    "meter": "55 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Fürstenwalder Damm 488, Friedrichshagen, Berlin",
+    "id": "127151625",
+    "cold": "749 €",
+    "meter": "43,61 m²",
+    "transit": [
+      "44 min",
+      "46 min",
+      " 51 min  typically   "
+    ],
+    "cycling": [
+      "44 min",
+      "46 min",
+      " 51 min  typically   "
+    ]
+  },
+  {
+    "address": "Schöneberger Ufer 5, Kreuzberg, Berlin",
+    "id": "127151251",
+    "cold": "779,48 €",
+    "meter": "27,43 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 18 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 18 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Wedding, Berlin",
+    "id": "127108280",
+    "cold": "1.646 €",
+    "meter": "104,63 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Wilmersdorf, Berlin",
+    "id": "127066393",
+    "cold": "1.300 €",
+    "meter": "58 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Markgrafenstraße  27, Mitte (Ortsteil), Berlin",
+    "id": "127044009",
+    "cold": "2.239,04 €",
+    "meter": "137,28 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 15 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 15 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Gabriele-Tergit-Promenade 15, Tiergarten, Berlin",
+    "id": "127042553",
+    "cold": "2.330,64 €",
+    "meter": "215,8 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 12 min  typically   ",
+      " 16 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Schöneberg, Berlin",
+    "id": "127039826",
+    "cold": "2.350 €",
+    "meter": "105 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 21 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 21 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Chausseestr. 37, Mitte (Ortsteil), Berlin",
+    "id": "127039477",
+    "cold": "1.850 €",
+    "meter": "88 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      "15 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Bizetstraße 83, Weißensee, Berlin",
+    "id": "127031631",
+    "cold": "2.229 €",
+    "meter": "111,45 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Caspar-Theyß-Straße 24, Schmargendorf, Berlin",
+    "id": "127029973",
+    "cold": "1.976,40 €",
+    "meter": "98,92 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 30 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 30 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Gesundbrunnen, Berlin",
+    "id": "126982330",
+    "cold": "1.190 €",
+    "meter": "65 m²",
+    "transit": [
+      " 4 min  typically   ",
+      " 5 min  typically   ",
+      "10 min"
+    ],
+    "cycling": [
+      " 4 min  typically   ",
+      " 5 min  typically   ",
+      "10 min"
+    ]
+  },
+  {
+    "address": "Dörpfeldstraße 1-5, Adlershof, Berlin",
+    "id": "126947725",
+    "cold": "545 €",
+    "meter": "30 m²",
+    "transit": [
+      " 46 min  typically   ",
+      "46 min",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126915060",
+    "cold": "1.490 €",
+    "meter": "76,5 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ]
+  }
+]

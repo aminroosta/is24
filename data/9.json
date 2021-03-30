@@ -1,0 +1,284 @@
+[
+  {
+    "address": "Heidekampweg 11, Baumschulenweg, Berlin",
+    "id": "127375512",
+    "cold": "523 €",
+    "meter": "54,94 m²",
+    "transit": [
+      " 42 min  typically   ",
+      "43 min",
+      "46 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      "43 min",
+      "46 min"
+    ]
+  },
+  {
+    "address": "Bornholmer Straße 95, Prenzlauer Berg, Berlin",
+    "id": "127375169",
+    "cold": "695 €",
+    "meter": "41,08 m²",
+    "transit": [],
+    "cycling": [
+      "11 min",
+      "13 min",
+      "17 min"
+    ]
+  },
+  {
+    "address": "Wilmersdorf, Berlin",
+    "id": "127375107",
+    "cold": "1.290 €",
+    "meter": "91 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Walter-Friedrich-Straße 60, Buch, Berlin",
+    "id": "127375086",
+    "cold": "444 €",
+    "meter": "76,62 m²",
+    "transit": [
+      " 33 min  typically   ",
+      "43 min",
+      "35 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      "43 min",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Erich-Kurz-Str. 7, Friedrichsfelde, Berlin",
+    "id": "127375084",
+    "cold": "316,62 €",
+    "meter": "52,42 m²",
+    "transit": [],
+    "cycling": [
+      "44 min",
+      "43 min",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Imbuschweg 24, Gropiusstadt, Berlin",
+    "id": "127374986",
+    "cold": "502,08 €",
+    "meter": "69,83 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 45 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      " 45 min  typically   ",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Johannisthaler Chaussee 310, Gropiusstadt, Berlin",
+    "id": "127374966",
+    "cold": "312,62 €",
+    "meter": "43,48 m²",
+    "transit": [
+      " 43 min  typically   ",
+      "48 min",
+      "46 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      "48 min",
+      "46 min"
+    ]
+  },
+  {
+    "address": "Jeverstraße 15, Steglitz, Berlin",
+    "id": "127374858",
+    "cold": "580,62 €",
+    "meter": "84,32 m²",
+    "transit": [
+      " 32 min  typically   ",
+      "35 min",
+      " 36 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Togostraße 75, Wedding, Berlin",
+    "id": "127374847",
+    "cold": "800 €",
+    "meter": "49 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 17 min  typically   ",
+      "25 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Alte jokbstraße 48a-52, Mitte (Ortsteil), Berlin",
+    "id": "127374651",
+    "cold": "1.750 €",
+    "meter": "90 m²"
+  },
+  {
+    "address": "An der Wuhlheide 118, Oberschöneweide, Berlin",
+    "id": "127373255",
+    "cold": "285,33 €",
+    "meter": "46,93 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 51 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      " 51 min  typically   ",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Prenzlauer Berg, Berlin",
+    "id": "127372066",
+    "cold": "998 €",
+    "meter": "52 m²",
+    "transit": [],
+    "cycling": [
+      "11 min",
+      "14 min",
+      "15 min"
+    ]
+  },
+  {
+    "address": "Friedrichsbrunner Straße 42, Britz, Berlin",
+    "id": "127359838",
+    "cold": "491,58 €",
+    "meter": "54,62 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 35 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 35 min  typically   ",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Seegefelder Str. 59, Spandau (Ortsteil), Berlin",
+    "id": "127276585",
+    "cold": "358,76 €",
+    "meter": "60 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 35 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 33 min  typically   ",
+      " 35 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Rathenower Straße 22, Moabit, Berlin",
+    "id": "127275777",
+    "cold": "333,26 €",
+    "meter": "38 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "23 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "23 min"
+    ]
+  },
+  {
+    "address": "Frankfurter Allee 131, Rummelsburg, Berlin",
+    "id": "127273343",
+    "cold": "253,50 €",
+    "meter": "39 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "31 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Stallschreiber Straße 30, Mitte (Ortsteil), Berlin",
+    "id": "127269622",
+    "cold": "1.895 €",
+    "meter": "76,6 m²",
+    "transit": [
+      " 19 min  typically   ",
+      "28 min",
+      "27 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      "28 min",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Stallschreiber Straße 30, Mitte (Ortsteil), Berlin",
+    "id": "127269596",
+    "cold": "1.895 €",
+    "meter": "76,6 m²",
+    "transit": [
+      " 19 min  typically   ",
+      "28 min",
+      "27 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      "28 min",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Bornholmer Str. 68, Prenzlauer Berg, Berlin",
+    "id": "127269390",
+    "cold": "1.530 €",
+    "meter": "72,28 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      "12 min"
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 8 min  typically   ",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Malteserstraße 148, Marienfelde, Berlin",
+    "id": "127269357",
+    "cold": "699 €",
+    "meter": "26 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "48 min",
+      "46 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      "48 min",
+      "46 min"
+    ]
+  }
+]

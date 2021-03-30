@@ -1,0 +1,299 @@
+[
+  {
+    "address": "Gadebuscher Straße 25, Hellersdorf, Berlin",
+    "id": "126679982",
+    "cold": "302 - 1.157 €",
+    "meter": "32,67 - 88,36 m²",
+    "transit": [],
+    "cycling": [
+      "58 min",
+      "56 min",
+      "55 min"
+    ]
+  },
+  {
+    "address": "Katharina-Boll-Dornberger-Strasse 24, Adlershof, Berlin",
+    "id": "126780542",
+    "cold": "1.399 €",
+    "meter": "83,99 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 50 min  typically   ",
+      "56 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wisbyer Str. 71, Pankow (Ortsteil), Berlin",
+    "id": "126394106",
+    "cold": "1.599,50 €",
+    "meter": "70 m²",
+    "transit": [],
+    "cycling": [
+      "11 min",
+      "14 min",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Voltairestraße 11, Mitte (Ortsteil), Berlin",
+    "id": "126205692",
+    "cold": "1.222 - 3.265 €",
+    "meter": "58,00 - 143,00 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Meinekestraße 10, Charlottenburg, Berlin",
+    "id": "127379197",
+    "cold": "2.500 €",
+    "meter": "108 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 23 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Jablonskistraße 21, Prenzlauer Berg, Berlin",
+    "id": "102200242",
+    "cold": "600 €",
+    "meter": "20 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 13 min  typically   ",
+      "21 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 13 min  typically   ",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Helsingforser Straße 15, Friedrichshain, Berlin",
+    "id": "124067681",
+    "cold": "1.000 €",
+    "meter": "28 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 22 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 22 min  typically   ",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Gross- Berliner- Damm 132-134, Adlershof, Berlin",
+    "id": "126049436",
+    "cold": "1.199 €",
+    "meter": "96,16 m²",
+    "transit": [],
+    "cycling": [
+      "1 hr 4 min",
+      "1 hr 4 min",
+      "1 hr 4 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 25A, Lichtenberg (Ortsteil), Berlin",
+    "id": "127377654",
+    "cold": "600 €",
+    "meter": "29,7 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 33 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Moabit, Berlin",
+    "id": "127196320",
+    "cold": "571 - 2.864 €",
+    "meter": "28,00 - 144,00 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   "
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      "24 min",
+      " 11 min  typically   ",
+      "22 min"
+    ]
+  },
+  {
+    "address": "Gadebuscher Straße 25A, Hellersdorf, Berlin",
+    "id": "126967783",
+    "cold": "388,38 €",
+    "meter": "59,75 m²",
+    "transit": [
+      " 38 min  typically   ",
+      "48 min",
+      " 49 min  typically   "
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      "48 min",
+      " 49 min  typically   "
+    ]
+  },
+  {
+    "address": "Dovestraße 5, Charlottenburg, Berlin",
+    "id": "114393406",
+    "cold": "460 - 1.600 €",
+    "meter": "24,00 - 95,00 m²",
+    "transit": [],
+    "cycling": [
+      "26 min",
+      "26 min",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Genthiner 46, Tiergarten, Berlin",
+    "id": "125984107",
+    "cold": "3.360 €",
+    "meter": "160 m²",
+    "transit": [
+      "34 min",
+      "40 min",
+      "33 min",
+      "39 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wilmersdorfer Str. 94, Charlottenburg, Berlin",
+    "id": "126636134",
+    "cold": "2.092 €",
+    "meter": "110,09 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126539578",
+    "cold": "2.200 €",
+    "meter": "133 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126539606",
+    "cold": "2.200 €",
+    "meter": "133 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126539704",
+    "cold": "2.200 €",
+    "meter": "133 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Hakenfelde, Berlin",
+    "id": "124137071",
+    "cold": "1.265 €",
+    "meter": "55 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 39 min  typically   ",
+      "1 hr 6 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 39 min  typically   ",
+      "1 hr 6 min"
+    ]
+  },
+  {
+    "address": "Schraderstraße 10, Baumschulenweg, Berlin",
+    "id": "126207468",
+    "cold": "1.918,79 €",
+    "meter": "112,87 m²",
+    "transit": [
+      " 40 min  typically   ",
+      "45 min",
+      "45 min"
+    ],
+    "cycling": [
+      " 40 min  typically   ",
+      "45 min",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Lichterfelde, Berlin",
+    "id": "125145201",
+    "cold": "1.595 €",
+    "meter": "96 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 41 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 41 min  typically   ",
+      "45 min"
+    ]
+  }
+]

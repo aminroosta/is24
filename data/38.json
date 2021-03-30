@@ -1,0 +1,314 @@
+[
+  {
+    "address": "Seesener Str. 47, Halensee, Berlin",
+    "id": "127280281",
+    "cold": "1.583,02 €",
+    "meter": "93,67 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 29 min  typically   ",
+      "44 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Köpenick, Berlin",
+    "id": "127280159",
+    "cold": "725,37 €",
+    "meter": "60,45 m²",
+    "transit": [
+      " 52 min  typically   ",
+      " 51 min  typically   ",
+      "56 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Alfredstraße 9, Lichtenberg (Ortsteil), Berlin",
+    "id": "122541232",
+    "cold": "734 - 990 €",
+    "meter": "19,50 - 54,00 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Berliner Straße 39, Französisch Buchholz, Berlin",
+    "id": "123212418",
+    "cold": "1.231 - 2.006 €",
+    "meter": "87,96 - 148,56 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Brunsbüttler Damm 223d, Staaken, Berlin",
+    "id": "72411592",
+    "cold": "623,16 €",
+    "meter": "86,55 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 38 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 38 min  typically   ",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Pestalozzistr. 34, Charlottenburg, Berlin",
+    "id": "127286790",
+    "cold": "1.250 €",
+    "meter": "42,17 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Blankenburger Straße 16, Niederschönhausen, Berlin",
+    "id": "127283912",
+    "cold": "1.366 €",
+    "meter": "129 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Albrecht-Achilles-Straße 65a, Wilmersdorf, Berlin",
+    "id": "127280849",
+    "cold": "2.490 €",
+    "meter": "120 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 29 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 29 min  typically   ",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Bielefelder Str. 14a 14a, Wilmersdorf, Berlin",
+    "id": "127280583",
+    "cold": "2.000 €",
+    "meter": "76 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Fuldastr. 33, Neukölln (Ortsteil), Berlin",
+    "id": "127280389",
+    "cold": "296,24 €",
+    "meter": "34 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 35 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 35 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Rudolf-von-Gneist-Gasse 1, Tiergarten, Berlin",
+    "id": "127275613",
+    "cold": "2.550 €",
+    "meter": "156,68 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 17 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 17 min  typically   ",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Gleimstraße 21, Prenzlauer Berg, Berlin",
+    "id": "127178916",
+    "cold": "3.231,90 €",
+    "meter": "153,9 m²",
+    "transit": [
+      " 6 min  typically   ",
+      "16 min",
+      "25 min"
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      "16 min",
+      "25 min"
+    ]
+  },
+  {
+    "address": "Bundesallee 38, Wilmersdorf, Berlin",
+    "id": "127178404",
+    "cold": "529 €",
+    "meter": "60 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 32 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 32 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Sterndamm 86c, Johannisthal, Berlin",
+    "id": "127177894",
+    "cold": "900,85 €",
+    "meter": "69,51 m²",
+    "transit": [
+      " 41 min  typically   ",
+      " 46 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 41 min  typically   ",
+      " 46 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Linienstraße 72, Mitte (Ortsteil), Berlin",
+    "id": "127175938",
+    "cold": "3.990 €",
+    "meter": "114 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 8 min  typically   ",
+      "16 min"
+    ],
+    "cycling": [
+      " 7 min  typically   ",
+      " 8 min  typically   ",
+      "16 min"
+    ]
+  },
+  {
+    "address": "Flottwellstraße 22, Kreuzberg, Berlin",
+    "id": "127171377",
+    "cold": "2.034,90 €",
+    "meter": "119,7 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 19 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 19 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Henriette Lustig Straße 8, Köpenick, Berlin",
+    "id": "127170521",
+    "cold": "752,22 €",
+    "meter": "56 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 51 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 50 min  typically   ",
+      " 51 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Am Tegeler Hafen 28 C, Tegel, Berlin",
+    "id": "127070801",
+    "cold": "1.208,62 €",
+    "meter": "92,05 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 30 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 29 min  typically   ",
+      " 30 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Leipziger Str. 103, Mitte (Ortsteil), Berlin",
+    "id": "126984765",
+    "cold": "1.432 €",
+    "meter": "111,26 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 14 min  typically   ",
+      "16 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 14 min  typically   ",
+      "16 min"
+    ]
+  },
+  {
+    "address": "Teichmummelring 57, Grünau, Berlin",
+    "id": "126978075",
+    "cold": "1.258 €",
+    "meter": "73,87 m²",
+    "transit": [
+      " 50 min  typically   ",
+      " 52 min  typically   ",
+      "1 hr 6 min"
+    ],
+    "cycling": [
+      " 50 min  typically   ",
+      " 52 min  typically   ",
+      "1 hr 6 min"
+    ]
+  }
+]

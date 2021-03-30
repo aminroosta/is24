@@ -1,0 +1,288 @@
+[
+  {
+    "address": "köpenickerstraße 55, Mitte (Ortsteil), Berlin",
+    "id": "108083616",
+    "cold": "1.800 €",
+    "meter": "62 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "köpenickerstrasse 55, Mitte (Ortsteil), Berlin",
+    "id": "108083364",
+    "cold": "1.150 €",
+    "meter": "40 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "26 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wattstraße 9, Oberschöneweide, Berlin",
+    "id": "105354063",
+    "cold": "844,84 €",
+    "meter": "62,47 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 21B, Lichtenberg (Ortsteil), Berlin",
+    "id": "98325573",
+    "cold": "530 €",
+    "meter": "38 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 37 min  typically   ",
+      "38 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 37 min  typically   ",
+      "38 min"
+    ]
+  },
+  {
+    "address": "Freienwalder Strasse 8, Gesundbrunnen, Berlin",
+    "id": "95359409",
+    "cold": "1.250 €",
+    "meter": "79 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 8 min  typically   ",
+      "18 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Bundesallee 203, Wilmersdorf, Berlin",
+    "id": "87826009",
+    "cold": "930 €",
+    "meter": "77,39 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 23 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 23 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Galluner Str. 8, Lichtenrade, Berlin",
+    "id": "87622035",
+    "cold": "2.560 €",
+    "meter": "180 m²",
+    "transit": [
+      " 47 min  typically   ",
+      "54 min",
+      "57 min"
+    ],
+    "cycling": [
+      " 47 min  typically   ",
+      "54 min",
+      "57 min"
+    ]
+  },
+  {
+    "address": "Herweghstrasse 19, Johannisthal, Berlin",
+    "id": "71054286",
+    "cold": "1.850 €",
+    "meter": "122 m²",
+    "transit": [
+      " 48 min  typically   ",
+      "48 min",
+      "54 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Morgensternstr.  15, Lichterfelde, Berlin",
+    "id": "69129400",
+    "cold": "631,61 €",
+    "meter": "87,8 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 42 min  typically   ",
+      "47 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 42 min  typically   ",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Teltower Damm 203 B, Zehlendorf, Berlin",
+    "id": "66633474",
+    "cold": "1.449,83 €",
+    "meter": "96,27 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 42 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Spießweg 21+23, Wittenau, Berlin",
+    "id": "62415596",
+    "cold": "469,29 €",
+    "meter": "68,41 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 21 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      "30 min",
+      "36 min",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Niederschöneweide, Berlin",
+    "id": "125269880",
+    "cold": "5.800 €",
+    "meter": "275 m²",
+    "transit": [
+      "38 min",
+      "36 min",
+      " 42 min  typically   "
+    ],
+    "cycling": [
+      "52 min",
+      "56 min",
+      "1 hr"
+    ]
+  },
+  {
+    "address": "Relingstr. 18, Grünau, Berlin",
+    "id": "93809145",
+    "cold": "1.200 €",
+    "meter": "45 m²",
+    "transit": [
+      " 47 min  typically   ",
+      " 53 min  typically   ",
+      "57 min"
+    ],
+    "cycling": [
+      " 47 min  typically   ",
+      " 53 min  typically   ",
+      "57 min"
+    ]
+  },
+  {
+    "address": "Hultschiner Damm 24, Mahlsdorf, Berlin",
+    "id": "126555504",
+    "cold": "724,04 €",
+    "meter": "74,81 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 47 min  typically   ",
+      "53 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Parksiedlung Spruch 3 bis 137, Buckow, Berlin",
+    "id": "126073498",
+    "cold": "533,97 €",
+    "meter": "59,33 m²"
+  },
+  {
+    "address": "Ludolfingerplatz 1a, Frohnau, Berlin",
+    "id": "124469371",
+    "cold": "1.450 €",
+    "meter": "90,47 m²",
+    "transit": [
+      "26 min",
+      " 34 min  typically   ",
+      " 36 min  typically   "
+    ],
+    "cycling": [
+      "26 min",
+      " 34 min  typically   ",
+      " 36 min  typically   "
+    ]
+  },
+  {
+    "address": "Otto-Suhr-Allee 62, Charlottenburg, Berlin",
+    "id": "125670121",
+    "cold": "360 €",
+    "meter": "35,9 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 20 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 20 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Welfenallee 3, Frohnau, Berlin",
+    "id": "124414861",
+    "cold": "561,89 €",
+    "meter": "74,03 m²",
+    "transit": [
+      "26 min",
+      " 33 min  typically   ",
+      " 35 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Unter den Eichen 97, Lichterfelde, Berlin",
+    "id": "124024248",
+    "cold": "880 €",
+    "meter": "92,84 m²",
+    "transit": [
+      " 35 min  typically   ",
+      "40 min",
+      " 40 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Badstr. 28, Gesundbrunnen, Berlin",
+    "id": "127369521",
+    "cold": "580 €",
+    "meter": "45,58 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      "9 min",
+      "8 min",
+      "10 min"
+    ]
+  }
+]

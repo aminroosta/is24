@@ -1,0 +1,274 @@
+[
+  {
+    "address": "Bertolt-Brecht-Platz 2, Mitte (Ortsteil), Berlin",
+    "id": "90179379",
+    "cold": "2.200 €",
+    "meter": "116 m²",
+    "transit": [],
+    "cycling": [
+      "14 min",
+      "11 min",
+      "15 min"
+    ]
+  },
+  {
+    "address": "Falkenberger Str. 1, Weißensee, Berlin",
+    "id": "127021299",
+    "cold": "1.409,40 €",
+    "meter": "84,58 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 23 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 23 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Werderstraße 5b, Altglienicke, Berlin",
+    "id": "127284942",
+    "cold": "1.112 - 1.944 €",
+    "meter": "83,00 - 149,50 m²",
+    "transit": [
+      " 46 min  typically   ",
+      " 55 min  typically   ",
+      "58 min"
+    ],
+    "cycling": [
+      " 46 min  typically   ",
+      " 55 min  typically   ",
+      "58 min"
+    ]
+  },
+  {
+    "address": "Gräfestraße 80, Kreuzberg, Berlin",
+    "id": "95502260",
+    "cold": "2.565 €",
+    "meter": "125,56 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 27 min  typically   ",
+      "30 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Tempelhof, Berlin",
+    "id": "127015637",
+    "cold": "2.200 €",
+    "meter": "125,54 m²",
+    "transit": [
+      " 26 min  typically   ",
+      "32 min",
+      "33 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      "32 min",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Friedrich-Engels-Straße 41, Niederschönhausen, Berlin",
+    "id": "97541694",
+    "cold": "650 €",
+    "meter": "46 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 20 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      "24 min",
+      "22 min",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Regattastraße 168, Grünau, Berlin",
+    "id": "127305413",
+    "cold": "591 - 3.226 €",
+    "meter": "29,00 - 139,00 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 52 min  typically   ",
+      "53 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Kreuzberg, Berlin",
+    "id": "127117360",
+    "cold": "1.950 €",
+    "meter": "60 m²",
+    "transit": [
+      " 20 min  typically   ",
+      "26 min",
+      " 29 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Grolmanstraße 28, Charlottenburg, Berlin",
+    "id": "124721724",
+    "cold": "2.690 €",
+    "meter": "136 m²",
+    "transit": [],
+    "cycling": [
+      "31 min",
+      "33 min",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Siegfried-Hirschmann Park 3, Friedrichshain, Berlin",
+    "id": "127362607",
+    "cold": "1.450 €",
+    "meter": "70,78 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 24 min  typically   ",
+      "34 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schöneberg, Berlin",
+    "id": "127360511",
+    "cold": "390 €",
+    "meter": "31,5 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 21 min  typically   ",
+      "34 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Wolffring 16, Tempelhof, Berlin",
+    "id": "118780553",
+    "cold": "892,22 €",
+    "meter": "63,73 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 30 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 30 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Charlottenstraße 47, Lankwitz, Berlin",
+    "id": "127249278",
+    "cold": "1.150,80 €",
+    "meter": "60,54 m²",
+    "transit": [
+      " 39 min  typically   ",
+      "40 min",
+      " 44 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schnellerstraße 101c, Niederschöneweide, Berlin",
+    "id": "126559512",
+    "cold": "653 - 2.421 €",
+    "meter": "39,00 - 137,00 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 46 min  typically   ",
+      "49 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Prenzlauer Berg, Berlin",
+    "id": "112919105",
+    "cold": "1.760 €",
+    "meter": "80 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 11 min  typically   ",
+      "20 min"
+    ],
+    "cycling": [
+      "11 min",
+      "14 min",
+      "15 min"
+    ]
+  },
+  {
+    "address": "Am Carlsgarten 7, Karlshorst, Berlin",
+    "id": "126451993",
+    "cold": "709 - 1.267 €",
+    "meter": "41,00 - 91,00 m²",
+    "transit": [
+      " 37 min  typically   ",
+      "37 min",
+      "36 min"
+    ],
+    "cycling": [
+      "50 min",
+      "50 min",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Kranzallee  16, Westend, Berlin",
+    "id": "127247717",
+    "cold": "582,69 €",
+    "meter": "77,9 m²",
+    "transit": [
+      " 29 min  typically   ",
+      " 32 min  typically   ",
+      "47 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Bitscher Straße 11, Dahlem, Berlin",
+    "id": "124858234",
+    "cold": "4.760 €",
+    "meter": "238 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 37 min  typically   ",
+      "57 min"
+    ],
+    "cycling": [
+      "53 min",
+      "56 min",
+      "58 min"
+    ]
+  },
+  {
+    "address": "Landhausstraße 19, Wilmersdorf, Berlin",
+    "id": "125223420",
+    "cold": "858 - 2.396 €",
+    "meter": "36,53 - 115,46 m²",
+    "transit": [],
+    "cycling": [
+      "33 min",
+      "35 min",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Am Köllnischen Park 6, Mitte (Ortsteil), Berlin",
+    "id": "127119096",
+    "cold": "1.050 €",
+    "meter": "47 m²",
+    "transit": [
+      " 19 min  typically   ",
+      "23 min",
+      " 23 min  typically   "
+    ],
+    "cycling": []
+  }
+]

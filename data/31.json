@@ -1,0 +1,231 @@
+[
+  {
+    "address": "Hilda-Geiringer-Weg H3_05/12 2, Moabit, Berlin",
+    "id": "124878685",
+    "cold": "1.800 €",
+    "meter": "84 m²"
+  },
+  {
+    "address": "Hilda-Geiringer-Weg H3_04/01 8, Moabit, Berlin",
+    "id": "124878496",
+    "cold": "2.400 €",
+    "meter": "107 m²"
+  },
+  {
+    "address": "Hilda-Geiringer-Weg H3_06/07 6, Moabit, Berlin",
+    "id": "124877884",
+    "cold": "2.200 €",
+    "meter": "91 m²"
+  },
+  {
+    "address": "Auguststraße 48, Mitte (Ortsteil), Berlin",
+    "id": "124795566",
+    "cold": "2.600 €",
+    "meter": "139 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      "10 min",
+      "10 min",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Rixdorfer Str. 80, Mariendorf, Berlin",
+    "id": "124744439",
+    "cold": "904 €",
+    "meter": "56,5 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 34 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      "46 min",
+      "49 min",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Barbarastraße 4, Lankwitz, Berlin",
+    "id": "124729841",
+    "cold": "307,86 €",
+    "meter": "52,86 m²",
+    "transit": [
+      " 39 min  typically   ",
+      "41 min",
+      "40 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Invalidenstraße H4_06/08 79, Moabit, Berlin",
+    "id": "124473479",
+    "cold": "4.200 €",
+    "meter": "163 m²",
+    "transit": [
+      " 24 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schleusinger Str. 14, Marzahn, Berlin",
+    "id": "123795365",
+    "cold": "955,32 €",
+    "meter": "57,48 m²",
+    "transit": [
+      " 40 min  typically   ",
+      " 48 min  typically   ",
+      "55 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gaudystr. xx, Prenzlauer Berg, Berlin",
+    "id": "123401044",
+    "cold": "3.690 €",
+    "meter": "156,42 m²",
+    "transit": [
+      " 7 min  typically   ",
+      " 9 min  typically   ",
+      "15 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Alte Potsdamer Straße 13, Tiergarten, Berlin",
+    "id": "123200618",
+    "cold": "1.730 €",
+    "meter": "105 m²",
+    "transit": [],
+    "cycling": [
+      "18 min",
+      "23 min",
+      "20 min"
+    ]
+  },
+  {
+    "address": "Alte Potsdamer Straße 13, Tiergarten, Berlin",
+    "id": "123194763",
+    "cold": "1.650 €",
+    "meter": "101 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 15 min  typically   ",
+      "20 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Hilda-Geiringer-Weg H4_01/10 7, Moabit, Berlin",
+    "id": "123089714",
+    "cold": "1.800 €",
+    "meter": "98 m²"
+  },
+  {
+    "address": "Hilda-Geiringer-Weg H3_01/05 8, Moabit, Berlin",
+    "id": "122977169",
+    "cold": "2.500 €",
+    "meter": "139 m²"
+  },
+  {
+    "address": "Steglitzer Damm 24, Steglitz, Berlin",
+    "id": "122953308",
+    "cold": "1.380 €",
+    "meter": "97,71 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 37 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 37 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Röbellweg 2, Buch, Berlin",
+    "id": "122939926",
+    "cold": "1.840,68 €",
+    "meter": "153,39 m²",
+    "transit": [
+      "26 min",
+      " 30 min  typically   ",
+      " 34 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schöneberger Ufer 5, Kreuzberg, Berlin",
+    "id": "122815923",
+    "cold": "927,20 €",
+    "meter": "31,34 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 18 min  typically   ",
+      "28 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Genthinerstr. 46, Tiergarten, Berlin",
+    "id": "122590526",
+    "cold": "980 €",
+    "meter": "40 m²",
+    "transit": [
+      " 16 min  typically   ",
+      " 24 min  typically   ",
+      "33 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Schöneberger Ufer 5, Kreuzberg, Berlin",
+    "id": "120217373",
+    "cold": "1.006,49 €",
+    "meter": "34,75 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 18 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      "23 min",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Schöneberger Ufer 5, Kreuzberg, Berlin",
+    "id": "120216052",
+    "cold": "1.007,41 €",
+    "meter": "34,46 m²",
+    "transit": [
+      " 14 min  typically   ",
+      " 18 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 14 min  typically   ",
+      " 18 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Gerichtstraße 65, Gesundbrunnen, Berlin",
+    "id": "117299611",
+    "cold": "570 €",
+    "meter": "25,5 m²",
+    "transit": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ],
+    "cycling": [
+      "4 min"
+    ]
+  }
+]

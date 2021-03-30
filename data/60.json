@@ -1,0 +1,306 @@
+[
+  {
+    "address": "Voltairestraße 11, Mitte (Ortsteil), Berlin",
+    "id": "124376148",
+    "cold": "1.251,20 €",
+    "meter": "54,4 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "124290754",
+    "cold": "2.500 €",
+    "meter": "130 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "124288840",
+    "cold": "2.500 €",
+    "meter": "140 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Chausseestraße 108, Mitte (Ortsteil), Berlin",
+    "id": "124282419",
+    "cold": "1.430 €",
+    "meter": "52 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "14 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "14 min"
+    ]
+  },
+  {
+    "address": "Hultschiner Damm 248, Mahlsdorf, Berlin",
+    "id": "124276779",
+    "cold": "799 €",
+    "meter": "49 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 56 min  typically   ",
+      "1 hr"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Jülicher Str. 16, Gesundbrunnen, Berlin",
+    "id": "124258969",
+    "cold": "563 €",
+    "meter": "19,2 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Jülicher Str. 16, Gesundbrunnen, Berlin",
+    "id": "124181520",
+    "cold": "563 €",
+    "meter": "19,2 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "124136074",
+    "cold": "3.000 €",
+    "meter": "140 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Jülicher Str. 16, Gesundbrunnen, Berlin",
+    "id": "124089085",
+    "cold": "563 €",
+    "meter": "19,2 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Jülicher Str. 16, Gesundbrunnen, Berlin",
+    "id": "124089020",
+    "cold": "563 €",
+    "meter": "19,2 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "123972238",
+    "cold": "1.000 €",
+    "meter": "40 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "123971688",
+    "cold": "900 €",
+    "meter": "40 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "123943125",
+    "cold": "900 €",
+    "meter": "40 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Chausseestraße 35 b, Mitte (Ortsteil), Berlin",
+    "id": "123939274",
+    "cold": "1.833,02 €",
+    "meter": "130,93 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      "17 min"
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      "17 min"
+    ]
+  },
+  {
+    "address": "Dahlem, Berlin",
+    "id": "123743066",
+    "cold": "1.500 €",
+    "meter": "80,54 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 34 min  typically   ",
+      "47 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 34 min  typically   ",
+      "47 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "123520060",
+    "cold": "11.800 €",
+    "meter": "308 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Voltairestraße 11, Mitte (Ortsteil), Berlin",
+    "id": "123355426",
+    "cold": "1.305,60 €",
+    "meter": "54,4 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "24 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Brunsbüttler Damm 223d, Staaken, Berlin",
+    "id": "123340854",
+    "cold": "623,16 €",
+    "meter": "86,55 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 38 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      " 38 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Bayreuther Strasse 41, Schöneberg, Berlin",
+    "id": "123224898",
+    "cold": "515 €",
+    "meter": "20 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 19 min  typically   ",
+      "35 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Bayreuther Strasse 41, Schöneberg, Berlin",
+    "id": "123136661",
+    "cold": "515 €",
+    "meter": "20 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 19 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      "24 min",
+      "26 min",
+      "26 min"
+    ]
+  }
+]

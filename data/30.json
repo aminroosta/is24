@@ -1,0 +1,274 @@
+[
+  {
+    "address": "Kreuzberg, Berlin",
+    "id": "126133117",
+    "cold": "3.000 €",
+    "meter": "128 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Hilda-Geiringer-Weg H3_03/06 6, Moabit, Berlin",
+    "id": "126110610",
+    "cold": "2.680 €",
+    "meter": "132 m²"
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126054867",
+    "cold": "2.520 €",
+    "meter": "153 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Potsdamer Straße WE 11.07 4, Tiergarten, Berlin",
+    "id": "126014726",
+    "cold": "2.200 €",
+    "meter": "93 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "18 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Potsdamer Straße 10.09 4, Tiergarten, Berlin",
+    "id": "126014478",
+    "cold": "2.000 €",
+    "meter": "85 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "18 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Potsdamer Straße WE 8.11 4, Tiergarten, Berlin",
+    "id": "126014035",
+    "cold": "2.500 €",
+    "meter": "118 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 14 min  typically   ",
+      "18 min"
+    ],
+    "cycling": [
+      "17 min",
+      "22 min",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Potsdamer Straße WE 09.05 4, Tiergarten, Berlin",
+    "id": "126013601",
+    "cold": "2.100 €",
+    "meter": "91 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 15 min  typically   ",
+      "18 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 15 min  typically   ",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Potsdamer Straße WE 09.02 4, Tiergarten, Berlin",
+    "id": "126012191",
+    "cold": "3.100 €",
+    "meter": "139 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 15 min  typically   ",
+      "18 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Ernst-Barlach-Str. 29, Neu-Hohenschönhausen, Berlin",
+    "id": "125705655",
+    "cold": "157,64 €",
+    "meter": "26,1 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 27 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Auguste-Viktoria-Str. 79, Grunewald, Berlin",
+    "id": "125700917",
+    "cold": "9.200 €",
+    "meter": "420 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 30 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 30 min  typically   ",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Auguste-Viktoria-Str. 79, Grunewald, Berlin",
+    "id": "125700879",
+    "cold": "9.200 €",
+    "meter": "420 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 30 min  typically   ",
+      "49 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gerichtstraße 68, Gesundbrunnen, Berlin",
+    "id": "125689623",
+    "cold": "465 €",
+    "meter": "19,5 m²",
+    "transit": [
+      "9 min",
+      "12 min",
+      "12 min"
+    ],
+    "cycling": [
+      "9 min",
+      "12 min",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Gerichtstraße 66, Gesundbrunnen, Berlin",
+    "id": "125689392",
+    "cold": "435 €",
+    "meter": "18,25 m²",
+    "transit": [
+      "10 min",
+      "13 min",
+      "13 min"
+    ],
+    "cycling": [
+      "4 min",
+      "4 min",
+      "5 min"
+    ]
+  },
+  {
+    "address": "Stallschreiberstraße 16, Mitte (Ortsteil), Berlin",
+    "id": "125618323",
+    "cold": "1.800 €",
+    "meter": "83 m²",
+    "transit": [
+      " 20 min  typically   ",
+      "27 min",
+      "26 min"
+    ],
+    "cycling": [
+      "19 min",
+      "20 min",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Rixdorfer Str. 76, Mariendorf, Berlin",
+    "id": "125199133",
+    "cold": "911 €",
+    "meter": "56,96 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 40 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      "46 min",
+      "49 min",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Melli-Beese-Straße 64, Johannisthal, Berlin",
+    "id": "124900181",
+    "cold": "720 €",
+    "meter": "72 m²",
+    "transit": [],
+    "cycling": [
+      "1 hr 3 min",
+      "1 hr 3 min",
+      "1 hr 6 min"
+    ]
+  },
+  {
+    "address": "Melli-Beese-Straße 64, Johannisthal, Berlin",
+    "id": "124900180",
+    "cold": "340 €",
+    "meter": "34 m²",
+    "transit": [
+      " 40 min  typically   ",
+      " 43 min  typically   ",
+      "1 hr 4 min"
+    ],
+    "cycling": [
+      " 40 min  typically   ",
+      " 43 min  typically   ",
+      "1 hr 4 min"
+    ]
+  },
+  {
+    "address": "Melli-Beese-Straße 64, Johannisthal, Berlin",
+    "id": "124900179",
+    "cold": "461,50 €",
+    "meter": "71 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 51 min  typically   ",
+      "1 hr 4 min"
+    ],
+    "cycling": [
+      "1 hr 3 min",
+      "1 hr 3 min",
+      "1 hr 6 min"
+    ]
+  },
+  {
+    "address": "Melli-Beese-Straße 64, Johannisthal, Berlin",
+    "id": "124900178",
+    "cold": "351 €",
+    "meter": "54 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 50 min  typically   ",
+      "1 hr 4 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Hilda-Geiringer-Weg H3_06/04 8, Moabit, Berlin",
+    "id": "124879167",
+    "cold": "2.800 €",
+    "meter": "122 m²"
+  }
+]

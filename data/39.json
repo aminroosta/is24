@@ -1,0 +1,296 @@
+[
+  {
+    "address": "Lehrter Straße 24 B, Moabit, Berlin",
+    "id": "126950705",
+    "cold": "566 €",
+    "meter": "24,1 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Wilhelm-Kuhr-Straße 41, Gesundbrunnen, Berlin",
+    "id": "126950683",
+    "cold": "1.519 €",
+    "meter": "89 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "16 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "16 min"
+    ]
+  },
+  {
+    "address": "Jessnerstraße 27a, Friedrichshain, Berlin",
+    "id": "126950433",
+    "cold": "1.394 €",
+    "meter": "74 m²",
+    "transit": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 23 min  typically   ",
+      " 25 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Regattastraße  25, Grünau, Berlin",
+    "id": "126950253",
+    "cold": "1.296 €",
+    "meter": "76,5 m²",
+    "transit": [
+      " 51 min  typically   ",
+      " 54 min  typically   ",
+      "1 hr 6 min"
+    ],
+    "cycling": [
+      " 51 min  typically   ",
+      " 54 min  typically   ",
+      "1 hr 6 min"
+    ]
+  },
+  {
+    "address": "Brüder-Grimm-Gasse 4, Tiergarten, Berlin",
+    "id": "126934879",
+    "cold": "990 €",
+    "meter": "52,85 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 16 min  typically   ",
+      "21 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 16 min  typically   ",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Markgrafenstrasse 88, Kreuzberg, Berlin",
+    "id": "126920520",
+    "cold": "2.350 €",
+    "meter": "110 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 28 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 28 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Nestorstraße 50, Halensee, Berlin",
+    "id": "126805958",
+    "cold": "1.548 €",
+    "meter": "60,68 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 30 min  typically   ",
+      "42 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Michaelkirchstraße 21, Mitte (Ortsteil), Berlin",
+    "id": "126671378",
+    "cold": "643,73 €",
+    "meter": "19,14 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 19 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 19 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Michaelkirchstraße 21, Mitte (Ortsteil), Berlin",
+    "id": "126671257",
+    "cold": "736,59 €",
+    "meter": "27,71 m²",
+    "transit": [
+      " 18 min  typically   ",
+      " 19 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      " 19 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Wilhelmsaue  32, Wilmersdorf, Berlin",
+    "id": "126668577",
+    "cold": "2.200 €",
+    "meter": "123 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 26 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126501178",
+    "cold": "2.222,94 €",
+    "meter": "150,3 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Grünauer Straße 62, Köpenick, Berlin",
+    "id": "126491490",
+    "cold": "780 €",
+    "meter": "65,75 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 51 min  typically   ",
+      "56 min"
+    ],
+    "cycling": [
+      " 48 min  typically   ",
+      " 51 min  typically   ",
+      "56 min"
+    ]
+  },
+  {
+    "address": "Schützenstr. 41, Mitte (Ortsteil), Berlin",
+    "id": "126330797",
+    "cold": "1.100 €",
+    "meter": "52 m²",
+    "transit": [
+      " 16 min  typically   ",
+      "31 min",
+      "28 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126162637",
+    "cold": "4.456 €",
+    "meter": "222,8 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Höhmannstraße 5, Grunewald, Berlin",
+    "id": "126157008",
+    "cold": "3.293 €",
+    "meter": "178,57 m²",
+    "transit": [
+      " 30 min  typically   ",
+      " 35 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      " 30 min  typically   ",
+      " 35 min  typically   ",
+      "44 min"
+    ]
+  },
+  {
+    "address": "Stallschreiber Str. 24, Mitte (Ortsteil), Berlin",
+    "id": "125986176",
+    "cold": "1.200 €",
+    "meter": "63,62 m²",
+    "transit": [
+      " 19 min  typically   ",
+      "29 min",
+      "31 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      "29 min",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Hochjagdstr. 2, Waidmannslust, Berlin",
+    "id": "125933813",
+    "cold": "1.200 €",
+    "meter": "100 m²",
+    "transit": [
+      " 27 min  typically   ",
+      "29 min",
+      " 28 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Rudowerstraße 54, Altglienicke, Berlin",
+    "id": "125355231",
+    "cold": "1.350 €",
+    "meter": "120 m²",
+    "transit": [
+      " 49 min  typically   ",
+      " 56 min  typically   ",
+      "55 min"
+    ],
+    "cycling": [
+      " 49 min  typically   ",
+      " 56 min  typically   ",
+      "55 min"
+    ]
+  },
+  {
+    "address": "Kurfürstendamm 184, Charlottenburg, Berlin",
+    "id": "125192992",
+    "cold": "5.900 €",
+    "meter": "237,12 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "36 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Am See 8-22a, Schmöckwitz, Berlin",
+    "id": "125082733",
+    "cold": "1.350,58 €",
+    "meter": "122,78 m²"
+  }
+]

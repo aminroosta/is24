@@ -1,0 +1,282 @@
+[
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "113041652",
+    "cold": "455 €",
+    "meter": "19,5 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Charlottenstraße 19, Mitte (Ortsteil), Berlin",
+    "id": "112047870",
+    "cold": "1.307 €",
+    "meter": "38 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 15 min  typically   ",
+      "36 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Teltower Damm 199, Zehlendorf, Berlin",
+    "id": "109635828",
+    "cold": "968,77 €",
+    "meter": "69,05 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Alex-Wedding Straße 3, Mitte (Ortsteil), Berlin",
+    "id": "105939339",
+    "cold": "636 €",
+    "meter": "32,65 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 13 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Oberwallstraße 14, Mitte (Ortsteil), Berlin",
+    "id": "101773333",
+    "cold": "1.450 €",
+    "meter": "0 m²",
+    "transit": [
+      " 12 min  typically   ",
+      " 17 min  typically   ",
+      "23 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Kreuzberg, Berlin",
+    "id": "93245809",
+    "cold": "2.500 €",
+    "meter": "99 m²",
+    "transit": [
+      " 20 min  typically   ",
+      "27 min",
+      " 28 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Lichterfelde, Berlin",
+    "id": "68353849",
+    "cold": "3.708,33 €",
+    "meter": "326,89 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 42 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 42 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Teltower Damm 199, Zehlendorf, Berlin",
+    "id": "68353835",
+    "cold": "1.159,30 €",
+    "meter": "82,63 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Grabenstraße  8, Lichterfelde, Berlin",
+    "id": "66632175",
+    "cold": "368,21 €",
+    "meter": "34,77 m²",
+    "transit": [
+      " 41 min  typically   ",
+      "44 min",
+      "40 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Teltower Damm 189, Zehlendorf, Berlin",
+    "id": "61906295",
+    "cold": "1.097,29 €",
+    "meter": "78,21 m²",
+    "transit": [
+      " 42 min  typically   ",
+      " 43 min  typically   ",
+      "52 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "125331666",
+    "cold": "7.400 €",
+    "meter": "294 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Bayreuther Strasse 39, Schöneberg, Berlin",
+    "id": "123136513",
+    "cold": "615 €",
+    "meter": "20 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 18 min  typically   ",
+      "34 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Edisonstrasse 39, Oberschöneweide, Berlin",
+    "id": "127087740",
+    "cold": "560 €",
+    "meter": "58 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "51 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 44 min  typically   ",
+      "51 min"
+    ]
+  },
+  {
+    "address": "Mahlsdorfer Straße 15, Köpenick, Berlin",
+    "id": "127289897",
+    "cold": "600 €",
+    "meter": "69,06 m²",
+    "transit": [
+      " 45 min  typically   ",
+      "43 min",
+      "44 min"
+    ],
+    "cycling": [
+      " 45 min  typically   ",
+      "43 min",
+      "44 min"
+    ]
+  },
+  {
+    "address": "Badstr. 54, Gesundbrunnen, Berlin",
+    "id": "126899796",
+    "cold": "590 €",
+    "meter": "27,03 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Hauptstraße 12 a, Französisch Buchholz, Berlin",
+    "id": "127306174",
+    "cold": "873,56 €",
+    "meter": "107,45 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 25 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Cecilienstraße 184, Biesdorf, Berlin",
+    "id": "126833863",
+    "cold": "384 - 1.080 €",
+    "meter": "32,00 - 90,00 m²",
+    "transit": [
+      " 37 min  typically   ",
+      " 42 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      " 37 min  typically   ",
+      " 42 min  typically   ",
+      "53 min"
+    ]
+  },
+  {
+    "address": "Klarastraße 11, Oberschöneweide, Berlin",
+    "id": "111814657",
+    "cold": "541 €",
+    "meter": "71,45 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 45 min  typically   ",
+      "46 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      " 45 min  typically   ",
+      "46 min"
+    ]
+  },
+  {
+    "address": "Wegelystrasse 6a, Charlottenburg, Berlin",
+    "id": "119924754",
+    "cold": "1.325 €",
+    "meter": "62,18 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Wilmersdorf, Berlin",
+    "id": "127301801",
+    "cold": "2.000 €",
+    "meter": "85 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "32 min"
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "address": "Leibnizstraße 35a, Charlottenburg, Berlin",
+    "id": "127269332",
+    "cold": "484,47 €",
+    "meter": "66 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 24 min  typically   ",
+      "33 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Leibnizstraße 35a, Charlottenburg, Berlin",
+    "id": "127269324",
+    "cold": "393,72 €",
+    "meter": "50 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 23 min  typically   ",
+      "33 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Lehrter Str. 24B, Moabit, Berlin",
+    "id": "127269123",
+    "cold": "649 €",
+    "meter": "22,35 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Lehrter Str. 24B, Moabit, Berlin",
+    "id": "127269120",
+    "cold": "649 €",
+    "meter": "22,35 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Lehrter Str. 24B, Moabit, Berlin",
+    "id": "127269088",
+    "cold": "1.099 €",
+    "meter": "47,48 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      "12 min",
+      "14 min",
+      "11 min"
+    ]
+  },
+  {
+    "address": "Humboldtinsel 6, Tegel, Berlin",
+    "id": "127268524",
+    "cold": "1.135 €",
+    "meter": "63 m²",
+    "transit": [
+      " 24 min  typically   ",
+      " 26 min  typically   ",
+      "40 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "127267720",
+    "cold": "1.920 €",
+    "meter": "79,9 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 31 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      "36 min",
+      "39 min",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "127267631",
+    "cold": "1.920 €",
+    "meter": "79,9 m²",
+    "transit": [],
+    "cycling": [
+      "36 min",
+      "39 min",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "127267610",
+    "cold": "2.184 €",
+    "meter": "91,2 m²",
+    "transit": [],
+    "cycling": [
+      "36 min",
+      "39 min",
+      "40 min"
+    ]
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "127267603",
+    "cold": "2.184 €",
+    "meter": "91,2 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 31 min  typically   ",
+      "36 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "127267600",
+    "cold": "2.184 €",
+    "meter": "91,2 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 31 min  typically   ",
+      "36 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 31 min  typically   ",
+      "36 min"
+    ]
+  },
+  {
+    "address": "Brandenburgische Straße 54, Charlottenburg, Berlin",
+    "id": "127267332",
+    "cold": "1.920 €",
+    "meter": "79,9 m²",
+    "transit": [
+      " 26 min  typically   ",
+      " 31 min  typically   ",
+      "36 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Alt-Stralau 5, Friedrichshain, Berlin",
+    "id": "127266250",
+    "cold": "1.544 €",
+    "meter": "72,64 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "34 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Archibaldweg 12, Rummelsburg, Berlin",
+    "id": "127266193",
+    "cold": "713 €",
+    "meter": "15,23 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "32 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 29 min  typically   ",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Altonaer Straße 23, Hansaviertel, Berlin",
+    "id": "127264756",
+    "cold": "1.950 €",
+    "meter": "115,05 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "33 min"
+    ],
+    "cycling": [
+      "22 min",
+      "23 min",
+      "24 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "127264598",
+    "cold": "1.670 €",
+    "meter": "69 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 6 min  typically   "
+    ]
+  },
+  {
+    "address": "Röbellweg 26, Buch, Berlin",
+    "id": "127264422",
+    "cold": "363 €",
+    "meter": "33 m²",
+    "transit": [
+      "28 min",
+      " 30 min  typically   ",
+      " 35 min  typically   "
+    ],
+    "cycling": [
+      "57 min",
+      "58 min",
+      "54 min"
+    ]
+  },
+  {
+    "address": "Charlottenburg, Berlin",
+    "id": "127261653",
+    "cold": "1.380 €",
+    "meter": "57 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 25 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      "32 min",
+      "31 min",
+      "33 min"
+    ]
+  },
+  {
+    "address": "Tiergarten, Berlin",
+    "id": "127245185",
+    "cold": "1.403 €",
+    "meter": "90 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "28 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Moabit, Berlin",
+    "id": "127232436",
+    "cold": "1.500 €",
+    "meter": "68 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "24 min"
+    ],
+    "cycling": []
+  }
+]

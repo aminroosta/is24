@@ -1,0 +1,292 @@
+[
+  {
+    "address": "Kuhnertstr. 9, Wilhelmstadt, Berlin",
+    "id": "126970260",
+    "cold": "800 €",
+    "meter": "60 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 37 min  typically   ",
+      "49 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 37 min  typically   ",
+      "49 min"
+    ]
+  },
+  {
+    "address": "Petersburger Straße 39, Friedrichshain, Berlin",
+    "id": "127319400",
+    "cold": "1.422,20 €",
+    "meter": "71,11 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "29 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "29 min"
+    ]
+  },
+  {
+    "address": "Petersburger Straße 39, Friedrichshain, Berlin",
+    "id": "127319434",
+    "cold": "1.627,20 €",
+    "meter": "81,36 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "29 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Samoastraße 21, Wedding, Berlin",
+    "id": "126907316",
+    "cold": "699 €",
+    "meter": "37,56 m²",
+    "transit": [
+      " 8 min  typically   ",
+      " 9 min  typically   ",
+      " 10 min  typically   "
+    ],
+    "cycling": [
+      " 8 min  typically   ",
+      " 9 min  typically   ",
+      " 10 min  typically   "
+    ]
+  },
+  {
+    "address": "Emdener Str. 5, Moabit, Berlin",
+    "id": "102722658",
+    "cold": "600 €",
+    "meter": "50 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 17 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Wilhelmsaue 32, Wilmersdorf, Berlin",
+    "id": "125692343",
+    "cold": "1.200 €",
+    "meter": "74,24 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 28 min  typically   ",
+      "34 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Voßstr. 32, Mitte (Ortsteil), Berlin",
+    "id": "116919278",
+    "cold": "2.509,92 €",
+    "meter": "115,36 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 15 min  typically   ",
+      "24 min"
+    ],
+    "cycling": [
+      "15 min",
+      "17 min"
+    ]
+  },
+  {
+    "address": "Buntzelstraße 89, Bohnsdorf, Berlin",
+    "id": "84671052",
+    "cold": "405 €",
+    "meter": "45 m²",
+    "transit": [
+      " 46 min  typically   ",
+      " 54 min  typically   ",
+      "58 min"
+    ],
+    "cycling": [
+      " 46 min  typically   ",
+      " 54 min  typically   ",
+      "58 min"
+    ]
+  },
+  {
+    "address": "Straßburger Straße 40, Spandau (Ortsteil), Berlin",
+    "id": "126697367",
+    "cold": "999 - 1.800 €",
+    "meter": "65,00 - 110,00 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 34 min  typically   ",
+      "37 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Uhlandstraße 00, Wilmersdorf, Berlin",
+    "id": "106370462",
+    "cold": "1.050 €",
+    "meter": "50 m²",
+    "transit": [
+      " 22 min  typically   ",
+      " 24 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 22 min  typically   ",
+      " 24 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Voßstraße 26, Mitte (Ortsteil), Berlin",
+    "id": "117402450",
+    "cold": "1.758,07 €",
+    "meter": "88,91 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 15 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      "16 min",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Klara-Franke-Straße 21, Moabit, Berlin",
+    "id": "115510481",
+    "cold": "801 - 2.479 €",
+    "meter": "41,00 - 126,00 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Trendelenburgstraße 15, Charlottenburg, Berlin",
+    "id": "120490106",
+    "cold": "3.387,90 €",
+    "meter": "338,79 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 30 min  typically   ",
+      "39 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Unter den Eichen 97, Lichterfelde, Berlin",
+    "id": "84483254",
+    "cold": "748 €",
+    "meter": "79,72 m²",
+    "transit": [
+      " 36 min  typically   ",
+      "40 min",
+      " 42 min  typically   "
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Teichmummelring 55, Grünau, Berlin",
+    "id": "117757449",
+    "cold": "1.400 €",
+    "meter": "59,12 m²",
+    "transit": [
+      " 52 min  typically   ",
+      " 55 min  typically   ",
+      "56 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Lipschitzallee 40, Gropiusstadt, Berlin",
+    "id": "127172696",
+    "cold": "278,92 €",
+    "meter": "41,63 m²",
+    "transit": [
+      " 47 min  typically   ",
+      " 45 min  typically   ",
+      "53 min"
+    ],
+    "cycling": [
+      "1 hr",
+      "1 hr 4 min",
+      "1 hr 9 min"
+    ]
+  },
+  {
+    "address": "Emanuelstr. 5, Rummelsburg, Berlin",
+    "id": "127326873",
+    "cold": "765,55 €",
+    "meter": "84 m²",
+    "transit": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 31 min  typically   ",
+      " 32 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Kiefholzstr. 411, Alt-Treptow, Berlin",
+    "id": "127326131",
+    "cold": "391 €",
+    "meter": "53 m²",
+    "transit": [
+      " 38 min  typically   ",
+      "36 min",
+      "38 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      "36 min",
+      "38 min"
+    ]
+  },
+  {
+    "address": "Wilhelmsaue 32, Wilmersdorf, Berlin",
+    "id": "127325831",
+    "cold": "1.500 €",
+    "meter": "68,6 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 27 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Babelsberger Str. 50, Wilmersdorf, Berlin",
+    "id": "127325696",
+    "cold": "492,36 €",
+    "meter": "59,76 m²",
+    "transit": [],
+    "cycling": [
+      "33 min",
+      "32 min",
+      "35 min"
+    ]
+  }
+]

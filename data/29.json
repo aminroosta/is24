@@ -1,0 +1,258 @@
+[
+  {
+    "address": "Dünkelbergsteig 11, Schmargendorf, Berlin",
+    "id": "126722555",
+    "cold": "2.671 €",
+    "meter": "130,29 m²",
+    "transit": [
+      " 33 min  typically   ",
+      " 33 min  typically   ",
+      "53 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Fichtestraße 12, Kreuzberg, Berlin",
+    "id": "126719238",
+    "cold": "4.000 €",
+    "meter": "202 m²",
+    "transit": [
+      " 25 min  typically   ",
+      " 28 min  typically   ",
+      "37 min"
+    ],
+    "cycling": [
+      " 25 min  typically   ",
+      " 28 min  typically   ",
+      "37 min"
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126656476",
+    "cold": "1.314 €",
+    "meter": "43 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126656236",
+    "cold": "1.314 €",
+    "meter": "43 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126646607",
+    "cold": "1.488 €",
+    "meter": "47 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126644090",
+    "cold": "1.488 €",
+    "meter": "47 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Langhansstrasse 79, Weißensee, Berlin",
+    "id": "126564135",
+    "cold": "2.100 €",
+    "meter": "95,58 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 15 min  typically   ",
+      "29 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Gartenstraße WE 6.04 85, Gesundbrunnen, Berlin",
+    "id": "126481248",
+    "cold": "2.000 €",
+    "meter": "76 m²",
+    "transit": [
+      " 3 min  typically   ",
+      " 5 min  typically   ",
+      "6 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Romain-Rolland-Straße 69, Heinersdorf, Berlin",
+    "id": "126468715",
+    "cold": "696 €",
+    "meter": "29 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 21 min  typically   ",
+      "34 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "126393069",
+    "cold": "2.160 €",
+    "meter": "108 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 6 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Dunckerstraße 60, Prenzlauer Berg, Berlin",
+    "id": "126374286",
+    "cold": "2.815 €",
+    "meter": "102,36 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "18 min"
+    ],
+    "cycling": [
+      " 10 min  typically   ",
+      " 11 min  typically   ",
+      "18 min"
+    ]
+  },
+  {
+    "address": "Schöneberger Ufer 5 WE 1.1.3, Kreuzberg, Berlin",
+    "id": "126351071",
+    "cold": "1.007,41 €",
+    "meter": "34 m²"
+  },
+  {
+    "address": "Schöneberger Ufer 5 W 1.0.11, Kreuzberg, Berlin",
+    "id": "126350956",
+    "cold": "775,98 €",
+    "meter": "25 m²"
+  },
+  {
+    "address": "Schöneberger Ufer 5 WE 1.0.6, Kreuzberg, Berlin",
+    "id": "126350772",
+    "cold": "926,26 €",
+    "meter": "32 m²"
+  },
+  {
+    "address": "Potsdamer Straße WE 9.11 4, Tiergarten, Berlin",
+    "id": "126312049",
+    "cold": "2.600 €",
+    "meter": "118 m²"
+  },
+  {
+    "address": "Rudower Chaussee 5a-c, Adlershof, Berlin",
+    "id": "126206831",
+    "cold": "574 €",
+    "meter": "28 m²",
+    "transit": [
+      " 44 min  typically   ",
+      "48 min",
+      " 49 min  typically   "
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      "48 min",
+      " 49 min  typically   "
+    ]
+  },
+  {
+    "address": "Rudower Chaussee 5a-c, Adlershof, Berlin",
+    "id": "126206618",
+    "cold": "492 €",
+    "meter": "24 m²",
+    "transit": [
+      " 44 min  typically   ",
+      "49 min",
+      "48 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Rudower Chaussee 5a-c, Adlershof, Berlin",
+    "id": "126206431",
+    "cold": "856 €",
+    "meter": "65,96 m²",
+    "transit": [
+      " 44 min  typically   ",
+      "49 min",
+      "48 min"
+    ],
+    "cycling": [
+      " 44 min  typically   ",
+      "49 min",
+      "48 min"
+    ]
+  },
+  {
+    "address": "Gartenstraße WE 6.15 85, Gesundbrunnen, Berlin",
+    "id": "126169813",
+    "cold": "2.600 €",
+    "meter": "97 m²",
+    "transit": [
+      " 3 min  typically   ",
+      " 5 min  typically   ",
+      "6 min"
+    ],
+    "cycling": [
+      " 3 min  typically   ",
+      " 5 min  typically   ",
+      "6 min"
+    ]
+  },
+  {
+    "address": "Gartenstraße WE 6.01 85, Gesundbrunnen, Berlin",
+    "id": "126168709",
+    "cold": "1.670 €",
+    "meter": "64 m²",
+    "transit": [
+      " 3 min  typically   ",
+      " 5 min  typically   ",
+      "6 min"
+    ],
+    "cycling": []
+  }
+]

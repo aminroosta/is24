@@ -1,0 +1,310 @@
+[
+  {
+    "address": "Mitte (Ortsteil), Berlin",
+    "id": "119077085",
+    "cold": "1.100 €",
+    "meter": "36 m²",
+    "transit": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ],
+    "cycling": [
+      " 6 min  typically   ",
+      " 7 min  typically   ",
+      " 7 min  typically   "
+    ]
+  },
+  {
+    "address": "Wiltbergstr. 50 17c, Buch, Berlin",
+    "id": "118755785",
+    "cold": "693 €",
+    "meter": "69,09 m²",
+    "transit": [
+      "28 min",
+      " 30 min  typically   ",
+      " 35 min  typically   "
+    ],
+    "cycling": [
+      "28 min",
+      " 30 min  typically   ",
+      " 35 min  typically   "
+    ]
+  },
+  {
+    "address": "Bachstraße 1, Hansaviertel, Berlin",
+    "id": "118748756",
+    "cold": "1.340 €",
+    "meter": "67 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 18 min  typically   ",
+      "30 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 18 min  typically   ",
+      "30 min"
+    ]
+  },
+  {
+    "address": "Neue Grünstraße  39, Mitte (Ortsteil), Berlin",
+    "id": "118527571",
+    "cold": "1.979 €",
+    "meter": "98,92 m²",
+    "transit": [
+      " 18 min  typically   ",
+      "29 min",
+      "28 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      "29 min",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Wallstraße 19, Mitte (Ortsteil), Berlin",
+    "id": "118237108",
+    "cold": "1.600 €",
+    "meter": "46,64 m²",
+    "transit": [
+      " 21 min  typically   ",
+      " 22 min  typically   ",
+      "31 min"
+    ],
+    "cycling": [
+      " 21 min  typically   ",
+      " 22 min  typically   ",
+      "31 min"
+    ]
+  },
+  {
+    "address": "Winckelmannstraße 43, Johannisthal, Berlin",
+    "id": "118229045",
+    "cold": "680 €",
+    "meter": "53 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 47 min  typically   ",
+      "59 min"
+    ],
+    "cycling": [
+      " 48 min  typically   ",
+      " 47 min  typically   ",
+      "59 min"
+    ]
+  },
+  {
+    "address": "Mariendorfer Weg 34, Neukölln (Ortsteil), Berlin",
+    "id": "118111229",
+    "cold": "2.528,16 €",
+    "meter": "181,36 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 39 min  typically   ",
+      "44 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 39 min  typically   ",
+      "44 min"
+    ]
+  },
+  {
+    "address": "Breite Straße 42, 42A-B, Schmargendorf, Berlin",
+    "id": "117126387",
+    "cold": "729 €",
+    "meter": "33 m²",
+    "transit": [
+      " 32 min  typically   ",
+      " 30 min  typically   ",
+      "42 min"
+    ],
+    "cycling": [
+      " 32 min  typically   ",
+      " 30 min  typically   ",
+      "42 min"
+    ]
+  },
+  {
+    "address": "Friedrichshain, Berlin",
+    "id": "116996043",
+    "cold": "750 €",
+    "meter": "35 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ],
+    "cycling": [
+      " 20 min  typically   ",
+      " 22 min  typically   ",
+      "26 min"
+    ]
+  },
+  {
+    "address": "Böttgerstr. 23, Gesundbrunnen, Berlin",
+    "id": "116979593",
+    "cold": "430 €",
+    "meter": "22 m²",
+    "transit": [
+      " 3 min  typically   ",
+      "11 min",
+      "14 min"
+    ],
+    "cycling": [
+      " 3 min  typically   ",
+      "11 min",
+      "14 min"
+    ]
+  },
+  {
+    "address": "Scharnhorststraße 25, Mitte (Ortsteil), Berlin",
+    "id": "116808505",
+    "cold": "1.950 €",
+    "meter": "85 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 7 min  typically   ",
+      "19 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 7 min  typically   ",
+      "19 min"
+    ]
+  },
+  {
+    "address": "Romain-Rolland-Str 55, Heinersdorf, Berlin",
+    "id": "116266551",
+    "cold": "599 €",
+    "meter": "66,55 m²",
+    "transit": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 17 min  typically   ",
+      " 19 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Spandau (Ortsteil), Berlin",
+    "id": "116195822",
+    "cold": "1.650 €",
+    "meter": "114,79 m²",
+    "transit": [
+      " 29 min  typically   ",
+      "33 min",
+      "33 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Dossestr 0, Lichtenrade, Berlin",
+    "id": "116063790",
+    "cold": "1.595 €",
+    "meter": "151 m²",
+    "transit": [
+      " 43 min  typically   ",
+      "57 min",
+      "52 min"
+    ],
+    "cycling": [
+      " 43 min  typically   ",
+      "57 min",
+      "52 min"
+    ]
+  },
+  {
+    "address": "Neue Grünstraße  39, Mitte (Ortsteil), Berlin",
+    "id": "116018536",
+    "cold": "1.350 €",
+    "meter": "64,44 m²",
+    "transit": [
+      " 18 min  typically   ",
+      "29 min",
+      "28 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      "29 min",
+      "28 min"
+    ]
+  },
+  {
+    "address": "Pfeddersheimer Weg 63 A, Nikolassee, Berlin",
+    "id": "115921863",
+    "cold": "2.723,49 €",
+    "meter": "82,53 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 42 min  typically   ",
+      "59 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 42 min  typically   ",
+      "59 min"
+    ]
+  },
+  {
+    "address": "Adlershof, Berlin",
+    "id": "115919073",
+    "cold": "1.278,70 €",
+    "meter": "67,3 m²",
+    "transit": [
+      " 44 min  typically   ",
+      " 45 min  typically   ",
+      "48 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Pfeddersheimer Weg 65, Nikolassee, Berlin",
+    "id": "115559684",
+    "cold": "2.622 €",
+    "meter": "69,92 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 42 min  typically   ",
+      "59 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 42 min  typically   ",
+      "59 min"
+    ]
+  },
+  {
+    "address": "Zimmerstraße 93, Mitte (Ortsteil), Berlin",
+    "id": "115513337",
+    "cold": "1.748,46 €",
+    "meter": "76,02 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 16 min  typically   ",
+      "25 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Voßstraße 26, Mitte (Ortsteil), Berlin",
+    "id": "114992424",
+    "cold": "1.933,06 €",
+    "meter": "98,07 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 16 min  typically   ",
+      "22 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 16 min  typically   ",
+      "22 min"
+    ]
+  }
+]

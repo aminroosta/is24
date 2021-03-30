@@ -1,0 +1,305 @@
+[
+  {
+    "address": "Quartiersweg 6, Schöneberg, Berlin",
+    "id": "127359539",
+    "cold": "687,23 €",
+    "meter": "30 m²",
+    "transit": [
+      "28 min",
+      " 29 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      "28 min",
+      " 29 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Talstr. 5A, Pankow (Ortsteil), Berlin",
+    "id": "127358256",
+    "cold": "1.549 €",
+    "meter": "81,85 m²",
+    "transit": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 13 min  typically   ",
+      " 14 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Nürnberger Str. 68, Schöneberg, Berlin",
+    "id": "127255471",
+    "cold": "1.342 €",
+    "meter": "57,13 m²",
+    "transit": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "35 min"
+    ],
+    "cycling": [
+      " 15 min  typically   ",
+      " 17 min  typically   ",
+      "35 min"
+    ]
+  },
+  {
+    "address": "Antonienstr 7, Reinickendorf (Ortsteil), Berlin",
+    "id": "127255300",
+    "cold": "1.080 €",
+    "meter": "49,05 m²",
+    "transit": [],
+    "cycling": [
+      "28 min",
+      "32 min"
+    ]
+  },
+  {
+    "address": "Stallschreiber Straße 30, Mitte (Ortsteil), Berlin",
+    "id": "127254409",
+    "cold": "1.896 €",
+    "meter": "76,6 m²",
+    "transit": [
+      " 18 min  typically   ",
+      "28 min",
+      "27 min"
+    ],
+    "cycling": [
+      " 18 min  typically   ",
+      "28 min",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Rupertweg 5, Französisch Buchholz, Berlin",
+    "id": "127193127",
+    "cold": "1.000,80 €",
+    "meter": "80,09 m²",
+    "transit": [
+      " 27 min  typically   ",
+      " 29 min  typically   ",
+      "41 min"
+    ],
+    "cycling": [
+      " 27 min  typically   ",
+      " 29 min  typically   ",
+      "41 min"
+    ]
+  },
+  {
+    "address": "Alfred-Döblin-Straße 8, Marzahn, Berlin",
+    "id": "127161424",
+    "cold": "334,55 €",
+    "meter": "56,14 m²",
+    "transit": [
+      " 36 min  typically   ",
+      " 46 min  typically   ",
+      "55 min"
+    ],
+    "cycling": [
+      " 36 min  typically   ",
+      " 46 min  typically   ",
+      "55 min"
+    ]
+  },
+  {
+    "address": "Allee der Kosmonauten 151 D, Marzahn, Berlin",
+    "id": "127144459",
+    "cold": "533,21 €",
+    "meter": "63 m²",
+    "transit": [
+      " 35 min  typically   ",
+      " 36 min  typically   ",
+      "46 min"
+    ],
+    "cycling": [
+      " 35 min  typically   ",
+      " 36 min  typically   ",
+      "46 min"
+    ]
+  },
+  {
+    "address": "Boyenstraße 31, Mitte (Ortsteil), Berlin",
+    "id": "127134043",
+    "cold": "2.138,60 €",
+    "meter": "115,6 m²",
+    "transit": [
+      " 4 min  typically   ",
+      "16 min",
+      "19 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Triniusstraße 4, Oberschöneweide, Berlin",
+    "id": "127134024",
+    "cold": "429 €",
+    "meter": "57 m²",
+    "transit": [
+      " 38 min  typically   ",
+      " 40 min  typically   ",
+      "50 min"
+    ],
+    "cycling": [
+      " 38 min  typically   ",
+      " 40 min  typically   ",
+      "50 min"
+    ]
+  },
+  {
+    "address": "Thulestraße  38, Pankow (Ortsteil), Berlin",
+    "id": "127130410",
+    "cold": "1.007,85 €",
+    "meter": "67,19 m²",
+    "transit": [
+      " 11 min  typically   ",
+      " 12 min  typically   ",
+      "27 min"
+    ],
+    "cycling": [
+      " 11 min  typically   ",
+      " 12 min  typically   ",
+      "27 min"
+    ]
+  },
+  {
+    "address": "Invalidenstraße 6, Mitte (Ortsteil), Berlin",
+    "id": "127124540",
+    "cold": "1.384,75 €",
+    "meter": "55,39 m²",
+    "transit": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "12 min"
+    ],
+    "cycling": [
+      " 5 min  typically   ",
+      " 5 min  typically   ",
+      "12 min"
+    ]
+  },
+  {
+    "address": "Bellevuestraße  1, Tiergarten, Berlin",
+    "id": "127041967",
+    "cold": "1.850 €",
+    "meter": "97,36 m²",
+    "transit": [
+      " 10 min  typically   ",
+      " 13 min  typically   ",
+      "19 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Regattastraße  23, Grünau, Berlin",
+    "id": "126974124",
+    "cold": "689 €",
+    "meter": "37 m²",
+    "transit": [
+      " 48 min  typically   ",
+      " 52 min  typically   ",
+      "57 min"
+    ],
+    "cycling": [
+      " 48 min  typically   ",
+      " 52 min  typically   ",
+      "57 min"
+    ]
+  },
+  {
+    "address": "Bendastr. 11 A, Britz, Berlin",
+    "id": "126937866",
+    "cold": "839,96 €",
+    "meter": "73,04 m²",
+    "transit": [
+      " 34 min  typically   ",
+      " 39 min  typically   ",
+      "43 min"
+    ],
+    "cycling": [
+      " 34 min  typically   ",
+      " 39 min  typically   ",
+      "43 min"
+    ]
+  },
+  {
+    "address": "Löwenberger Straße  7, Friedrichsfelde, Berlin",
+    "id": "126929774",
+    "cold": "510,46 €",
+    "meter": "32,41 m²",
+    "transit": [
+      " 28 min  typically   ",
+      " 34 min  typically   ",
+      "45 min"
+    ],
+    "cycling": [
+      " 28 min  typically   ",
+      " 34 min  typically   ",
+      "45 min"
+    ]
+  },
+  {
+    "address": "Spreestraße 8a, Niederschöneweide, Berlin",
+    "id": "126929477",
+    "cold": "730,91 €",
+    "meter": "40,05 m²",
+    "transit": [
+      " 43 min  typically   ",
+      " 43 min  typically   ",
+      "46 min"
+    ],
+    "cycling": []
+  },
+  {
+    "address": "Müllerstraße 34, Wedding, Berlin",
+    "id": "126897145",
+    "cold": "516,54 €",
+    "meter": "18,84 m²",
+    "transit": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "21 min"
+    ],
+    "cycling": [
+      " 9 min  typically   ",
+      " 10 min  typically   ",
+      "21 min"
+    ]
+  },
+  {
+    "address": "Ansbacher Straße 30, Schöneberg, Berlin",
+    "id": "126886930",
+    "cold": "2.499 €",
+    "meter": "114 m²",
+    "transit": [
+      " 19 min  typically   ",
+      " 19 min  typically   ",
+      "34 min"
+    ],
+    "cycling": [
+      " 19 min  typically   ",
+      " 19 min  typically   ",
+      "34 min"
+    ]
+  },
+  {
+    "address": "Welserstraße 14, Schöneberg, Berlin",
+    "id": "126875556",
+    "cold": "1.956 €",
+    "meter": "97,8 m²",
+    "transit": [
+      " 20 min  typically   ",
+      " 20 min  typically   ",
+      "40 min"
+    ],
+    "cycling": [
+      "29 min",
+      "29 min",
+      "31 min"
+    ]
+  }
+]
